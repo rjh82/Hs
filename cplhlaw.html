@@ -581,7 +581,7 @@ function renderQuestion() {
     const q = questions[currentQuestion]; 
     const imageEl = document.getElementById("question-image"); 
     if (q.imageName) { 
-    imageEl.src = "images/" + q.imageName; 
+    imageEl.src = q.imageName; 
     imageEl.style.display = "block"; 
 } else { imageEl.style.display = "none"; 
 }
