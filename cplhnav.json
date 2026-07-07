@@ -1,0 +1,1438 @@
+{
+  "quizTitle": "CPL(H) Navigation Practice Exam",
+  "timePerQuestion": 20,
+  "numQuestions": 2,
+  "questions": [
+        {
+        "question": "The projection type used on a WAC (World Aeronautical Chart) is:",
+        "options": [
+            "stereographic",
+            "azimuthal",
+            "cylindrical",
+            "conical"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "WACs use a\u00a0Lambert Conformal Conic projection, which is a type of\u00a0conical projection.",
+        "kd": null
+    },
+    {
+        "question": "An example of an aviation chart using a mercator projection is a -",
+        "options": [
+            "TAC",
+            "VNC",
+            "WAC",
+            "ERC"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Rhumb lines on a VTC, appear as:",
+        "options": [
+            "curved lines",
+            "straight lines",
+            "curved lines at lower latitudes only",
+            "curved lines at the equator"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "On\u00a0conformal projections like the Lambert Conformal Conic, commonly used for VTCs, rhumb lines are represented as\u00a0straight lines, which aids in\u00a0navigation using constant headings.",
+        "kd": "Unit 1.7.2   2.3.4(b) measure rhumb line track"
+    },
+    {
+        "question": "What time is last light at Ayers Rock (YAYE) on the 28th of May?",
+        "options": [
+            "0826Z",
+            "0836Z",
+            "0859Z",
+            "0919Z"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.2   2.2.2 Determine with +/- 5 min the beginning and end of civil twilight from AIP daylight and darkness graphs"
+    },
+    {
+        "question": "What time is first light at YMMB (Moorabbin) on 25th of November?",
+        "options": [
+            "1759Z",
+            "1823Z",
+            "1845Z",
+            "1901Z"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.2   2.2.2 Determine with +/- 5 min the beginning and end of civil twilight from AIP daylight and darkness graphs"
+    },
+    {
+        "question": "What is the distance between the two paralells of longitude 143\u02daE and 144\u02daE at the equator?",
+        "options": [
+            "100nm",
+            "60nm",
+            "100km",
+            "120nm"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "At the\u00a0equator, the distance between\u00a0two meridians (parallels of longitude)\u00a0that are\u00a01 degree apart\u00a0is 60nm.",
+        "kd": "Unit 1.7.2   2.1.1(g) distance on the earth ie relationship between a minute of latitude and a nauitcal mile"
+    },
+    {
+        "question": "You are flying a leg of 67 NM with a groundspeed of 96 kt. How long will this leg take?",
+        "options": [
+            "39 minutes",
+            "41 minutes",
+            "42 minutes",
+            "45 minutes"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Time = 67 NM / 96 kt \u2248 0.698 hours, 0.698 hours \u00d7 60 = ~41.9 minutes",
+        "kd": "Unit 1.7.1   2.4.1(a) time interval using estimated GS and distance"
+    },
+    {
+        "question": "One nautical mile is equal to:",
+        "options": [
+            "1 degree of longitude",
+            "1 minute of longitude",
+            "1 degree of latitude",
+            "1 minute of latitude"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "One nautical mile is defined as the distance covered by\u00a0one minute of latitude\u00a0on the Earth\u2019s surface. This is consistent across all longitudes, making it ideal for navigation. Longitude spacing varies with latitude, but latitude spacing remains consistent \u2014 hence its use in defining the nautical mile.",
+        "kd": "Unit 1.7.2   2.1.1(g) distance on the earth ie relationship between a minute of latitude and a nauitcal mile"
+    },
+    {
+        "question": "The term 'civil twilight' is defined as",
+        "options": [
+            "The period before sunrise or after sunset where the midpoint of the sun disk is 6\u02da or less below the true horizon",
+            "The period before sunrise or after sunset where the midpoint of the sun disk is 6\u02da or less below the apparent horizon",
+            "The period before sunrise or after sunset where the midpoint of the sun disk is 12\u02da or less below the true horizon",
+            "The period before sunrise or after sunset where the midpoint of the sun disk is 12\u02da or less below the apparent horizon"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "When the Sun is between the horizon and 6\u00b0 below the horizon, either after sunset or before sunrise.",
+        "kd": "Unit 1.7.2   2.2.5(b) period of daylight"
+    },
+    {
+        "question": "You plan a flight from YMMB (Moorabbin) to YSHT (Shepparton) on the 10th June with a total flight time on 2 hours 10 minutes. What is the latest ETD from YMMB (Moorabbin)?",
+        "options": [
+            "1518LMT",
+            "1528LMT",
+            "1532LMT",
+            "1547LMT"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Last light at YSHT is 0738Z \nminus 10 minutes minus 2 hours and 10 minutes = 0518Z\n+1000 UTC = 1518LMT",
+        "kd": "Unit 1.7.2   2.2.2 Determine with +/- 5 min the beginning and end of civil twilight from AIP daylight and darkness graphs"
+    },
+    {
+        "question": "Given the following latitude/longtudes: \nA= 27.00S 150.00E\nB= 27.00S 135.00E\nIf the local mean time at position A is 1200, what is the local mean time for position B?",
+        "options": [
+            "1100",
+            "1130",
+            "1200",
+            "1230"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Both positions are on the same meridan. 1 degree meridian = 4 minutes. These two positions are located 15\u02da apart, therefore the time difference is 15 x 4 = 60 minutes",
+        "kd": null
+    },
+    {
+        "question": "Fuel at start 250L, fuel flow 48L/h, taxi allowance 7L. How much endurance will the aircraft have left after 14 minutes of flight (including reserves). Answer will ask in minutes.",
+        "options": [
+            "271minutes",
+            "289 minutes",
+            "291 minutes",
+            "295minutes"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "You have used 46L of fuel after 50 minutes of flight, what is your average fuel consumption?",
+        "options": [
+            "38L/hr",
+            "51L/hr",
+            "55L/hr",
+            "61L/hr"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "46/(50 / 60) = 51.5L/hr",
+        "kd": "Unit 1.7.2   2.4.1(a) Solve G/S, distance, fuel used, fuel required, fuel remaining and fuel consumption problems, given appropriate combinations of these factors"
+    },
+    {
+        "question": "You are at 9,000ft and 50 DME from your destination, due to high traffic you are required to reach 1000ft above the aerodrome. The elevation of the airport is 1500ft and your ground speed is 120 knots. What is the MINIMUM rate of descent required for a continuous descent?",
+        "options": [
+            "260fpm",
+            "310fpm",
+            "340fpm",
+            "363fpm"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "9000ft-1500ft-1000ft = 6500ft to lose\n(50nm/120kts)*60 = 25 mins\n6500ft/25 minutes = 260fpm",
+        "kd": "Unit 1.7.2   2.4.1(f) determine TOPC and TOPD position using average airspeed, W/V and rates of climb/descent"
+    },
+    {
+        "question": "What is the rated coverage of the NBD at Moorabbin airport over water during the day?",
+        "options": [
+            "50nm",
+            "60nm",
+            "65nm",
+            "75nm"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - YMMB FAC",
+        "kd": "Unit 1.7.2   2.6.2 Extract NDB and VOR information from ERSA or ERC and state the rated coverage of a VOR up to 10,000ft"
+    },
+    {
+        "question": "What is 30.5USG of AvGas in litres?",
+        "options": [
+            "116L",
+            "119L",
+            "121L",
+            "124L"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - GEN CON, 30.5USG x 3.8 = 115.9L", 
+        "kd": "Unit 1.7.2   2.4.3(d) US gal/litres/kg of AvGas"
+    },
+    {
+        "question": "What time is first light at YBAF (Archerfield) on 10th of June?",
+        "options": [
+            "1928Z",
+            "1935Z",
+            "1945Z",
+            "2008Z"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.2   2.2.2 Determine with +/- 5 min the beginning and end of civil twilight from AIP daylight and darkness graphs"
+    },
+    {
+        "question": "What time is last light at Parafield (YPPF) on the 3rd of March?",
+        "options": [
+            "0926Z",
+            "0936Z",
+            "0947Z",
+            "0959Z"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.2   2.2.2 Determine with +/- 5 min the beginning and end of civil twilight from AIP daylight and darkness graphs"
+    },
+    {
+        "question": "What is the rated coverage of the NBD at Shepparton airport  during the day?",
+        "options": [
+            "30nm",
+            "45nm",
+            "65nm",
+            "75nm"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - YSHT FAC",
+        "kd": "Unit 1.7.2   2.6.2 Extract NDB and VOR information from ERSA or ERC and state the rated coverage of a VOR up to 10,000ft"
+    },
+    {
+        "question": "What is the rated coverage of the NBD at Shepparton airport during the hours of night?",
+        "options": [
+            "30nm",
+            "45nm",
+            "65nm",
+            "75nm"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - YSHT FAC",
+        "kd": "Unit 1.7.2   2.6.2 Extract NDB and VOR information from ERSA or ERC and state the rated coverage of a VOR up to 10,000ft"
+    },
+    {
+        "question": "What is the rated coverage of the NBD at YPDN (Darwin) airport over water during the day?",
+        "options": [
+            "30nm",
+            "50nm",
+            "65nm",
+            "75nm"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - YPDN FAC",
+        "kd": "Unit 1.7.2   2.6.2 Extract NDB and VOR information from ERSA or ERC and state the rated coverage of a VOR up to 10,000ft"
+    },
+    {
+        "question": "What is the rated coverage of the NBD at YPDN (Darwin) airport over land during the day?",
+        "options": [
+            "30nm",
+            "50nm",
+            "65nm",
+            "75nm"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - YPDN FAC",
+        "kd": "Unit 1.7.2   2.6.2 Extract NDB and VOR information from ERSA or ERC and state the rated coverage of a VOR up to 10,000ft"
+    },
+    {
+        "question": "You plan a flight from YSBK (Bankstown) to YCNK (Cessnock) on the 10th June with a total flight time on 58 minutes. What is the latest ETD from YSBK (Bankstown)?",
+        "options": [
+            "1659LMT",
+            "1706LMT",
+            "1715LMT",
+            "1728LMT"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Last light at YSHT is 0837Z \nminus 10 minutes minus 59 minutes = 0728Z\n+1000 UTC = 1728LMT",
+        "kd": null
+    },
+    {
+        "question": "You have landed at St George and you want to cancel your SAR, what Brisbane frequency would you choose?",
+        "options": [
+            "121.5",
+            "118.95",
+            "126.70",
+            "243.0"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - YSGE FAC",
+        "kd": null
+    },
+    {
+        "question": "You are at Point A at Time 0200Z enroute to Point B which is a distance of 25nm, your flight plan has you arriving at Point B at time 0215Z however, you are 2 minutes late overhead Point B. Your next point (point C) is 50nm on the same track. Recalculate your revised ETA at Point C.",
+        "options": [
+            "02:37Z",
+            "02:44Z",
+            "02:51Z",
+            "02:55Z"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Calculate G/S = 25/(17/60) = 88.23kts,\n50nm/88.23kts = 0.5667 convert to minutes\n= 34 minutes\n12:17 + 34 minutes = 12:51",
+        "kd": null
+    },
+    {
+        "question": "Convert 305lb of JETA1 in litres:",
+        "options": [
+            "171L",
+            "173L",
+            "175L",
+            "177L"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - GEN CON",
+        "kd": "Unit 1.7.2   2.4.3(d) US gal/litres/kg of AvGas"
+    },
+    {
+        "question": "Convert 81L of AvGas in kilograms:",
+        "options": [
+            "58kg",
+            "62kg",
+            "113kg",
+            "118kg"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - GEN CON",
+        "kd": "Unit 1.7.2   2.4.3(d) US gal/litres/kg of AvGas"
+    },
+    {
+        "question": "Convert 214lb of AvGas in litres:",
+        "options": [
+            "126L",
+            "129L",
+            "132L",
+            "135L"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - GEN CON",
+        "kd": "Unit 1.7.2   2.4.3(c) lb/kg"
+    },
+    {
+        "question": "Convert 165kg of JETA1 in litres:",
+        "options": [
+            "132L",
+            "140L",
+            "206L",
+            "214L"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - GEN CON",
+        "kd": "Unit 1.7.2   2.4.3(d) US gal/litres/kg of AvGas"
+    },
+    {
+        "question": "Convert 24USG of JETA1 in kilograms:",
+        "options": [
+            "65kg",
+            "68kg",
+            "72kg",
+            "75kg"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Using ERSA - GEN CON\n= 24 x 3= 72",
+        "kd": "Unit 1.7.2   2.4.3(d) US gal/litres/kg of AvGas"
+    },
+    {
+        "question": "Convert 24USG of JETA1 in litres:",
+        "options": [
+            "72L",
+            "85L",
+            "91L",
+            "99L"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Using ERSA - GEN CON\n= 24 x 3.8= 91.2",
+        "kd": "Unit 1.7.2   2.4.3(d) US gal/litres/kg of AvGas"
+    },
+    {
+        "question": "",
+        "options": [
+            "8kts",
+            "10kts",
+            "12kts",
+            "14kts"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA GEN CON",
+        "kd": null
+    },
+    {
+        "question": "You are on approach to RWY12 at YTST (Truscott Mungulalu), the reported wind is 110/25. What is the crosswind component?",
+        "options": [
+            "1kt",
+            "3kts",
+            "5kts",
+            "10kts"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA GEN CON",
+        "kd": "Unit 1.7.2   2.4.4(b) conversion and wind component tables in ERSA"
+    },
+    {
+        "question": "You are on approach to RWY29 at an YPDN (Darwin), the reported wind is 260/15. What is the crosswind component?",
+        "options": [
+            "5kts",
+            "7kts",
+            "9kts",
+            "10kts"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA GEN CON",
+        "kd": "Unit 1.7.2   2.4.4(b) conversion and wind component tables in ERSA"
+    },
+    {
+        "question": "You are on approach to RWY17 at YMEN (Essendon), the reported wind is 260/14. What is the crosswind component?",
+        "options": [
+            "11kts",
+            "12kts",
+            "13kts",
+            "14kts"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA GEN CON",
+        "kd": "Unit 1.7.2   2.4.4(b) conversion and wind component tables in ERSA"
+    },
+    {
+        "question": "You are on approach to RWY17L at YMMB (Moorabbin), the reported wind is 210/11. What is the crosswind component?",
+        "options": [
+            "5kt",
+            "6kts",
+            "9kts",
+            "11kts"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA GEN CON",
+        "kd": "Unit 1.7.2   2.4.4(b) conversion and wind component tables in ERSA"
+    },
+    {
+        "question": "During winter in the Southern Hemisphere, the Local Mean Time (LMT) of End of Daylight (EOD) will occur earlier at the destination than at the departure point for a flight that travels in which direction?",
+        "options": [
+            "North",
+            "South",
+            "East",
+            "West"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "You are at Point A at Time 2215Z enroute to Point B which is a distance of 36nm, planning to arrive at B at time 2243Z however, you are 2 min early at B. B to C =  41nm. Recalculate your revised ETA at C.",
+        "options": [
+            "22:59",
+            "23:03",
+            "23:09",
+            "23:13"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Calculate G/S = 36/(26/60) = 83.08kts,\n41nm/83.08kts = 0.4935convert to minutes\n= 29.6 minutes\n22:43 + 30 minutes = 23:13",
+        "kd": null
+    },
+    {
+        "question": "Your flight planned track is: 343\u02da however you discover your track made good is 339\u02da. Your track error is:",
+        "options": [
+            "4\u02daL",
+            "4\u02daR",
+            "6\u02da",
+            "10\u02daR"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Find the TAS (True Airspeed) given the following:\nCruise Altitude: A055\nOAT: 22\u02daC\nCAS: 110kts",
+        "options": [
+            "108kts",
+            "116kts",
+            "122kts",
+            "127kt"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Using the CR3 computer, set the inner scale pressure altitude with temperature, then line out the outer scale CAS",
+        "kd": "Unit 1.7.2   solve CAS/TAS problems given air temperature and pressure height"
+    },
+    {
+        "question": "Find the TAS (True Airspeed) given the following:\nCruise Altitude: A095\nOAT: 12\u02daC\nCAS: 130kts",
+        "options": [
+            "137kts",
+            "143kts",
+            "149kts",
+            "154kt"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Using the CR3 computer",
+        "kd": "Unit 1.7.2   solve CAS/TAS problems given air temperature and pressure height"
+    },
+    {
+        "question": "Find the TAS (True Airspeed) given the following:\nCruise Altitude: A085\nOAT: 8\u02daC\nCAS: 185kts",
+        "options": [
+            "206kts",
+            "209kts",
+            "213kts",
+            "218kts"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Using the CR3 computer",
+        "kd": "Unit 1.7.2   solve CAS/TAS problems given air temperature and pressure height"
+    },
+    {
+        "question": "Find the TAS (True Airspeed) given the following:\nCruise Altitude: A025\nOAT: -8\u02daC\nCAS: 165kts",
+        "options": [
+            "157kts",
+            "161kts",
+            "166kts",
+            "171kts"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.2   solve CAS/TAS problems given air temperature and pressure height"
+    },
+    {
+        "question": "Find the TAS (True Airspeed) given the following:\nCruise Altitude: A055\nOAT: 32\u02daC\nCAS: 140kts",
+        "options": [
+            "151kts",
+            "156kt",
+            "162kts",
+            "166kts"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.2   solve CAS/TAS problems given air temperature and pressure height"
+    },
+    {
+        "question": "You are flying at 1,500ft, your OAT is reading 24\u02daC and your ground speed is 120kts. After 45 minutes, you realise that you are 3nm off track, what is your track error?",
+        "options": [
+            "2\u02da",
+            "3\u02da",
+            "4\u02da",
+            "6\u02da"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "1 in 60 rule. After 60nm  of travel, you are 2nm off track",
+        "kd": null
+    },
+    {
+        "question": "You are flying at 3,500ft, your OAT is reading 14\u02daC and your ground speed is 120kts. After 30 minutes, you realise that you are 2nm off track, what is your track error?",
+        "options": [
+            "2\u02da",
+            "3\u02da",
+            "4\u02da",
+            "6\u02da"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "1 in 60 rule. After 60nm  of travel, you are 2nm off track",
+        "kd": null
+    },
+    {
+        "question": "True Heading is 316\u02da with a magnetic variation of 12\u02da East, what is the magnetic heading?",
+        "options": [
+            "304\u02da",
+            "316\u02da",
+            "328\u02da"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Remember = East is least and West is best",
+        "kd": null
+    },
+    {
+        "question": "True Heading is 006\u02da with a magnetic variation of 12\u02da East, what is the magnetic heading?",
+        "options": [
+            "354\u02da",
+            "356\u02da",
+            "006\u02da",
+            "018\u02da"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "What is the expected CAS when flight planning with the following details:\nCruise Altitude: A065\nOAT: 16\u02daC\nTAS: 130kts",
+        "options": [
+            "115kts",
+            "121kt",
+            "126kt",
+            "129kt"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "An aircraft flying at 8,500ft with an OAT of 17\u02daC and a IAS of 115kts. With 98nm remaining on its journey and a 20kt headwind, how will it take to reach to the destination?",
+        "options": [
+            "48 minutes",
+            "51 minutes",
+            "53 minutes",
+            "56 minutes"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Using the CR3, the TAS is 135kts, therefore ground speed is 115kt\n98/115) x 60 = 51 minutes",
+        "kd": null
+    },
+    {
+        "question": "An aircraft has 72 nm to cover in the next 34 minutes in a 20 kt head wind. What CAS would be required at A085 if the temperature at cruising level is -2\u00b0C ?",
+        "options": [
+            "127kt",
+            "131kt",
+            "144kt",
+            "151kt"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "First step is to work out the requied GS.\n=72/(34/60) = 130.6kts \nNow to factor the 20kt wind = 130.6+20=150.6kt TAS required\nusing the CR3, the required CAS is 131kt",
+        "kd": "Unit 1.7.2   2.4.1(b) solve CAS/TAS problems given air temperature and pressure height"
+    },
+    {
+        "question": "Given the following:\nFlight from Point A to Point B = 247nm\nFlight Fuel Available: 160L\nFuel flow: 65L/hr\nWhat is the minimum ground speed for this flight to proceed?",
+        "options": [
+            "91kts",
+            "100kts",
+            "104kts",
+            "109kts"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "160/65 = 2.46 hours of endurance\n247nm/2.46 = 100.4kts",
+        "kd": null
+    },
+    {
+        "question": "How do radio waves travel?",
+        "options": [
+            "Along a great circle track",
+            "along a rhumb line track",
+            "along a meridian",
+            "along a magnetic track"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "How long does it take for the sun to cross to two consecutive meridians?",
+        "options": [
+            "1 minute",
+            "2 minutes",
+            "4 minutes",
+            "10 minutes"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "There are 1440 minutes in a day and 360 meridans. 1440 divided by 360 = 4 minutes per meridian",
+        "kd": null
+    },
+    {
+        "question": "A day VFR flight should not depart if the planned ETA to its final destination is no later than:",
+        "options": [
+            "EOD",
+            "time of sunset",
+            "10 minutes before EOD",
+            "10 minutes after EOD provided runway lights are on"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP",
+        "kd": null
+    },
+    {
+        "question": "Given the following:\nFlight Planned Track: 216\u02daM\nWind: 170\u02daT/22kt\nMagnetic Variation: 8\u02daE\nTAS = 140kts\nWhat is the heading to fly?",
+        "options": [
+            "200\u02daM",
+            "206\u02daM",
+            "209\u02daM",
+            "213\u02daM"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The crosswind component is 17kts. At TAS of 140kt, this eqautes to a correction of 7\u02da",
+        "kd": null
+    },
+    {
+        "question": "Given the following:\nFlight Planned Track: 216\u02daM\nWind: 170\u02daT/22kt\nMagnetic Variation: 8\u02daE\nTAS = 140kts\nWhat is the expected ground speed?",
+        "options": [
+            "118kts",
+            "125kt",
+            "128kt",
+            "131kt"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The headwind component is approximately 12kts, therefore ground speed will be 140 - 12 = 128kts",
+        "kd": "Unit 1.7.2   2.4.1(c) determine HDG, GS and drift given TAS, W/V, TR"
+    },
+    {
+        "question": "Given the following:\nA = 22˚S 150˚E\nB= 22.00˚S 144.00˚E\nC= 25.00˚S 150.00˚E\nD= 25.00˚S 144.00˚E\nComparing the distances between Point A to Point B, and Point C to Point D?",
+        "options": [
+            "A to B is equal to C to D",
+            "A to B is greater than C to D",
+            "A to B is less than C to D"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Refer to the AUS PCA - You are have landed at YKAL (Kalumburu), which frequency should you cancel your SARwatch?",
+        "options": [
+            "121.5",
+            "8843",
+            "126.70",
+            "121.85"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Refer to PCA",
+        "kd": null
+    },
+    {
+        "question": "Refer to the AUS PCA - You are have landed at YAYE (Ayers Rock), which frequency should you cancel SARwatch?",
+        "options": [
+            "121.5",
+            "8843",
+            "126.70",
+            "121.85"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Refer to PCA",
+        "kd": null
+    },
+    {
+        "question": "You have departed Point A on a flight planned track of 075\u02da at time 0622 with a planned ground speed of 100kts, however at 0652 are 5nm to the left of your flight planned track. The total trip from Point A to Point B is 110nm, what heading change is required to ensure arriving overhead at Point B?",
+        "options": [
+            "6\u02daR",
+            "9\u02daR",
+            "11\u02daR",
+            "12\u02daR"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The Track Error is 6\u02da",
+        "kd": null
+    },
+    {
+        "question": "Given the following:\nFlight Planned Track: 047\u02daM\nWind: 175\u02daT/25kt\nMagnetic Variation: 2\u02daE\nTAS = 125kts\nWhat is the heading to fly?",
+        "options": [
+            "049\u02daM",
+            "056\u02daM",
+            "059\u02daM",
+            "061\u02daM"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The crosswind component is 20kts. At TAS of 125kt, this eqautes to a correction of 9\u02da",
+        "kd": "Unit 1.7.2   2.4.1(c) determine HDG, GS and drift given TAS, W/V, TR"
+    },
+    {
+        "question": "Given the following:\nFlight Planned Track: 234\u02daM\nWind: 308\u02daT/18kt\nMagnetic Variation: 6\u02daW\nTAS = 160kts\nWhat is the correct heading to fly?",
+        "options": [
+            "236\u02daM",
+            "238\u02daM",
+            "240\u02daM",
+            "243\u02daM"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The crosswind component is 17kts. At TAS of 125kt, this eqautes to a correction of 6\u02da. Since the crosswind is from the right, the heading will need to be increased. 234 + 9 = 243\u02da",
+        "kd": "Unit 1.7.2   2.4.1(c) determine HDG, GS and drift given TAS, W/V, TR"
+    },
+    {
+        "question": "With a planned fuel burn is 65L/hr, if you have started with 115L, how much fuel will you have after 47 minutes?",
+        "options": [
+            "43L",
+            "48L",
+            "53L",
+            "64L"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "(47/60) x 65 = 51L\n115 - 51 = 64L",
+        "kd": "Unit 1.7.2   2.4.1(a) Solve G/S, distance, fuel used, fuel required, fuel remaining and fuel consumption problems, given appropriate combinations of these factors"
+    },
+    {
+        "question": "You fly a track of 225\u00b0 with a TAS of 118 kt. The wind is from 140\u00b0 at 30 kt. How long will it take to fly 65 NM?",
+        "options": [
+            "33 minutes",
+            "34 minutes",
+            "35 minutes",
+            "36 minutes"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "wind angle = 85\u00b0. Headwind \u2248 30 \u00d7 cos(85\u00b0) \u2248 2.6 kt. Crosswind \u2248 30 \u00d7 sin(85\u00b0) \u2248 29.8 kt. GS \u2248 115\u2013116 kt. Time = 65 / 115 \u2248 0.565 hr = 34 minutes.",
+        "kd": null
+    },
+    {
+        "question": "You plan to arrive at a remote strip at 1725. Official last light is at 1728. Upon checking NOTAMs, you find the strip has no lighting. What should you do?",
+        "options": [
+            "Land as planned since you\u2019ll arrive before last light",
+            "Delay arrival until after sunset to assess lighting conditions",
+            "Divert or reschedule to ensure landing well before last light,",
+            "Proceed only if the aircraft is approved for night VFR"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "First light at your departure aerodrome is at 0613 local. You plan to depart at 0610 to meet a tight schedule. What is required for the flight to be legal?",
+        "options": [
+            "Departure is legal as long as civil twilight is within 10 minutes",
+            "Departure must be delayed until 0613 or later for VFR",
+            "Aircraft must have position lights turned on",
+            "Departure is legal if sunrise is before 0630"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "VFR departure is only legal at or after first light. A 0610 departure is 3 minutes too early, even if light conditions seem adequate",
+        "kd": null
+    },
+    {
+        "question": "After flying 20 NM, you estimate a track error of 3\u00b0. What is your estimated displacement from track?",
+        "options": [
+            "1nm",
+            "2nm",
+            "3nm",
+            "4nm"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Using the 1 in 60 rule, a 3\u00b0 track error over 60nm equates to a displacement of 3nm from the intended track. At 20nm, the displacement would be 1nm.",
+        "kd": null
+    },
+    {
+        "question": "One nautical mile equals:",
+        "options": [
+            "1.852km",
+            "1.66km",
+            "1.1km",
+            "2.21km"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A\u00a0nautical mile\u00a0is 1.852km and is based on the Earth's circumference and corresponds to\u00a0one minute of latitude. It is the standard unit of distance used in\u00a0aviation and maritime navigation.",
+        "kd": null
+    },
+    {
+        "question": "On a mercator chart, rhumb lines appear:",
+        "options": [
+            "Straight line",
+            "curved towards the nearest pole",
+            "curved away from the nearest pole"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.2   2.3.5(a) appearance of rhumb lines, great circles, meridians and the graticule"
+    },
+    {
+        "question": "Given:\nDistance from A to B = 100nm\nA position fix is aquired at 40nm along and you are 6nm right of track.\nWhat is the change of heading required to arrive at Point B?",
+        "options": [
+            "6\u02daL",
+            "9\u02daL",
+            "12\u02daL",
+            "15\u02daL"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 2,
+        "explanation": "Using the 1 in 60 rule, 6nm divided by 40nm x 60 = 9\u02da track error. Therefore at 40nm, the track error is 9\u02da with a remaining distance of 60nm. Once again using the 1 in 60 rule, a further track change of 6 will result in a displacement of 6nm from the intended track. At 40nm, the displacement would be 4nm. To correct this, the heading will need to be changed by 15\u02da to the left.",
+        "kd": null
+    },
+    {
+        "question": "On a Lambert Conformal Conic chart, how does a rhumb line (constant true bearing) typically appear?",
+        "options": [
+            "As a straight line",
+            "As a curved line concave to the equator",
+            "As a curved line convex to the equator",
+            "As a series of straight segments"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "On a Lambert Conformal Conic projection, rhumb lines appear as curves concave toward the equator because the projection preserves angles but distorts shapes progressively away from standard parallels.",
+        "kd": "Unit 1.7.2   2.3.5(a) appearance of rhumb lines, great circles, meridians and the graticule"
+    },
+    {
+        "question": "How does a great circle route appear on a Lambert Conformal Conic projection?",
+        "options": [
+            "As a straight line",
+            "As a curved line concave to the equator",
+            "As a curved line convex to the equator",
+            "As a series of straight segments"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The Lambert Conformal projection displays great circles as straight lines, which is why it's highly suitable for aviation route planning over mid-latitudes.",
+        "kd": "Unit 1.7.2   2.3.5(a) appearance of rhumb lines, great circles, meridians and the graticule"
+    },
+    {
+        "question": "If a pilot flies a constant true heading, how will their track appear on a Lambert Conformal chart?",
+        "options": [
+            "As a straight line",
+            "As a curved line concave to the equator",
+            "As a curved line convex to the equator",
+            "As a series of straight segments"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A constant heading (rhumb line) appears as a curve concave to the equator on a Lambert chart, since only great circles appear straight on this projection.",
+        "kd": "Unit 1.7.2   2.3.5(a) appearance of rhumb lines, great circles, meridians and the graticule"
+    },
+    {
+        "question": "What would a pilot observe on the ADF indicator when approaching a thunderstorm?",
+        "options": [
+            "Steady needle indication towards the NDB",
+            "Needle fluctuations or erratic movements",
+            "Needle frozen in place",
+            "No change \u2014 thunderstorms do not affect ADF"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Thunderstorms produce electrical discharges that can interfere with ADF signals, causing the needle to swing unpredictably.",
+        "kd": "Unit 1.7.2   2.6.3(c) effect of a thunderstorm"
+    },
+    {
+        "question": "Which condition can lead to coastal refraction errors in ADF indications?",
+        "options": [
+            "Flying at high altitude over land",
+            "Tracking directly along the coast",
+            "Using ADF on VHF frequencies",
+            "NDB signal crossing coastlines at an oblique angle"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "When NDB signals cross coastlines at shallow angles, refraction can bend the signal path, causing erroneous ADF bearings \u2014 especially in coastal regions.",
+        "kd": "Unit 1.7.2   2.6.3(d) coastal refraction"
+    },
+    {
+        "question": "Which of the following is NOT a typical ADF error?",
+        "options": [
+            "Dip error",
+            "Night effect",
+            "Quadrantal error",
+            "Mountain effect"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Dip error\u00a0is specific to magnetic compasses, not ADFs. The other options are all recognized ADF error types.",
+        "kd": null
+    },
+    {
+        "question": "In which phase of flight is VOR scalloping most likely to be encountered?",
+        "options": [
+            "At high altitudes over open ocean",
+            "During approach or low-altitude enroute near terrain or urban areas",
+            "Only when stationary on the ground",
+            "During cruise above FL350"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "At low altitudes, especially near hills, mountains, or cities, VOR signals are more prone to reflections, increasing the likelihood of scalloping.",
+        "kd": "Unit 1.7.2   2.6.5 Recall the aggregate error of a VOR and explain what is meant by scalloping"
+    },
+    {
+        "question": "What effect can coastal refraction have on the indications provided by an ADF in the cockpit?",
+        "options": [
+            "Coastal refraction may cause the ADF pointer to eliminate all display interference in operation.",
+            "Coastal refraction may cause the ADF pointer to remain frozen on one bearing position.",
+            "Coastal refraction may cause the ADF pointer to indicate the station's bearing correctly each time.",
+            "Coastal refraction may cause the ADF pointer to show bearings off from the transmitter location."
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Coastal refraction bends radio waves near shorelines, which causes the ADF to display a bearing that is not the true direction to the transmitting station.",
+        "kd": "Unit 1.7.2   2.6.3(d) coastal refraction"
+    },
+    {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "Military control zone",
+            "Class E Airspace boundary",
+            "Marine Light",
+            "VFR Route"
+        ],
+        "correct": 3,
+        "imageName": "vfr route.jpeg",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+    },
+    {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "Military control zone",
+            "Class E Airspace boundary",
+            "Powerlines",
+            "VFR Route"
+        ],
+        "correct": 2,
+        "imageName": "powerline.jpeg",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+    },
+    {
+        "question": "Refer to the Gold Coast VTC:\nBeside SPRINGBROOK there is a purple diamond symbol with half of it solid purple. What does this symbol represent?",
+        "options": [
+            "Reporting Point",
+            "Tracking Point",
+            "Checkpoint",
+            "VFR Approach Point"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+    },
+    {
+        "question": "On a VNC, what does the below symbol represent?",
+        "options": [
+            "NDB",
+            "TACAN",
+            "VOR",
+            "Unlit Obstacle"
+        ],
+        "correct": 2,
+        "imageName": "vor.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+    },
+    {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "TACAN",
+            "Unlit obstacle",
+            "Lit obstacle",
+            "VOR"
+        ],
+        "correct": 1,
+        "imageName": "obstacle.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+        {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "VOR",
+            "DME",
+            "Lit obstacle",
+            "NDB"
+        ],
+        "correct": 3,
+        "imageName": "ndb.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+
+        {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "Model Aircraft Operations",
+            "Helicopter Operations",
+            "Hang Glider Operations",
+            "Ultralight Operations"
+        ],
+        "correct": 2,
+        "imageName": "hangglider.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+
+        {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "Blasting",
+            "Flammable gases",
+            "Fire Station",
+            "Frequent Fires"
+        ],
+        "correct": 0,
+        "imageName": "blasting.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+
+        {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "Navigation Aid",
+            "Aerodrome",
+            "Aerodrome (Not registered or certitified)",
+            "Helicopter Landing Site"
+        ],
+        "correct": 2,
+        "imageName": "uncertified.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+
+        {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "Railway",
+            "Abandoned railway or under construction",
+            "Class E Airspace boundary",
+            "Major road"
+        ],
+        "correct": 1,
+        "imageName": "abandonedrail.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+
+        {
+        "question": "On a PCA, what does the below symbol represent?",
+        "options": [
+            "No VHF coverage at 5,000ft",
+            "Estimated VHF coverage at 10,000ft (emergency use only)",
+            "Estimated VHF coverage at 5,000ft",
+            "Estimated VHF coverage at 10,000ft"
+        ],
+        "correct": 3,
+        "imageName": "10000VHF.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+
+            {
+        "question": "On a PCA, what does the below symbol represent?",
+        "options": [
+            "No VHF coverage at 5,000ft",
+            "Estimated VHF coverage at 10,000ft (emergency use only)",
+            "Estimated VHF coverage at 5,000ft",
+            "Estimated VHF coverage at 10,000ft"
+        ],
+        "correct": 3,
+        "imageName": "10000emerg.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+
+     {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "VOR",
+            "NDB",
+            "Unlit Obstacle",
+            "Golf Course"
+        ],
+        "correct": 3,
+        "imageName": "golf.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+
+      {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "Broadcast Area Boundary",
+            "Class C & D Boundary",
+            "Class E Airspace boundary",
+            "Class G Frequency Boundary"
+        ],
+        "correct": 3,
+        "imageName": "broadcastbound.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+
+    
+      {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "Holding Pattern",
+            "Racetrack",
+            "Quarry",
+            "Uncertified Aerodrome"
+        ],
+        "correct": 3,
+        "imageName": "racetrack.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+
+      {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "Broadcast Area Boundary",
+            "Class C & D Boundary",
+            "Class E Airspace boundary",
+            "Class G Frequency Boundary"
+        ],
+        "correct": 1,
+        "imageName": "classcd.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+
+         {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "Class E Frequency boundary",
+            "Class C & D Boundary",
+            "Class E Airspace boundary",
+            "Class G Frequency Boundary"
+        ],
+        "correct": 2,
+        "imageName": "classe.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+
+       {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "Danger Area",
+            "Quarry",
+            "Unlit Obstacle",
+            "Racetrack"
+        ],
+        "correct": 3,
+        "imageName": "quarry.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+       {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "VOR",
+            "Area where less than 500ft clearance exist between the terrain and CTA lower limit",
+            "Estimated VHF coverage at 10,000ft (emergency use only)",
+            "Estimated VHF coverage at 10,000ft"
+        ],
+        "correct": 1,
+        "imageName": "500ft.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+
+       {
+        "question": "On a VTC, what does the below symbol represent?",
+        "options": [
+            "Model Aircraft Operations",
+            "Helicopter Operations",
+            "Hang Glider Operations",
+            "Ultralight Operations"
+        ],
+        "correct": 3,
+        "imageName": "ultralight.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.7.1   2.3.1(b) Decode other symbols with reference to the chart legend"
+
+    },
+
+      {
+        "question": "What is the EOD at YTST (Mungalulu Truscott) on 21st of May in UTC?",
+        "options": [
+            "09:36Z",
+            "10:26Z",
+            "09:54Z",
+            "09:45Z"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 2,
+        "explanation": null,
+        "kd": "Unit 1.7.2   2.2.2 Determine with +/- 5 min the beginning and end of civil twilight from AIP daylight and darkness graphs"
+
+    }
+
+    
+  ]
+}

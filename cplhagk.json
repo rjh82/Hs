@@ -1,0 +1,1797 @@
+{
+  "quizTitle": "CPL(H) Aircraft General Knowledge Practice Exam",
+  "timePerQuestion": 20,
+  "numQuestions": 2,
+  "questions": [
+        {
+
+        "question": "The most likely cause of a high oil temperature and low oil pressure is:",
+        "options": [
+            "oil level is low",
+            "oil level is high",
+            "oil viscosity is excessively high",
+            "incorrect fuel"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Low oil level can lead to insufficient lubrication and cooling of engine components, resulting in increased friction and heat generation. This can cause the oil temperature to rise while the oil pressure drops due to the reduced volume of oil circulating through the engine.",
+        "kd": "Unit 1.1.1   3.2.(c) how to identify different grades of aviation fuel"
+    },
+    {
+        "question": "In an aircraft without the engine operating, the reading on a manifold pressure gauge at sea level under ISA conditions is:",
+        "options": [
+            "29.92inHg",
+            "0inHg",
+            "25.52inHg",
+            "28.82inHg"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "In an aircraft without the engine operating, the manifold pressure gauge will read:\nApproximately 29.92 inches of mercury (inHg) at sea level under ISA conditions.\nThe manifold pressure gauge measures absolute pressure in the intake manifold. With the engine not running, there\u2019s no suction created by piston movement, therefore the manifold pressure equals ambient atmospheric pressure. In an aircraft without the engine operating, the manifold pressure gauge will read approximately 29.92 inches of mercury (inHg) at sea level under ISA conditions.",
+        "kd": null
+    },
+    {
+        "question": "Which rotor system/s can mast bumping occur with:",
+        "options": [
+            "rigid",
+            "semi rigid",
+            "fully articulated",
+            "all of the above"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Mast bumping occurs primarily in\u00a0semi-rigid (teetering) rotor systems. This condition arises when excessive blade flapping causes the rotor hub to strike the mast, typically due to low-G maneuvers, abrupt cyclic inputs, or turbulence.",
+        "kd": "Unit 1.2.11   2.7.1(b) mast bumping"
+    },
+    {
+        "question": "Which rotor system/s can ground resonance occur with:",
+        "options": [
+            "rigid",
+            "semi rigid",
+            "fully articulated",
+            "all of the above"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Ground resonance\u00a0can occur in\u00a0fully articulated rotor systems. If the rotor blades become out of phase (uneven lead-lag positions), and the helicopter is on the ground, this can cause a resonant vibration between the airframe and rotor system.",
+        "kd": "Unit 1.2.11   2.7.1(a) ground resonance"
+    },
+    {
+        "question": "In an aircraft without the engine operating, the reading on a manifold pressure gauge at 2000ft above mean sea level under ISA conditions is:",
+        "options": [
+            "28inHG",
+            "29.92inHG",
+            "24inHG",
+            "0inHG"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "At\u00a02000 feet above mean sea level\u00a0under\u00a0ISA conditions, with the\u00a0engine not operating (throttle open), the\u00a0manifold pressure gauge\u00a0would read approximately 28 inches of mercury (inHg). Standard sea level pressure: 29.92 inHg and pressure drops by about 1 inHg per 1000 feet.",
+        "kd": null
+    },
+    {
+        "question": "Fuel boost pump/s:",
+        "options": [
+            "provide additional fuel for take-off and landing",
+            "prevent vapour lock from occuring",
+            "provide additional fuel in an emergency",
+            "can only be used at altitude"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The fuel boost pump is designed to maintain fuel pressure and prevent vapour lock, especially during high power settings or at high altitudes where fuel can vaporise due to lower atmospheric pressure.",
+        "kd": "Unit 1.2.9   2.2.1(a)(i) auxillary/booster pump"
+    },
+    {
+        "question": "The colour of 100LL (100 octane low lead) aviation fuel is:",
+        "options": [
+            "blue",
+            "clear",
+            "green",
+            "dependent on supplier"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The colour of\u00a0100LL (100 octane low lead)\u00a0aviation fuel is blue. This colour coding helps prevent fuel contamination and misfuelling errors.",
+        "kd": "Unit 1.1.1   3.2.(c) how to identify different grades of aviation fuel"
+    },
+    {
+        "question": "The colour of 100/130 aviation fuel is:",
+        "options": [
+            "blue",
+            "clear",
+            "green",
+            "dependent on supplier"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The colour of\u00a0100/130\u00a0aviation fuel is green. This colour coding helps prevent fuel contamination and misfuelling errors.",
+        "kd": "Unit 1.1.1   3.2.(c) how to identify different grades of aviation fuel"
+    },
+    {
+        "question": "Carburettor icing can only occur if the outside ambient temperature is less than 0\u02daC",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Carburettor icing can occur even when the\u00a0outside air temperature is well above 0\u00b0C, typically between -5\u00b0C to +30\u00b0C (23\u00b0F to 86\u00b0F). Especially when Humidity is high (above 50% relative humidity)",
+        "kd": "Unit 1.1.1   3.4.4(a) throttle ice"
+    },
+    {
+        "question": "Which flight condition would most likely cause carburettor icing?",
+        "options": [
+            "Flying with maximum continuous power",
+            "on departure with a high rate of climb",
+            "on descent during a steep approach",
+            "hovering on a cold morning"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A\u00a0steep descent with low power\u00a0is a prime condition for\u00a0carburettor icing, especially if the weather is moist and cool. During descent, throttle is often reduced, leading to lower air pressure and temperature inside the carburettor.",
+        "kd": "Unit 1.1.1   3.4.4(a) throttle ice"
+    },
+    {
+        "question": "Battery capacity is measured in:",
+        "options": [
+            "volts",
+            "ampres",
+            "amps per volt",
+            "amp hours"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Battery capacity is measured in\u00a0ampere-hours (Ah). An ampere-hour represents the amount of current (in amperes) a battery can deliver over one hour.",
+        "kd": "Unit 1.1.1   3.1.3(e) battery, battery compartment vent"
+    },
+    {
+        "question": "Descending with a blocked pitot tube, the ASI will:",
+        "options": [
+            "under read",
+            "over read",
+            "function normally",
+            "read 0kts"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Remember: PUDSUC (Pitot blocked, underread on descent - Static blocked under read on climb)",
+        "kd": "Unit 1.2.9   2.3.3(a)(i) blockage/leaks (pitot or static);"
+    },
+    {
+        "question": "Climbing with a blocked pitot tube, the ASI will:",
+        "options": [
+            "under read",
+            "over read",
+            "function normally",
+            "read 0kts"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Remember: PUDSUC (Pitot blocked, underread on descent - Static blocked under read on climb)",
+        "kd": "Unit 1.2.9   2.3.3(a)(i) blockage/leaks (pitot or static);"
+    },
+    {
+        "question": "Descending with a blocked static tube, the ASI will:",
+        "options": [
+            "under read",
+            "over read",
+            "function normally",
+            "read 0kts"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Remember: PUDSUC (Pitot blocked, underread on descent - Static blocked under read on climb)",
+        "kd": "Unit 1.2.9   2.3.3(a)(i) blockage/leaks (pitot or static);"
+    },
+    {
+        "question": "Climbing with a blocked static  tube, the ASI will:",
+        "options": [
+            "under read",
+            "over read",
+            "function normally",
+            "read 0kts"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Remember: PUDSUC (Pitot blocked, underread on descent - Static blocked under read on climb)",
+        "kd": "Unit 1.2.9   2.3.3(a)(i) blockage/leaks (pitot or static);"
+    },
+    {
+        "question": "Descending with a blocked static tube, the Altimeter will:",
+        "options": [
+            "under read",
+            "over read",
+            "function normally",
+            "read 0kts"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A blocked static tube will cause the altimeter to under read during descent and over read during climb, as it will not accurately measure the static pressure.",
+        "kd": null
+    },
+    {
+        "question": "Climbing with a blocked static tube, the VSI will:",
+        "options": [
+            "under read",
+            "over read",
+            "function normally",
+            "read 0fpm"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The VSI is solely reliant on the rate of change of static pressure, therefore if the static system is blocked the VSI will not function and read 0",
+        "kd": "Unit 1.2.9   2.3.3(b)(i) blockage of static source"
+    },
+    {
+        "question": "Descending with a blocked static tube, the VSI will:",
+        "options": [
+            "under read",
+            "over read",
+            "function normally",
+            "read 0fpm"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The VSI is solely reliant on the rate of change of static pressure, therefore if the static system is blocked the VSI will not function and read 0",
+        "kd": "Unit 1.2.9   2.3.3(b)(i) blockage of static source"
+    },
+    {
+        "question": "Descending with a blocked pitot tube, the VSI will:",
+        "options": [
+            "under read",
+            "over read",
+            "function normally",
+            "read 0fpm"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The VSI is solely reliant on the rate of change of static pressure and is not connected to the pitot system. Therefore if the pitot system is blocked the VSI will function normally. Remember the pitot tube is only used for the ASI.",
+        "kd": "Unit 1.2.9   2.3.3(b)(i) blockage of static source"
+    },
+    {
+        "question": "Climbing with a blocked pitot tube, the VSI will:",
+        "options": [
+            "under read",
+            "over read",
+            "function normally",
+            "read 0fpm"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The VSI is solely reliant on the rate of change of static pressure and is not connected to the pitot system. Therefore if the pitot system is blocked the VSI will function normally. Remember the pitot tube is only used for the ASI.",
+        "kd": "Unit 1.2.9   2.3.3(b)(i) blockage of static source"
+    },
+    {
+        "question": "A rate one turn is:",
+        "options": [
+            "a turn that takes 30 seconds to complete a full 360\u02da turn",
+            "a turn that takes 1 minute to complete a full 360\u02da turn",
+            "a turn that takes 2 minutes to complete a full 360\u02da turn",
+            "a turn that takes 3 minutes to complete a full 360\u02da turn"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A rate one is a turn in which the aircraft changes heading at\u00a03\u02da per second, completing a full\u00a0360\u02da turn in 2 minutes.",
+        "kd": null
+    },
+    {
+        "question": "A check valve in a hydraulic system:",
+        "options": [
+            "is a valve that checks the flow of hydraulic fluid",
+            "is found in the accumulator",
+            "a valve which restricts the flow of fluid to one direction",
+            "regulates the pressure of a hydraulic system"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A\u00a0check valve\u00a0in a hydraulic system is a device that allows fluid to flow in\u00a0one direction only\u00a0and prevents backflow in the opposite direction. It operates automatically and does not require external control.",
+        "kd": "Unit 1.2.9   2.2.1(d)(iii) check valve restrictors"
+    },
+    {
+        "question": "A 100kg force applied to a hydraulic piston with an area of 10cm2 will produce a force of:",
+        "options": [
+            "1kg per square metre",
+            "1kg per square centimetre",
+            "10kg per square centimetre",
+            "10kg per square metre"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "100kg divide by 10cm2 = 10kg per square centremetre",
+        "kd": null
+    },
+    {
+        "question": "AC power produced by an alternator is converted to DC power by which component?",
+        "options": [
+            "voltage regulator",
+            "rectifier",
+            "transformer",
+            "Inverter"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AC power produced by an alternator is converted to DC power by a\u00a0rectifier. The rectifier typically consists of diodes arranged to allow current to flow in only one direction, converting the alternating current (AC) output from the alternator to direct current (DC).",
+        "kd": null
+    },
+    {
+        "question": "A 500kg force applied to a hydraulic piston with an area of 20cm2 will produce a force of:",
+        "options": [
+            "1000kg per square metre",
+            "25kg per square centimetre",
+            "10kg per square centimetre",
+            "25kg per metre square"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 0,
+        "explanation": "500kg divide by 20cm2 = 25kg per square centimetre",
+        "kd": null
+    },
+    {
+        "question": "The 4 stroke Otto cycle on a piston engine is:",
+        "options": [
+            "Intake, Compression, Combustion, Exhaust",
+            "Intake, Combustion, Compression,  Exhaust",
+            "Compression, Intake, Combustion, Exhaust",
+            "Intake, Exhaust Compression, Combustion"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Intake \u2192 Compression \u2192 Power \u2192 Exhaust This is the complete\u00a04-stroke cycle\u00a0used in many aircraft piston engines.",
+        "kd": "Unit 1.1.1   3.1.1(a) cylinders"
+    },
+    {
+        "question": "During flight, the alternator fails and the aircraft battery is rated at 20 amp-hours. If your electrical load is 10 amps, how long can you expect the battery to supply power?",
+        "options": [
+            "2 hours",
+            "10 hours",
+            "20 minutes",
+            "30 minutes"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "This is the complete\u00a04-stroke cycle\u00a0used in many aircraft piston engines.",
+        "kd": "Unit 1.2.9   2.2.1(c)(v) battery ampere hours"
+    },
+    {
+        "question": "DC power is converted to AC power by which component?",
+        "options": [
+            "voltage regulator",
+            "rectifier",
+            "transformer",
+            "Inverter"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "DC power is converted to AC power by an inverter. An inverter takes direct current (DC) and converts it into alternating current (AC) at the required frequency and voltage for the aircraft's AC-powered systems.",
+        "kd": null
+    },
+    {
+        "question": "Your centre zero ammetre is indicating zero ampres, this indicates:",
+        "options": [
+            "the alternator output power equals the electrical load demand on the aircraft",
+            "battery is not charging",
+            "battery is fully charged",
+            "the alternator has failed"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "If your\u00a0centre-zero ammeter\u00a0is indicating\u00a0zero amps, this typically indicates that the electrical system is balanced \u2014 the alternator or generator is supplying exactly what the aircraft\u2019s electrical load is demanding, with no excess to charge the battery.",
+        "kd": "Unit 1.2.9   2.2.1(c)(iii) ammeter voltmeter"
+    },
+    {
+        "question": "Your centre zero ammetre is indicating a slightly high ampres reading, this indicates:",
+        "options": [
+            "the electrical load demand on the aircraft exceeds the alternator output power",
+            "battery is not charging",
+            "battery is fully charged",
+            "the alternator has failed"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A\u00a0slightly high positive ammeter reading\u00a0shows the\u00a0battery is charging, which is normal after engine start.",
+        "kd": "Unit 1.2.9   2.2.1(c)(iii) ammeter voltmeter"
+    },
+    {
+        "question": "What is the effect on the power output of the engine after applying carburettor heat?",
+        "options": [
+            "Increase",
+            "Decrease",
+            "remain the same"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "When\u00a0carburettor heat\u00a0is applied, the\u00a0power output of the engine typically decreases. Warmer air is less dense than cold air and this reduces the amount of oxygen entering the engine; Less oxygen means less fuel can be burned efficiently, reducing power.",
+        "kd": "Unit 1.1.1   3.4.8 State the effect of the application of carburettor heat on engine performance and engine instument indications"
+    },
+    {
+        "question": "A delta-3 hinge:",
+        "options": [
+            "connects the tail rotor drive shaft to the tail rotor gearbox",
+            "is an offset flapping hinge that reduces the amount of flap back",
+            "are found on fenestron tail rotors only",
+            "allow the blades  to lead /lag"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A Delta-3 hinge increases stability by automatically reducing excessive flapping of the rotor blades.",
+        "kd": "Unit 1.2.11   2.1.1(b)(ii) flight control systems"
+    },
+    {
+        "question": "A fully articulated rotor system can:",
+        "options": [
+            "flap up and down",
+            "flap up and down, lead and lag",
+            "lead and lag only",
+            "cone upwards"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A\u00a0fully articulated rotor system\u00a0can allow each rotor blade to move independently in three ways. Flap \u2014 Up and down movement to compensate for dissymmetry of lift. Lead-lag (drag) \u2014 Forward and backward movement in the plane of rotation to absorb changes in rotational speed due to varying aerodynamic forces. Feather \u2014 Rotation around the blade\u2019s longitudinal axis to change the blade pitch angle.",
+        "kd": "Unit 1.1.3   3.3.1(d) dragging"
+    },
+    {
+        "question": "What is the primary function of a carburettor in a piston-engine helicopter?",
+        "options": [
+            "To mix oil with air for lubrication",
+            "To reduce cylinder temperatures",
+            "To mix fuel and air in the correct ratio for combustion",
+            "To deliver pressurised fuel to the fuel injectors"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0primary function of a carburettor\u00a0in a piston-engine helicopter is to mix the correct ratio of fuel and air for combustion in the engine.",
+        "kd": null
+    },
+    {
+        "question": "Carburettor icing is most likely to occur under which of the following conditions?",
+        "options": [
+            "High power settings, hot and dry air",
+            "Low power settings, humid and cool air",
+            "Cruise power, cold and dry air",
+            "Full power, high density altitude"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.1.1   3.4.4(a) throttle ice"
+    },
+    {
+        "question": "What is the purpose of the carburettor heat control?",
+        "options": [
+            "To cool the intake air to improve engine performance",
+            "To prevent overheating of the fuel pump",
+            "To direct warm air into the carburettor to prevent or remove ice",
+            "To increase fuel flow to the cylinders"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The purpose of the\u00a0carburettor heat control\u00a0is to prevent or remove carburettor icing by warming the air entering the carburettor. The carb heat control diverts hot air from around the engine exhaust into the carburettor intake.",
+        "kd": "Unit 1.1.1   3.4.6(a) anti-icing"
+    },
+    {
+        "question": "When carburettor heat is applied, what is the expected immediate effect on engine power?",
+        "options": [
+            "Increase in power due to richer mixture",
+            "Decrease in power due to warmer, less dense air",
+            "No change in engine performance",
+            "Increase in RPM and temperature"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Carburettor heat introduces\u00a0warmer, less dense air\u00a0into the engine. Warmer air reduces the air density, leading to a richer fuel-air mixture and results in a power reduction.",
+        "kd": "Unit 1.1.1   3.4.8 State the effect of the application of carburettor heat on engine performance and engine instument indications"
+    },
+    {
+        "question": "What is the purpose of a fuel boost pump in a helicopter fuel system?",
+        "options": [
+            "To maintain fuel pressure and prevent vapour lock",
+            "To provide additional boost during the take-off sequence",
+            "To remove contaminants from the fuel",
+            "To prevent over-pressurisation of the fuel lines"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The fuel boost pump ensures a\u00a0reliable and uninterrupted fuel supply, enhancing engine performance and safety during critical flight operations. It also Ppevent fuel vaporisation (vapour lock) at high temperatures or altitudes.",
+        "kd": "Unit 1.2.9   2.2.1(a)(i) auxillary/booster pump"
+    },
+    {
+        "question": "In a gravity-fed fuel system, what is essential for uninterrupted fuel flow?",
+        "options": [
+            "An electrically driven boost pump",
+            "Fuel tanks located above the engine",
+            "A vapour return line to the tank",
+            "A fuel pressure regulator"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.9   2.2.1(a)fuel system components"
+    },
+    {
+        "question": "What component stores hydraulic pressure for emergency use in some systems?",
+        "options": [
+            "Reservoir",
+            "Actuator",
+            "Accumulator",
+            "Pump"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0accumulator\u00a0ensures hydraulic pressure is available for\u00a0emergency or backup operations\u00a0in case of system failure. It stores hydraulic fluid under pressure, often using a compressed gas like nitrogen on one side of a diaphragm or piston. In the event of a hydraulic pump failure, the accumulator provides emergency hydraulic power to operate critical systems like brakes, landing gear, or flight controls.",
+        "kd": "Unit 1.2.9   2.2.1(d)(i) accumulators"
+    },
+    {
+        "question": "What is the function of the hydraulic reservoir?",
+        "options": [
+            "To increase the system pressure",
+            "To allow thermal expansion and hold excess fluid",
+            "To cool the fluid before delivery",
+            "To filter out vapour from the fluid"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The hydraulic reservoir\u00a0stores, cools, and conditions hydraulic fluid\u00a0to ensure efficient and reliable system operation.",
+        "kd": "Unit 1.2.9   2.2.1(d)hydraulic system components"
+    },
+    {
+        "question": "What does a centre-zero ammeter indicate in a helicopter electrical system?",
+        "options": [
+            "Total battery voltage",
+            "Current draw of each circuit",
+            "Rate of charge or discharge of the battery",
+            "Engine RPM"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A\u00a0center-zero ammeter\u00a0in a helicopter electrical system indicates the direction and magnitude of current flow \u2014 whether the battery is being charged or discharged.",
+        "kd": "Unit 1.2.9   2.2.1(c)(iii) ammeter voltmeter"
+    },
+    {
+        "question": "What is the purpose of a left-hand-zero ammeter?",
+        "options": [
+            "To monitor alternator output only",
+            "To measure both voltage and amperage",
+            "To indicate total current flow from the alternator",
+            "To show battery state of charge"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.9   2.2.1(c)(iii) ammeter voltmeter"
+    },
+    {
+        "question": "In which of the following scenarios would a centre-zero ammeter read zero during flight?",
+        "options": [
+            "The battery is disconnected",
+            "The alternator is operating and no battery charging or discharge is occurring",
+            "The battery is being discharged rapidly",
+            "The engine has been shut down"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A\u00a0center-zero ammeter\u00a0in a helicopter electrical system indicates the direction and magnitude of current flow \u2014 whether the battery is being charged or discharged. Therefore if the ammeter is reading zero, the battery is neither charging or discharging.",
+        "kd": "Unit 1.2.9   2.2.1(c)(iii) ammeter voltmeter"
+    },
+    {
+        "question": "The starter motor is operated by:",
+        "options": [
+            "the alternator",
+            "battery",
+            "Voltage regulator",
+            "inverter"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The starter motor is typically powered by the\u00a0battery. When the ignition switch is turned to the start position, it allows current from the battery to flow to the starter motor, which then engages with the engine's flywheel to crank the engine and start it.",
+        "kd": "Unit 1.2.9   2.2.1(c)(vii) starter motor start relay"
+    },
+    {
+        "question": "Detonation in a piston engine occurs:",
+        "options": [
+            "at top dead centre",
+            "bottom dead centre",
+            "after ignition occurs",
+            "before normal ignition"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Detonation occurs when the fuel-air mixture\u00a0auto-ignites violently, causing damaging shock waves inside the engine. The unburned air-fuel mixture in the combustion chamber explodes violently instead of burning smoothly.",
+        "kd": "Unit 1.1.1  3.3.1 State the causes and effects of detonation, limited to improper use of mixture control. MP/RPM and use of incorrect fuel octane"
+    },
+    {
+        "question": "What is the typical effect of a broken P-lead (primary lead) in a magneto system?",
+        "options": [
+            "The magneto will stop functioning completely",
+            "The engine will not start",
+            "The magneto will remain live and continue to fire",
+            "The ignition switch will lock in place"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A broken or disconnected P-lead prevents grounding of the magneto, so it remains live and continues producing spark even when the ignition is switched off.",
+        "kd": "Unit 1.2.9   2.2.1(c)(viii) dual ignition distributor ignition switch"
+    },
+    {
+        "question": "During a magneto check at run-up, the pilot notices no RPM drop when selecting either magneto. What is the most likely cause?",
+        "options": [
+            "Both magnetos have failed",
+            "The P-leads are shorted together",
+            "The ignition switch is in the wrong position",
+            "One or both P-leads are open or disconnected"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.9   2.2.1(c)(viii) dual ignition distributor ignition switch"
+    },
+    {
+        "question": "How is a magneto typically disabled during engine shutdown?",
+        "options": [
+            "By cutting the fuel supply",
+            "By grounding the P-leads through the ignition switch",
+            "By opening the secondary coil circuit",
+            "By disconnecting the battery"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.1.1   3.4.1(d)(i) magneto"
+    },
+    {
+        "question": "What is the primary function of a fuel tank vent?",
+        "options": [
+            "To prevent water from entering the tank",
+            "To allow fuel to drain from the system",
+            "To maintain atmospheric pressure inside the tank",
+            "To supply fuel to the injector pump"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The primary function of a\u00a0fuel tank vent\u00a0is to allow air to enter and exit the fuel tank to maintain proper pressure balance as fuel levels change.",
+        "kd": "Unit 1.2.9   2.2.1(a) fuel system components"
+    },
+    {
+        "question": "Which of the following conditions is most likely to result in fuel starvation despite adequate fuel quantity?",
+        "options": [
+            "A malfunctioning alternator",
+            "An unlatched fuel filler cap",
+            "A faulty fuel temperature gauge",
+            "A blocked fuel tank vent"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.9   2.2.1(a) fuel system components"
+    },
+    {
+        "question": "What is the likely result of a blocked fuel tank vent during flight?",
+        "options": [
+            "The fuel system will over-pressurise and burst",
+            "Fuel flow may stop due to vacuum formation in the tank",
+            "The fuel will overflow continuously",
+            "The engine will run excessively rich"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.9   2.2.1(a) fuel system components"
+    },
+    {
+        "question": "What acceleration error will the compass experience indicate during an acceleration on an easterly heading in the Southern Hemisphere?",
+        "options": [
+            "No change",
+            "apparent turn to the south",
+            "apparent turn to the north",
+            "true north"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "In the\u00a0Southern Hemisphere, during\u00a0acceleration on an easterly heading, the magnetic compass will indicate a\u00a0turn to the south. This is due to the acceleration error caused by the magnetic dip \u2014 the vertical component of Earth's magnetic field pulls the compass card downward.",
+        "kd": "Unit 1.2.2   2.3.5(b) acceleration errors"
+    },
+    {
+        "question": "Which compass error is most affected when flying near the magnetic poles?",
+        "options": [
+            "Variation",
+            "Turning error",
+            "Oscillation",
+            "Deviation"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The compass error most affected when flying near the magnetic poles is\u00a0dip error, also known as\u00a0magnetic dip\u00a0or\u00a0vertical component error. This leads to increased turning errors and acceleration errors",
+        "kd": null
+    },
+    {
+        "question": "What is the main cause of magnetic dip?",
+        "options": [
+            "Aircraft banking angle",
+            "The vertical component of Earth's magnetic field",
+            "Compass fluid expansion",
+            "Gyroscopic inertia"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0main cause of magnetic dip\u00a0is the\u00a0inclination of Earth's magnetic field lines, which are\u00a0not parallel to the Earth's surface\u00a0except at the magnetic equator.",
+        "kd": null
+    },
+    {
+        "question": "What acceleration error will the compass experience indicate during an acceleration on an westerly heading in the Southern Hemisphere?",
+        "options": [
+            "No change",
+            "apparent turn to the south",
+            "apparent turn to the north",
+            "true north"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.2   2.3.5(b) acceleration errors"
+    },
+    {
+        "question": "What acceleration error will the compass experience indicate during an acceleration on an southerly heading in the Southern Hemisphere?",
+        "options": [
+            "No change",
+            "apparent turn to the south",
+            "apparent turn to the north",
+            "true north"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.2   2.3.5(b) acceleration errors"
+    },
+    {
+        "question": "What acceleration error will the compass experience indicate during  an acceleration on an northerly heading in the Southern Hemisphere?",
+        "options": [
+            "No change",
+            "apparent turn to the south",
+            "apparent turn to the north",
+            "true north"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.2   2.3.5(b) acceleration errors"
+    },
+    {
+        "question": "What is the main disadvantage of a vacuum-powered attitude indicator compared to an electric one?",
+        "options": [
+            "Slower precession",
+            "Less affected by magnetic dip",
+            "Susceptibility to vacuum system failure",
+            "Increased electrical load"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Which flight condition is most likely to lead to impact icing?",
+        "options": [
+            "below 0\u00b0C with no humidity",
+            "between 0\u00b0C to 3\u00b0C with visible moisture",
+            "below 4\u00b0C with high humidity",
+            "- 4\u00b0C and high humidity condition"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Visible moisture is required for impact icing to form",
+        "kd": "Unit 1.1.1   3.4.4(c) impact icing"
+    },
+    {
+        "question": "What is the most likely cause of a fluctuating CHT (cylinder head temperature) gauge at a rapid rate?",
+        "options": [
+            "high oil temperature",
+            "low oil pressure",
+            "faulty gauge",
+            "detonation"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A rapidly fluctuating Cylinder Head Temperature (CHT) gauge is most likely caused by a faulty CHT sensor (thermocouple) or a poor electrical connection (loose wiring, broken lead). The CHT gauge relies on a thermocouple sensor mounted on the cylinder head and if this sensor or wiring is intermittent or damaged, it causes erratic or rapid fluctuations in the gauge reading. Actual engine temperature usually changes slowly, so rapid fluctuations are typically electrical or sensor faults.",
+        "kd": "Unit 1.1.1    3.4.2(c)(i) CHT"
+    },
+    {
+        "question": "Where are fire bottles usually discharged?",
+        "options": [
+            "into the inlet manifold",
+            "inside the engine cowling",
+            "into the carburettor butterfly valve",
+            "into the exhaust"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.9   2.2.1(g) types of extinguishers and usages"
+    },
+    {
+        "question": "What is the basic operating principle of a wire loop fire detection system?",
+        "options": [
+            "It uses magnetic fields to sense flame ionisation",
+            "It measures pressure fluctuations in the engine compartment",
+            "It detects a change in electrical resistance caused by heat",
+            "It relies on radiation sensors detecting infrared energy"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The basic operating principle of a wire loop fire detection system is based on monitoring the continuity and resistance within a closed electrical circuit (loop). This system is designed to detect conditions indicative of a fire, such as excessive heat or smoke, by observing changes in the circuit's electrical properties.",
+        "kd": "Unit 1.2.9   2.2.1(f)(i) overheat - thermal switches"
+    },
+    {
+        "question": "What is a key advantage of a wire loop fire detection system?",
+        "options": [
+            "It can detect the presence of smoke",
+            "It works without electrical power",
+            "It provides rapid and reliable heat detection",
+            "It is only active during engine operation"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.9   2.2.1(f)(i) overheat - thermal switches"
+    },
+    {
+        "question": "How does an IVSI improve upon the standard VSI?",
+        "options": [
+            "It compensates for instrument error using pitot pressure",
+            "It uses engine RPM to determine climb rate",
+            "It adds an accelerometer to reduce lag",
+            "It measures vertical velocity using GPS"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "An\u00a0IVSI\u00a0uses\u00a0accelerometers or electronic sensors\u00a0to detect vertical acceleration, then instantly calculates and displays vertical speed. This reduces the lag time significantly.",
+        "kd": "Unit 1.2.9   2.3.2(b) VSI"
+    },
+    {
+        "question": "During a rapid descent, what will a standard VSI typically display at the moment the descent begins?",
+        "options": [
+            "A zero reading that slowly increases",
+            "A sharp drop to indicate descent",
+            "A fluctuating oscillation",
+            "A spike followed by no reading"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Due to lag, the standard VSI initially shows zero and takes a few seconds to react.",
+        "kd": "Unit 1.2.9   2.3.2(b) VSI"
+    },
+    {
+        "question": "The VSI measures:",
+        "options": [
+            "the rate of change of static pressure",
+            "the rate of change of static + dynamic pressure",
+            "the rate of change of dynamic pressure",
+            "the rate of change of the centre of pressure"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0VSI (Vertical Speed Indicator)\u00a0measures the\u00a0rate of change of atmospheric pressure, which it converts to the rate of climb or descent of an aircraft, typically displayed in feet per minute (fpm).",
+        "kd": "Unit 1.2.9   2.3.2(b) VSI"
+    },
+    {
+        "question": "Which hydraulic system component helps manage excess pressure generated by a constant displacement pump?",
+        "options": [
+            "Pressure relief valve",
+            "Filter",
+            "Reservoir",
+            "Accumulator"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The component in a hydraulic system that manages excess pressure generated by a constant displacement pump is the\u00a0pressure relief valve. This valve prevents system damage by opening when pressure exceeds a set limit, allowing fluid to bypass back to the reservoir or tank, maintaining safe operating conditions.",
+        "kd": "Unit 1.2.9   2.2.1(d) hydraulic system components"
+    },
+    {
+        "question": "Some helicopters have a blue line on the airspeed indicator, what is this indicating?",
+        "options": [
+            "Vne",
+            "best rate of climb speed",
+            "Vno",
+            "maximum speed in autorotation"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The blue line on the airspeed indicator indicates the maximum speed at which the helicopter can be safely operated in autorotation.",
+        "kd": "Unit 1.1.1   3.5.1 Explain the colour code markings on an airspeed indicator (ASI)"
+    },
+    {
+        "question": "You are on descent with a blocked pitot tube, your VSI will:",
+        "options": [
+            "overread",
+            "underread",
+            "remain at 0",
+            "read correctly"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "If\u00a0only the pitot tube is blocked\u00a0(and the static port is clear), the VSI will operate\u00a0normally. This is because the VSI needs static pressure only to indicate vertical speed.",
+        "kd": "Unit 1.2.9   2.3.3(b)(i) blockage of the static source"
+    },
+    {
+        "question": "A semi rigid rotor system can:",
+        "options": [
+            "flap up and down",
+            "flap up and down, lead and lag",
+            "lead and lag only",
+            "cone upwards"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.1.3   3.3.1(b) flapping"
+    },
+    {
+        "question": "What is the function of the accumulator fitted to a hydraulic system?",
+        "options": [
+            "Regulates pressure",
+            "provides limted pressure after a system failure",
+            "additional filter for the fluid",
+            "cools the hydraulic fluid"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The function of an\u00a0accumulator\u00a0in a hydraulic system is to Store hydraulic fluid under pressure and release it when needed.",
+        "kd": "Unit 1.2.9   2.2.1(d)(i) accumulators"
+    },
+    {
+        "question": "In an aircraft without the engine operating, the reading on a manifold pressure gauge at 3000ft above mean sea level under ISA conditions is:",
+        "options": [
+            "28inHG",
+            "29.92inHG",
+            "27inHG",
+            "0inHG"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "The rotor brake is used for:",
+        "options": [
+            "controlling rotor RPM in autorotation",
+            "assist in the event of a tail rotr failure",
+            "help prevent blade sailing",
+            "only ever used in an emergency"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.11   2.1.1(c)(iii) rotor brakes"
+    },
+    {
+        "question": "While climbing at full throttle in an aircraft with a manually controlled wastegate, what is the correct action to maintain constant manifold pressure for as long as possible?",
+        "options": [
+            "Gradually reduce propeller RPM",
+            "Enrich the mixture slightly",
+            "Slowly open the wastegate to increase flow",
+            "Progressively close the wastegate"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "During engine run-up, turning off the right magneto causes no change in RPM, but switching off the left magneto causes the engine to stop. What does this suggest?",
+        "options": [
+            "The right magneto is grounded",
+            "The left magneto is grounded",
+            "The left magneto is live",
+            "The right magneto is still live"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.1.1   3.4.1(d)(i) magneto"
+    },
+    {
+        "question": "If signs of fuel vapourisation are detected during flight, what is the most appropriate immediate pilot action?",
+        "options": [
+            "Activate the fuel boost pump",
+            "Increase engine RPM",
+            "Move the mixture to full rich",
+            "Select an alternate fuel tank"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Immediate actions for fuel vapourisation include activating the\u00a0auxiliary fuel pump,\u00a0switching tanks,\u00a0enriching the mixture, and\u00a0descending\u00a0to cooler, denser air, while closely monitoring the engine's performance.",
+        "kd": "Unit 1.2.9   2.2.1(a)(i) auxillary/booster pump"
+    },
+    {
+        "question": "Under which of the following conditions is fuel vapourisation most likely to occur during high power operation?",
+        "options": [
+            "When the fuel is hot and ambient pressure is low",
+            "When the fuel is cold and ambient pressure is high",
+            "When the fuel is cold and ambient pressure is low",
+            "When the fuel is hot and ambient pressure is high"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "A fully rigid rotor system can:",
+        "options": [
+            "flap up and down",
+            "flap up and down, lead and lag",
+            "lead and lag only",
+            "feather"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A fully rigid rotor system allows for\u00a0feathering, flapping, and lead-lag through blade flexing, enabling precise and agile control but with increased structural demands.",
+        "kd": "Unit 1.2.11   2.1.1(b)(ii) flight control systems"
+    },
+    {
+        "question": "The yellow band on the CAT (carburettor Air Temperature) gauge indicates:",
+        "options": [
+            "carburettor icing has occurred",
+            "carburettor icing is possible",
+            "carburettor icing is impossible",
+            "carburettor temperature is beyond limits"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0yellow band on the CAT (Carburettor Air Temperature) gauge\u00a0indicates the temperature range where carburettor icing is most likely to occur.",
+        "kd": null
+    },
+    {
+        "question": "A voltmeter in an aircraft reads 24 volts before engine start. What would be a normal voltage indication in cruise flight?",
+        "options": [
+            "Between 24 and 28 volts",
+            "Exactly 24 volts",
+            "Below 24 volts",
+            "Zero volts"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The battery voltage at rest is about 24 V (for a 24-volt system). When the engine is running and the alternator/generator is supplying power and charging the battery, the voltage will be slightly higher than battery voltage to allow charging. So, a typical\u00a0charging voltage range\u00a0is around\u00a026\u201328 volts\u00a0on a 24-volt system.",
+        "kd": null
+    },
+    {
+        "question": "What is the purpose of an oil cooler bypass in an aircraft engine lubrication system?",
+        "options": [
+            "To allow oil to bypass the cooler if it becomes obstructed",
+            "To prevent oil from flowing through the cooler when it's already cold",
+            "To prevent excessive oil temperatures",
+            "To redirect overheated oil to the cooler again"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.11   2.1.1(d)(viii) oil cooler by-pass valves"
+    },
+    {
+        "question": "If carburettor heat is applied due to suspected icing and the engine begins to run rough, what is the correct pilot response?",
+        "options": [
+            "Leave carburettor heat on to allow ice to melt",
+            "Lean the mixture as the application of carburettor heat enrichens it",
+            "Richen the mixture to restore smooth engine operation",
+            "Turn off carburettor heat and descend to warmer air"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "If carburettor heat is applied due to\u00a0suspected carburettor icing\u00a0and the\u00a0engine begins to run rough, the\u00a0correct pilot response is to leave the carburettor heat ON. It happens because the carb heat melts the ice, and the water from the melted ice is ingested by the engine, causing temporary roughness.",
+        "kd": null
+    },
+    {
+        "question": "During cruise flight, an aircraft fitted with a centre-zero ammeter shows a reading slightly below zero. What does this indicate?",
+        "options": [
+            "The electrical load is greater than the generator output",
+            "The battery is fully charged and the generator is charging it",
+            "The electrical load equals the generator output",
+            "The electrical load is less than the generator output"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A center-zero ammeter in an aircraft shows the net current flowing to or from the battery below zero (negative side) means current is flowing from the battery \u2014 the battery is discharging.",
+        "kd": null
+    },
+    {
+        "question": "When one magneto is switched off in a dual-ignition system, what is the most likely effect on engine operation?",
+        "options": [
+            "Only one spark plug fires, causing slower combustion and reduced peak cylinder pressure",
+            "The ignition timing advances, bringing peak pressure earlier in the stroke",
+            "Engine power increases due to reduced electrical load",
+            "The ignition timing is effectively retarded, so peak pressure occurs later in the power stroke"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "In a\u00a0dual-ignition system, when\u00a0one magneto is switched off, the engine will continue to operate but with a\u00a0slight drop in RPM or power output. Switching off one magneto results in each cylinder firing with only one spark plug, reducing combustion efficiency slightly.",
+        "kd": null
+    },
+    {
+        "question": "If an aircraft engine is operated at idle speed for an extended period, what is a likely consequence?",
+        "options": [
+            "The piston head may warp",
+            "The spark plugs will become inoperative",
+            "The piston rings may show excessive wear",
+            "The spark plugs may become fouled"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "What is the primary function of an impulse coupling on a magneto?",
+        "options": [
+            "May cause pre-ignition if it produces too hot a spark for the engine",
+            "Produces a \u2018hot\u2019 spark for easier starting by momentarily increasing magneto speed",
+            "Can be either a high-tension or low-tension type",
+            "Produces easier stopping of the engine"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The impulse coupling helps produce a hot, well-timed spark for starting the engine when the crankshaft is turning slowly.",
+        "kd": "Unit 1.2.9   2.2.1(c)(viii) dual ignition distributor ignition switch"
+    },
+    {
+        "question": "Calibrated Airspeed (CAS) is:",
+        "options": [
+            "IAS corrected for altitude and temperature",
+            "TAS adjusted for winds aloft",
+            "IAS corrected for position and instrument errors",
+            "TAS minus the wind component"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Calibrated Airspeed (CAS)\u00a0is the\u00a0indicated airspeed (IAS)\u00a0corrected for\u00a0instrument errors and position (installation) errors.",
+        "kd": "Unit 1.2.9   2.3.1(b) calibrated (CAS)"
+    },
+    {
+        "question": "True Airspeed (TAS) is defined as:",
+        "options": [
+            "The airspeed corrected for instrument error",
+            "The airspeed corrected for altitude and temperature effects",
+            "The speed shown directly on the airspeed indicator",
+            "The aircraft\u2019s speed relative to the ground"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "TAS reflects the\u00a0true velocity of the aircraft through the air, regardless of altitude or environmental conditions.",
+        "kd": "Unit 1.2.9   2.3.1(c) true (TAS)"
+    },
+    {
+        "question": "At high altitudes, which airspeed will typically be much higher than IAS?",
+        "options": [
+            "CAS",
+            "TAS",
+            "Groundspeed",
+            "Mach Number"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "At high altitudes,\u00a0True Airspeed (TAS)\u00a0will typically be much higher than\u00a0Indicated Airspeed (IAS). As altitude increases air density decreases, which causes IAS to read lower for the same actual speed. TAS increases because the aircraft must fly faster through the thinner air to generate the same lift.",
+        "kd": "Unit 1.2.9   2.3.1(c) true (TAS)"
+    },
+    {
+        "question": "An altimeter uses which of the following components to measure altitude?",
+        "options": [
+            "Mercury barometer",
+            "Gyroscopic sensors",
+            "Aneroid capsules",
+            "Pitot tubes"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.9   2.3.2(c) altimeter"
+    },
+    {
+        "question": "What is the standard sea level pressure setting on an altimeter (ISA)?",
+        "options": [
+            "1010 hPa",
+            "1013hPa",
+            "1000hPa",
+            "1020hPa"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0standard sea level pressure setting\u00a0on an altimeter according to the\u00a0International Standard Atmosphere (ISA)\u00a0is 1013hPa",
+        "kd": "Unit 1.2.9   2.3.2(c) altimeter"
+    },
+    {
+        "question": "What will the altimeter indicate if the pressure setting is LOWER than actual sea level pressure?",
+        "options": [
+            "Indicated altitude will be too high",
+            "Indicated altitude will be too low",
+            "No change in reading",
+            "Altimeter will fail"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The altimeter measures pressure to determine altitude, assuming the standard atmospheric pressure gradient. If the setting is too low, the instrument interprets the current pressure as being higher up in the atmosphere than it really is.",
+        "kd": "Unit 1.2.9   2.3.3(c)(iii) incorrect subscale settings"
+    },
+    {
+        "question": "Which factor does NOT directly affect an altimeter reading?",
+        "options": [
+            "Atmospheric pressure",
+            "Temperature deviations from ISA",
+            "Aircraft speed",
+            "Pressure setting (QNH/QFE)"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.9   2.3.2(c) altimeter"
+    },
+    {
+        "question": "What physical principle allows the artificial horizon to maintain its orientation relative to the Earth's surface?",
+        "options": [
+            "Magnetic fields",
+            "Rigidity in space (gyroscopic inertia)",
+            "Precession",
+            "Air pressure"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The gyroscope in the artificial horizon maintains its orientation due to\u00a0rigidity in space, meaning the gyro resists changes to its axis of rotation, providing a stable reference for pitch and bank angles.",
+        "kd": "Unit 1.2.9   2.3.2(d) artifical horizon"
+    },
+    {
+        "question": "What powers a typical vacuum-driven artificial horizon in small aircraft?",
+        "options": [
+            "Pitot-static system",
+            "Electric gyroscopes",
+            "Engine-driven vacuum pump",
+            "Battery-powered sensors"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "In many small aircraft, the artificial horizon is powered by a\u00a0vacuum pump\u00a0that drives the gyroscope, although electric versions are common in modern systems.",
+        "kd": "Unit 1.2.9   2.3.2(d) artifical horizon"
+    },
+    {
+        "question": "What will typically cause the artificial horizon to \"tumble\"?",
+        "options": [
+            "Magnetic interference",
+            "Loss of vacuum or electrical power",
+            "Climbing at low speeds",
+            "Static pressure failure"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "If the\u00a0vacuum system fails\u00a0(or power in electric gyros is lost), the gyroscope may lose its stability, causing the horizon display to\u00a0tumble or become unreliable.",
+        "kd": "Unit 1.2.9   2.3.2(d) artifical horizon"
+    },
+    {
+        "question": "Unlike the Turn and Slip Indicator, the Turn Coordinator is sensitive to which aircraft movement?",
+        "options": [
+            "Pitch",
+            "Bank and yaw",
+            "Altitude change",
+            "roll"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The Turn Coordinator\u2019s gyro is canted (tilted), making it sensitive to both\u00a0yaw and roll, providing an earlier indication of the aircraft entering a bank.",
+        "kd": "Unit 1.2.9   2.3.2(g) turn coordinator"
+    },
+    {
+        "question": "In a coordinated turn, where will the ball in the inclinometer be?",
+        "options": [
+            "Inside the turn direction",
+            "Outside the turn direction",
+            "Centered",
+            "Oscillating left and right"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A\u00a0centered ball\u00a0indicates a properly\u00a0coordinated turn, balancing centrifugal force with the horizontal component of lift.",
+        "kd": "Unit 1.2.9   2.3.2(g) turn coordinator"
+    },
+    {
+        "question": "What is the primary principle behind the operation of a mechanical direction indicator (heading indicator)?",
+        "options": [
+            "Magnetic field alignment",
+            "Gyroscopic rigidity in space",
+            "Precession caused by Earth's rotation",
+            "Barometric pressure changes"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0direction indicator\u00a0operates on the principle of\u00a0gyroscopic rigidity, where the spinning rotor maintains a fixed orientation in space, providing a stable reference for heading information.",
+        "kd": "Unit 1.2.9   2.3.2(e) direction indicator"
+    },
+    {
+        "question": "Why does a direct reading compass have a 'lubber line'?",
+        "options": [
+            "To indicate the level of fluid inside",
+            "To display the aircraft's current magnetic heading",
+            "To mark the location of compensating magnets",
+            "To prevent the compass from overheating"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0lubber line\u00a0is a\u00a0fixed reference mark\u00a0that shows the aircraft's current heading relative to the rotating compass card.",
+        "kd": "Unit 1.2.9   2.5.1 Describe the princiuple and construction of a magnetica compass"
+    },
+    {
+        "question": "What type of error is caused by the vertical component of Earth's magnetic field on a direct reading compass?",
+        "options": [
+            "Magnetic deviation",
+            "Compass dip error",
+            "Variation error",
+            "Oscillation error"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Compass dip\u00a0occurs because the Earth's magnetic field has a\u00a0vertical component, especially near the poles, which can cause the compass card to tilt and lead to errors.",
+        "kd": "Unit 1.2.9   2.5.1 Describe the princiuple and construction of a magnetica compass"
+    },
+    {
+        "question": "What is the primary advantage of coupling a directional indicator with a flux valve?",
+        "options": [
+            "It eliminates the need for a magnetic compass entirely",
+            "It automatically corrects for gyroscopic drift",
+            "It measures true north directly",
+            "It removes the need for a vacuum system"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A\u00a0flux valve senses the Earth's magnetic field\u00a0and feeds this data to the Directional Gyro (DI), allowing it to\u00a0automatically correct for drift, keeping the heading indicator aligned with magnetic north.",
+        "kd": "Unit 1.2.9   2.4.2(c) describe the advantages of a directional indicator fitted with a flux valve"
+    },
+    {
+        "question": "In which type of lubrication system is an oil scavenge pump essential?",
+        "options": [
+            "Splash lubrication system",
+            "Dry sump lubrication system",
+            "Wet sump lubrication system",
+            "Gravity-fed lubrication system"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "n a\u00a0dry sump system, oil is stored in an external tank. The\u00a0scavenge pump\u00a0collects oil from the engine sump and returns it to this tank, preventing oil accumulation in the engine.",
+        "kd": "Unit 1.2.11   2.1.1(d)(v) scavenge pumps"
+    },
+    {
+        "question": "What could be a consequence of a failed scavenge pump in a dry sump system?",
+        "options": [
+            "Fuel starvation",
+            "Oil starvation of engine bearings",
+            "Oil accumulation in the sump, leading to potential engine damage",
+            "Excessive cooling of engine oil"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "If the scavenge pump fails,\u00a0oil remains in the engine sump, leading to\u00a0poor lubrication, increased drag, overheating, and possibly engine failure.",
+        "kd": "Unit 1.2.11   2.1.1(d)(v) scavenge pumps"
+    },
+    {
+        "question": "Where is the oil cooler bypass valve typically located in the lubrication system?",
+        "options": [
+            "Upstream of the oil pressure pump",
+            "Between the oil pressure pump and the oil cooler",
+            "After the scavenge pump",
+            "In the fuel system"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "This positioning allows the valve to\u00a0redirect oil around the cooler when needed, based on temperature conditions.",
+        "kd": "Unit 1.2.11   2.1.1(d)(viii) oil cooler by-pass valves"
+    },
+    {
+        "question": "At what condition does the oil cooler bypass valve typically open?",
+        "options": [
+            "When oil temperature is excessively high",
+            "When oil viscosity is too low",
+            "When engine RPM is high",
+            "When oil temperature is below a preset threshold"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The valve is\u00a0temperature-sensitive, opening when the oil is\u00a0too cold\u00a0to prevent overcooling and ensure adequate lubrication.",
+        "kd": "Unit 1.2.11   2.1.1(d)(viii) oil cooler by-pass valves"
+    },
+    {
+        "question": "What is a major advantage of electrically driven gyroscopes?",
+        "options": [
+            "They are always lighter than air-driven gyros",
+            "They are independent of the aircraft's electrical system",
+            "They typically start faster and are less affected by vacuum system limitations",
+            "They require a separate hydraulic power source"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Electric gyros\u00a0generally have\u00a0quicker spin-up times\u00a0and avoid reliability issues associated with vacuum or pressure systems.",
+        "kd": "Unit 1.2.9   2.4.2(a) compare the advantages and disadvantages of air driven and electrically driven gyroscopes"
+    },
+    {
+        "question": "The most commonly used extinguishing agent used in a typical aircraft fire extinguishing system is:",
+        "options": [
+            "Carbon dioxide gas",
+            "Dry Chemical",
+            "Foam",
+            "Halon"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Halon is favored because it is highly effective at interrupting the chemical reaction of a fire, non-conductive, leaves no residue, and works rapidly without damaging sensitive aircraft components.",
+        "kd": "Unit 1.2.9   2.2.1(g) types of extinguishers and usages"
+    },
+    {
+        "question": "Which instrument will overread with a blocked static system whislt on descent?",
+        "options": [
+            "VSI",
+            "Altimetre",
+            "ASI",
+            "IVSI"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.9   2.3.3(a)(i) blockage/leaks (pitot or static)"
+    },
+    {
+        "question": "Which material property in the wire loop helps detect excessive heat?",
+        "options": [
+            "Color change of the insulation",
+            "Vibration sensitivity",
+            "Optical reflectivity",
+            "Changes in electrical conductivity or resistance"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The system relies on materials whose\u00a0electrical properties alter with heat, triggering a fire warning signal.",
+        "kd": "Unit 1.2.9   2.2.1(e)(i) overheat, thermal switches"
+    },
+    {
+        "question": "During an ascent you notice that the altimetre is remaining unchanged. The most likely cause is:",
+        "options": [
+            "a small leak in the static line",
+            "a large leak in the static line",
+            "a blocked pitot tube",
+            "a blocked static vent"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The altimeter measures ambient pressure via the static system to determine altitude. If the static system is blocked, then the ambient pressure inside the altimeter remains unchanged, therefore the indicated altitude will also remain unchanged.",
+        "kd": "Unit 1.2.9   2.3.3(b)(i) blockage of static source"
+    },
+    {
+        "question": "A main rotor blade out of track will produce:",
+        "options": [
+            "a high frequency lateral vibration",
+            "a high frequency vertical vibration",
+            "a low frequency lateral vibration",
+            "a low frequency vertical vibration"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A main rotor blade out of track will typically produce a\u00a0vertical or low-frequency vibration. Rotor blades are said to be \u201cin track\u201d when their tips follow the same path during rotation. If one or more blades are out of track (i.e., one blade flies higher or lower than the others), it creates uneven lift and asymmetry in rotor disc balance.",
+        "kd": "Unit 1.2.11   2.1.1(b)(i) abnormal vibrations from main and tail toro systems"
+    },
+    {
+        "question": "You experience a high frequency vibration during cruise flight, the most likely cause is:",
+        "options": [
+            "Faulty valve in the engine",
+            "Alternator failing",
+            "tail rotor is out of balance",
+            "main rotor is out of balance"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "High-frequency vibration (too fast to count or a \"buzzing\" feel) is usually due to a tail rotor imbalance or tail rotor drive shaft or gearbox issues.",
+        "kd": "Unit 1.2.11   2.1.1(b)(i) abnormal vibrations from main and tail toro systems"
+    },
+    {
+        "question": "In which of the following operational conditions is the formation of carburettor ice most likely",
+        "options": [
+            "Low power descents",
+            "OGE Hovering",
+            "Maximum rate climbs",
+            "High speed level cruising"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Carburettor ice is most likely to form under low engine power settings, high humidity, and moderate temperatures (typically between -5\u00b0C and +15\u00b0C)",
+        "kd": null
+    },
+    {
+        "question": "Which of the following conditions would give the best indication of an abnormally low oil level:",
+        "options": [
+            "Low oil temperature and low oil pressure",
+            "High oil temperature and high oil pressure",
+            "Low oil temperature and high oil pressure",
+            "High oil temperature and low oil pressure"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "If the oil level drops too low the oil pump may start to draw air, causing pressure to drop and fluctuate. You might see erratic oil pressure readings, and eventually, low steady pressure. The oil temperature will also rise, but this is usually a secondary indication after pressure drops.",
+        "kd": null
+    },
+    {
+        "question": "A turbocharged engine is started with the waste gate jammed in the closed position. During normal advancement of the throttle after the start, the MP will",
+        "options": [
+            "Increase at a faster than normal rate",
+            "Increase at a slower than normal rate",
+            "Not increase above the static pressure existing at the time",
+            "Increase at the normal rate"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.9   2.1.3(c)(iii)(B) waste gate (fixed, manual, and automatic)"
+    },
+    {
+        "question": "While cruising at about 5000 ft a helicopter\u2019s pitot tube becomes blocked, but the static vent remains clear. During the descent the Vertical Speed Indicator would show",
+        "options": [
+            "Zero",
+            "Correct ROD",
+            "Higher than actual ROD",
+            "Lower than actual ROD"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.9   2.3.3(b)(i) blockage of the static source"
+    },
+    {
+        "question": "A danger of operating an engine at temperatures above the upper limits is that:",
+        "options": [
+            "Some parts may be inadequately lubricated",
+            "The oil filter may become blocked",
+            "Spark plug fouling may occur",
+            "Very high oil pressure"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.1.1   3.3.3(b) minimum/maximum oil temperatures"
+    },
+    {
+        "question": "During normal advancement of a turbocharged engine, the manifold pressure rises excessively:",
+        "options": [
+            "The waste gate is jammed open",
+            "The waste gate is sticking",
+            "The waste gate is jammed shut",
+            "There is too low an oil pressure acting on the piston in the waste gate actuator"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "During descent with the static source blocked:",
+        "options": [
+            "The altimeter will over read",
+            "The VSI will under read",
+            "The altimeter will under read",
+            "The ASI will under read"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0altimeter relies on static pressure\u00a0to determine altitude. In a descent, outside static pressure increases (because you\u2019re going to lower altitudes). But with a blocked static port, the altimeter is stuck using the last captured pressure \u2014 which is lower (from a higher altitude). Therefore, the instrument thinks you're still higher than you are, causing it to overread.",
+        "kd": null
+    },
+    {
+        "question": "In flight you notice a fluctuating CHT gauge:",
+        "options": [
+            "Detonation or Pre-Ignition is occurring",
+            "One cylinder is misfiring",
+            "The indicator is faulty",
+            "Carburettor ice is forming"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.1.1    3.4.2(c)(i) CHT"
+    },
+    {
+        "question": "In level flight with a blocked static vent:",
+        "options": [
+            "The VSI will over-read",
+            "The Altimeter will give a correct reading",
+            "The ASI will under read",
+            "The Altimeter will over-read"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.2.9   2.3.3(b)(i) blockage of the static source"
+    },
+    {
+        "question": "In flight you notice a low oil pressure:",
+        "options": [
+            "Oil temperature is too high and parts may become unevenly lubricated",
+            "There is a leak in the exhaust manifold",
+            "Oil temperature is too low and parts may become unevenly lubricated",
+            "The oil cooler bypass is faulty"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.1.1   3.3.3(a) minimum oil pressure"
+    },
+    {
+        "question": "Lead acid type batteries are located in a vented battery box:",
+        "options": [
+            "So that pressure within the battery box can be relieved at high altitude",
+            "To dissipate flammable gasses",
+            "To ensure the battery is adequately cooled during flight",
+            "To dissipate hazardous chemicals"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Lead-acid batteries are located in vented battery boxes to safely expel hydrogen gas generated during charging and prevent fire or explosion hazards.",
+        "kd": "Unit 1.1.1   3.1.3(e) battery, battery compartment vent"
+    },
+    {
+        "question": "A correct interpretation of a centre zero ammeter in normal flight is:",
+        "options": [
+            "Negative deflection shows the alternator has failed",
+            "Zero indication shows the alternator is changing the battery",
+            "Positive deflection shows the battery is providing charge",
+            "Zero indication shows the battery is flat"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A center-zero ammeter in an aircraft shows the net current flowing to or from the battery. A negative deflection (below zero) indicates that current is flowing from the battery, which typically means the alternator is not supplying enough power and the battery is discharging.",
+        "kd": null
+    },
+    {
+        "question": "In flight you notice a pronounced 1/REV vibration which is felt as a vertical bounce",
+        "options": [
+            "The main rotor is out of balance",
+            "The engine is misfiring",
+            "The main rotor is out of track",
+            "The main rotor is out of horizontal alignment"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "This vibration is typically caused by the main rotor being out of track, which means the rotor blades are not properly aligned with each other.",
+        "kd": null
+    },
+    {
+        "question": "In flight you suspect that carburettor ice is forming. To verify the presence of carburettor ice:",
+        "options": [
+            "Apply full carb heat and note an immediate increase in manifold pressure as the ice melts",
+            "Apply partial carb heat and verify presence of ice by noting an immediate decrease in MAP followed by an increase as the ice melts",
+            "Apply full carb heat and note a drop in manifold pressure which remains at a lower value",
+            "Apply full carb heat and verify presence of ice by noting an immediate decrease in MAP followed by an increase as the ice melts"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "To verify the presence of carburettor ice, the pilot can apply full carb heat and observe the manifold pressure (MAP). If carburettor ice is present, applying carb heat will initially cause a decrease in MAP due to the warmer, less dense air entering the engine. As the ice melts, the MAP should then increase back towards normal levels. This sequence of an initial drop followed by a rise in MAP is indicative of carburettor ice melting.",
+        "kd": null
+  }
+  ]
+}

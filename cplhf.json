@@ -1,0 +1,1421 @@
+{
+  "quizTitle": "CPL(H) Human Factors Practice Exam",
+  "timePerQuestion": 20,
+  "numQuestions": 2,
+  "questions": [
+        {
+        "question": "What is hypertension and what can it be caused by:",
+        "options": [
+            "Low blood pressure",
+            "High blood pressure",
+            "Normal blood pressure",
+            "Blood sugar imbalance"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Hypertension refers to elevated blood pressure levels, which increase the workload on the heart and arteries and can lead to serious health issues.",
+        "kd": null
+    },
+    {
+        "question": "Flying at 5,000ft on a cold winter day when you suddenly feel a headache and your performance is increasingly on the decline, what might you be experiencing?",
+        "options": [
+            "Carbon Monoxide poisoning",
+            "Hypoxia",
+            "Hypertension",
+            "G-LOC"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "The average number of items that can be held in the short-term memory is:",
+        "options": [
+            "7",
+            "11",
+            "15",
+            "20"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The average number of items that can be held in the short-term memory is approximately 7, plus or minus 2.",
+        "kd": "Unit 1.6.2   2.14.1(b)(vi) memory limitations"
+    },
+    {
+        "question": "A symptom of carbon monoxide poisoning is:",
+        "options": [
+            "Tingling of the body extremities",
+            "Blue colouring of the fingers, lips and toes",
+            "warm and sluggish feelings with possible headaches",
+            "a euphoric feeling"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "What negative G loading is considered an acceptable limit for a healthy person?",
+        "options": [
+            "0G",
+            "negative 1G",
+            "negative 5G",
+            "negative 3G"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Negative 3 G\u00a0is the typical acceptable limit for negative G loading in a healthy individual. Negative Gs (inverted or \u201ceyeballs out\u201d forces) are typically less well tolerated than positive Gs.",
+        "kd": null
+    },
+    {
+        "question": "Which scenario is most likely to lead to carbon monoxide poisoning?",
+        "options": [
+            "Flying in the vicinity of thick smoke",
+            "using the incorrect fuel",
+            "applying carburettor heat",
+            "a leak in the engine exhaust system"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A leak in the engine exhaust system can allow carbon monoxide to enter the cockpit, leading to poisoning.",
+        "kd": null
+    },
+    {
+        "question": "An effect of sustained negative G loading can:",
+        "options": [
+            "Increase the heart rate",
+            "decrease the heart rate",
+            "improve short-term memory",
+            "allow excess blood to pool in the lower parts of the body"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "What is the most effective countermeasure for combating fatigue during flight operations?",
+        "options": [
+            "Caffeine",
+            "Scheduled rest periods",
+            "High-protein snacks",
+            "Cabin lighting"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Scheduled rest periods are the most effective countermeasure for combating fatigue during flight operations.",
+        "kd": "Unit 1.6.2   2.14.4(c)(i) sleep management"
+    },
+    {
+        "question": "Which of the following trait that is considered a hazardous attitude which can adversely affect pilot decision-making?",
+        "options": [
+            "Confidence",
+            "Anti-authority",
+            "Assertiveness",
+            "Situational awareness"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2   2.14.1(b)(i) personality traits, for example introvert/extrovert"
+    },
+    {
+        "question": "Hypoxia is most likely to impair a pilots performance at altitudes above:",
+        "options": [
+            "3,000 ft",
+            "5,000 ft",
+            "10,000 ft",
+            "15,000 ft"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2   2.13.1(c) know the symptoms are diffucult to detect in healthy individuals and can develop much faster at higher altitudes"
+    },
+    {
+        "question": "What is the main function of the vestibular system in flight?",
+        "options": [
+            "Oxygen regulation",
+            "Balance and spatial orientation",
+            "Hearing",
+            "Blood circulation"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The vestibular system senses\u00a0motion and orientation, helping pilots maintain balance and spatial orientation during flight.",
+        "kd": null
+    },
+    {
+        "question": "Stress in pilots can lead to:",
+        "options": [
+            "Improved reaction time",
+            "Enhanced memory",
+            "Degraded decision making",
+            "Increased situational awareness"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "What is the primary goal of Threat and Error Management (TEM)?",
+        "options": [
+            "To eliminate all threats and errors",
+            "'To manage human factors regulations",
+            "To identify and manage threats and errors before they lead to undesired aircraft states",
+            "To improve aircraft maintenance procedures"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "TEM aims to\u00a0detect and handle threats and errors effectively\u00a0to maintain safe flight operations.",
+        "kd": null
+    },
+    {
+        "question": "A 'threat' in the conquestion of TEM is best described as:",
+        "options": [
+            "A deliberate violation of procedures",
+            "An external event or error that increases operational complexity",
+            "A mechanical failure caused by human error",
+            "A pilot's poor decision-making"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Which of the following is an example of an 'undesired aircraft state'?",
+        "options": [
+            "A pilot incorrectly programming the flight management system",
+            "An aircraft being on final approach with incorrect flap configuration",
+            "Weather briefing not being updated prior to flight",
+            "Pre-flight checks completed thoroughly"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Effective crew resource management (CRM) supports TEM by:",
+        "options": [
+            "Increasing reliance on automation",
+            "Reducing the need for standard operating procedures",
+            "Promoting teamwork and communication to manage threats and errors",
+            "Ensuring all threats are eliminated"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Which of the following actions is part of error management?",
+        "options": [
+            "Ignoring the error to prevent confusion",
+            "identifying and trapping the error before it leads to consequences",
+            "Delegating error responsibility to ATC",
+            "Assuming errors are inevitable and uncontrollable"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "At 30,000ft, the approximate time of useful consciousness is:",
+        "options": [
+            "20 seconds",
+            "1 minute",
+            "5 minutes",
+            "20 minutes"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "A runway that slopes up and away from the approach threshold can likely lead to the pilot to:",
+        "options": [
+            "making a shallow approach and land short",
+            "making a steep approach and land short",
+            "making a steep approach and land long",
+            "making a shallow approach and land long"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.1   2.7.12(d)(ii) width and slope of runway"
+    },
+    {
+        "question": "Decompression sickness is caused by:",
+        "options": [
+            "drinking alcohol at altitude",
+            "hyperventilating",
+            "after hypoxia",
+            "nitrogen dissolving in the body forming bubbles"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Which document contains first aid and survival information?",
+        "options": [
+            "AIP",
+            "CASR",
+            "ERSA",
+            "Part 91 Manual of Standards"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2   2.14.1 Recall first aid and survival information contained in ERSA"
+    },
+    {
+        "question": "Myopia is:",
+        "options": [
+            "Long sighted vision",
+            "short sighted vision",
+            "night vision",
+            "black out after a high G force manoeuvre"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2    2.8.2(e) common visual problems, viz myopia, hyperopia, astigmatism, presbyopia"
+    },
+    {
+        "question": "You have a planned flight at altitude, however you have a head cold. What are you most at risk of encountering?",
+        "options": [
+            "Hypoxia",
+            "empty field myopia",
+            "carbon monoxide poisoning",
+            "rupturing an eardrum"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Flying with a head cold greatly increases the risk of\u00a0ear and sinus barotrauma\u00a0due to blocked pressure equalization pathways.",
+        "kd": null
+    },
+    {
+        "question": "Which cells are used for vision in low level light?",
+        "options": [
+            "Cones",
+            "Retina",
+            "Fovea",
+            "Rods"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.1   2.7.1 Outline the anatomy of the eye and its functioning during the day and night"
+    },
+    {
+        "question": "Which cells are most sensitive for vision in light and colour?",
+        "options": [
+            "Cones",
+            "Retina",
+            "Fovea",
+            "Rods"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.1   2.7.1 Outline the anatomy of the eye and its functioning during the day and night"
+    },
+    {
+        "question": "On approach to land at an airport covered by haze the pilot will feel they are:",
+        "options": [
+            "Too high and under shoot",
+            "Too low and under shoot",
+            "Too high and overshoot",
+            "Too high and undershoot"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.1   2.7.12(b) depth perception, for example, flying over water, snow , desert and other featureless terrain effect of fog; haze; dust"
+    },
+    {
+        "question": "Approximately how long does it take for night vision to restore after being exposed to light?",
+        "options": [
+            "1 minute",
+            "5 minutes",
+            "30 minutes",
+            "1 hour"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "It takes about\u00a020\u201330 minutes\u00a0for your eyes to fully adapt and restore night vision after exposure to bright light. When moving from bright to dark environments, your eyes need time to regenerate rhodopsin (the light-sensitive pigment in the rods).",
+        "kd": "Unit 1.6.1   2.7.2 State the factors that affect night vision and identify methods of 'dark adaption'"
+    },
+    {
+        "question": "After donating blood, how long to wait before being able to fly?",
+        "options": [
+            "0 hours",
+            "24 hours",
+            "72 hours",
+            "1 week"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "After donating blood, you typically need to\u00a0wait before flying\u00a0due to the temporary reduction in blood volume and oxygen-carrying capacity.",
+        "kd": "Unit 1.6.2   2.5.1 Explain the effect on flying after giving a blood donation"
+    },
+    {
+        "question": "Which is an example of a pull mode conversation?",
+        "options": [
+            "not speaking up",
+            "expressing an opinion",
+            "asking a question",
+            "giving commands"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Which is an example of a push mode conversation?",
+        "options": [
+            "not speaking up",
+            "expressing an opinion",
+            "asking a question",
+            "reading back"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Empty field Myopia is the tendency for us to take up a resting focus position when there is nothing to focus on. The usual distance of resting focus position in front of the eyes is:",
+        "options": [
+            "1-2m",
+            "10m",
+            "20m",
+            "as far as the eye can see"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Empty field myopia\u00a0is a tendency for the eyes to default to a near-focus in featureless environments, reducing a pilot's ability to see distant objects clearly. The eyes focus at a near distance (1-2 metres) instead of infinity when there are no visual cues, such as in haze, cloud, or at night.",
+        "kd": "Unit 1.6.2   2.8.2(b) empty field myopia"
+    },
+    {
+        "question": "The average rate of time adjustment the body makes after crossing a number of time zones is:",
+        "options": [
+            "0.5 hours per day",
+            "1.5 hours per day",
+            "4 hours per day",
+            "6 hours per day"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "After crossing multiple time zones,\u00a0circadian rhythm disruption\u00a0occurs. The average rate at which the human body adjusts to new time zones is 1.5 hours per day",
+        "kd": null
+    },
+    {
+        "question": "A pilot who makes multiple accurate landings during a day but overshoots the last landing, what kind of error is this?",
+        "options": [
+            "Systematic",
+            "random",
+            "sporadic",
+            "fatigue"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "This is a\u00a0sporadic error, typically caused by factors like\u00a0fatigue, distraction, or loss of concentration\u00a0after repetitive tasks. A sporadic error occurs when a normally skilled individual makes an infrequent or occasional mistake, despite having performed the task correctly many times before.",
+        "kd": "Unit 1.6.2   2.15.2(a) give an example of a committed error and how action could be taken to ensure safe flight"
+    },
+    {
+        "question": "Hypoxia is when:",
+        "options": [
+            "An excess amount of carbon dioxide is in the blood",
+            "an excess amount of carbon monoxide is in the blood",
+            "an excess amount of oxygen fills the cockpit",
+            "an insufficient amount of oxygen and the body is unable to function at full capacity"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Hypoxia occurs when\u00a0there isn't enough oxygen reaching body tissues, impairing physical and cognitive functions \u2014 a critical risk in aviation, especially at altitude.",
+        "kd": null
+    },
+    {
+        "question": "The duration of sensory memory for visual images is approximately:",
+        "options": [
+            "1 second",
+            "3 seconds",
+            "15 seconds",
+            "60 seconds"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.1   2.7.1 Outline the anatomy of the eye and its functioning during the day and night"
+    },
+    {
+        "question": "A pilot may think that they are too low on approach when:",
+        "options": [
+            "The runway is wider than usual",
+            "The runway is narrower than usual",
+            "The runway is longer than usual",
+            "There is moderate rain on the windscreen."
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.1   2.7.12(d)(ii) width and slope of runway"
+    },
+    {
+        "question": "After takeoff on a very dark night with no visual cues, as pilot accelerates the aircraft he/she feels as if the aircraft is in a nose up attitude. This effect is also known as:",
+        "options": [
+            "Coriolis illusion",
+            "the leans",
+            "somatogravic illusion",
+            "auto kinesis"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "On a dark night takeoff with no visual cues, the\u00a0somatogravic illusion\u00a0can trick the pilot into perceiving a nose-up pitch when accelerating.",
+        "kd": "Unit 1.6.2   2.8.5(f) somatogravic illusion"
+    },
+    {
+        "question": "Which part of the eye is responsible for detecting light?",
+        "options": [
+            "retina",
+            "cones",
+            "cornea",
+            "rods"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Rods:\u00a0Detect light intensity and are responsible for vision in low-light conditions.",
+        "kd": "Unit 1.6.1   2.7.1 Outline the anatomy of the eye and its functioning during the day and night"
+    },
+    {
+        "question": "Which of the following conditions is most likely to lead to the leans?",
+        "options": [
+            "A prolonged shallow turn",
+            "a quick steep turn",
+            "accelerating rapidly",
+            "pitching the nose of the aircraft rapidly"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2   2.8.5(a) leans"
+    },
+    {
+        "question": "When must supplemental oxygen be carried?",
+        "options": [
+            "5,000ft",
+            "10,000ft",
+            "15,000ft",
+            "20,000ft"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Under\u00a0CASA regulations (CASR Part 91) the requirements for carrying and using supplemental oxygen are supplemental oxygen must be carried and used by crew above 10,000 ft",
+        "kd": "Unit 1.6.2    2.13.1(f) list methods of combating various forms of hypoxia"
+    },
+    {
+        "question": "What level of sound exposure will cause permanent hearing loss?",
+        "options": [
+            "55dB",
+            "65dB",
+            "70dB",
+            "85dB"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Continuous exposure to sounds\u00a0\u226585 dB\u00a0or any exposure to sounds\u00a0>120 dB\u00a0risks\u00a0permanent hearing loss, especially without protection.",
+        "kd": "Unit 1.6.1   2.5.3(a) hearing loss: long and short term"
+    },
+    {
+        "question": "Alcohol impairs pilot performance by affecting the:",
+        "options": [
+            "Inner ear only",
+            "Visual cortex only",
+            "Central nervous system",
+            "Liver exclusively"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Which of the following best describes the impact of alcohol when combined with altitude exposure?",
+        "options": [
+            "No impact",
+            "Improved tolerance to hypoxia",
+            "Exacerbation of hypoxic effects",
+            "Reduced fatigue"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Alcohol consumption\u00a0intensifies the effects of hypoxia\u00a0at altitude, increasing the risk of impaired performance and decision-making in pilots. At altitude, the lower oxygen availability combined with alcohol\u2019s depressive effect on the central nervous system significantly worsens hypoxia symptoms.",
+        "kd": "Unit 1.6.2   2.13.1(d) list factors which may increase a persons susceptability to hypoxia"
+    },
+    {
+        "question": "Which type of drug is most associated with impairments in judgment, coordination, and reaction time when flying?",
+        "options": [
+            "Antibiotics",
+            "Antidepressants",
+            "Narcotics and sedatives",
+            "Vitamins"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2   2.4.4(c) opium based substances, for example codiene, heroin"
+    },
+    {
+        "question": "What is the most likely cause of the graveyard spin illusion?",
+        "options": [
+            "Visual illusion from horizon lights",
+            "Misleading inner ear signals after prolonged spin",
+            "Instrument error",
+            "Overuse of rudder pedals"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0graveyard spin\u00a0illusion is most likely caused by the\u00a0vestibular system in the inner ear, specifically due to the\u00a0semicircular canals\u00a0failing to detect continued rotation after a few seconds.",
+        "kd": "Unit 1.6.2   2.8.5(e) graveyard spin illusion"
+    },
+    {
+        "question": "Which sensory system is primarily responsible for the graveyard spin illusion?",
+        "options": [
+            "Visual system",
+            "Proprioceptive system",
+            "Vestibular system",
+            "Auditory system"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0graveyard spin\u00a0illusion is most likely caused by the\u00a0vestibular system in the inner ear, specifically due to the\u00a0semicircular canals\u00a0failing to detect continued rotation after a few seconds.",
+        "kd": "Unit 1.6.2   2.8.5(e) graveyard spin illusion"
+    },
+    {
+        "question": "What causes the somatogravic illusion in flight?",
+        "options": [
+            "Rapid linear acceleration affecting the otolith organs",
+            "Loss of peripheral vision",
+            "Turbulent air during descent",
+            "Excessive yaw movement in cruise"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0somatogravic illusion\u00a0in flight is caused by\u00a0linear acceleration\u00a0or\u00a0deceleration, which the\u00a0otolith organs\u00a0in the\u00a0vestibular system\u00a0misinterpret as a change in\u00a0pitch attitude.",
+        "kd": "Unit 1.6.2   2.8.5(f) somatogravic illusion"
+    },
+    {
+        "question": "During a rapid takeoff at night, a pilot experiencing the somatogravic illusion may incorrectly perceive:",
+        "options": [
+            "A climb",
+            "A descent",
+            "A turn to the left",
+            "A turn to the right"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2   2.8.5(f) somatogravic illusion"
+    },
+    {
+        "question": "A hazardous response to the somatogravic illusion during takeoff could be:",
+        "options": [
+            "Holding attitude",
+            "Pitching up",
+            "Pitching down",
+            "Applying right rudder"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2   2.8.5(f) somatogravic illusion"
+    },
+    {
+        "question": "Which personality trait can negatively affect decision-making by causing a pilot to disregard advice or procedures?",
+        "options": [
+            "Assertiveness",
+            "Anti-authority",
+            "Self-confidence",
+            "Flexibility"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Which of the following best describes a pilot who frequently takes unnecessary risks to prove their abilities?",
+        "options": [
+            "Macho attitude",
+            "Impulsive",
+            "Introversion",
+            "Resignation"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "A pilot who believes they cannot influence outcomes and therefore gives up easily is showing signs of:",
+        "options": [
+            "Confidence",
+            "Invulnerability",
+            "Resignation",
+            "Assertiveness"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A pilot who believes they cannot influence outcomes and gives up easily is showing signs of\u00a0resignation",
+        "kd": null
+    },
+    {
+        "question": "Which of the following is an ergonomic principle for cockpit design?",
+        "options": [
+            "Use small, complex switches",
+            "Place instruments randomly to avoid clutter",
+            "Group controls logically and within reach",
+            "Use dim lighting to reduce distraction"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Which model is commonly used to guide pilot decision-making under pressure?",
+        "options": [
+            "TEM model",
+            "PAVE checklist",
+            "DECIDE model",
+            "GROW model"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "In the DECIDE model, what does the \u201cE\u201d stand for in the final step?",
+        "options": [
+            "Execute",
+            "Eliminate",
+            "Evaluate",
+            "Estimate"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The final\u00a0\"E\"\u00a0means to\u00a0evaluate\u00a0the effectiveness of the actions taken.",
+        "kd": null
+    },
+    {
+        "question": "Which of the following is most likely to degrade a pilot's decision-making ability?",
+        "options": [
+            "Flight experience",
+            "Effective teamwork",
+            "Stress and fatigue",
+            "Adherence to SOPs"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "A pilot who fails to gather all available information before making a decision is likely neglecting which ADM step?",
+        "options": [
+            "Identify alternatives",
+            "Define the problem",
+            "Evaluate the outcome",
+            "Choose a course of action"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Which of the following is an example of a latent threat?",
+        "options": [
+            "Turbulence during descent",
+            "Unfamiliar approach procedure",
+            "Fatigue from inadequate rest",
+            "Incorrect switch labelling in the cockpit"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.1   2.15.3 Define 'threat' and give examples of threats"
+    },
+    {
+        "question": "A poorly designed checklist that leads to a missed item is an example of:",
+        "options": [
+            "Active error",
+            "Latent threat",
+            "Environmental threat",
+            "Deliberate violation"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.1   2.15.5 Explain how the use of checklist and standard operating procedures can prevent errors"
+    },
+    {
+        "question": "Why are latent threats particularly dangerous in aviation?",
+        "options": [
+            "They are easy to detect but hard to avoid",
+            "They are rare but always catastrophic",
+            "They often remain unnoticed until they combine with other factors",
+            "They only affect maintenance personnel"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Latent threats are dangerous because they\u00a0remain hidden until activated, increasing the risk of accidents through complex interactions with other factors.",
+        "kd": "Unit 1.6.1   2.15.3 Define 'threat' and give examples of threats"
+    },
+    {
+        "question": "What type of colour vision deficiency is most common in males?",
+        "options": [
+            "Blue-yellow deficiency",
+            "Red-green deficiency",
+            "Total colour blindness",
+            "Yellow-blue deficiency"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0most common type of colour vision deficiency in males\u00a0is red-green colour blindness, specifically Deuteranomaly (green-weakness).",
+        "kd": "Unit 1.6.2   2.8.2(d) colour vision in aviation"
+    },
+    {
+        "question": "How does the CASA medical standards address colour vision deficiencies in pilots?",
+        "options": [
+            "All colour deficiencies are disqualifying",
+            "Minor deficiencies may be acceptable with restrictions",
+            "Colour vision testing is optional",
+            "Pilots with deficiencies must wear corrective lenses"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2   2.8.2(d) colour vision in aviation"
+    },
+    {
+        "question": "Which body area is most commonly affected by trapped gases during ascent?",
+        "options": [
+            "Stomach and intestines",
+            "Lungs",
+            "Ears",
+            "Nose"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2   2.4.1(a) recall the effect of changes in pressure on gasses trapped in the body cavities"
+    },
+    {
+        "question": "How long after consuming contaminated food do food poisoning symptoms typically appear?",
+        "options": [
+            "Immediately",
+            "Within minutes",
+            "Within hours to days",
+            "After one week"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Symptoms usually develop\u00a0within a few hours to 2 days, but the exact timing depends on the specific pathogen or toxin.",
+        "kd": null
+    },
+    {
+        "question": "Which action can help relieve trapped gas pain during flight?",
+        "options": [
+            "Deep breathing exercises",
+            "Rapid head movements",
+            "Increased fluid intake",
+            "Taking sedatives"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Which symptom is most commonly associated with motion sickness?",
+        "options": [
+            "Headache",
+            "Nausea",
+            "Blurred vision",
+            "Dizziness"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2   2.9.1 Describe the cause of motion sickness"
+    },
+    {
+        "question": "What causes motion sickness in pilots?",
+        "options": [
+            "Inner ear disturbances",
+            "Lack of oxygen",
+            "Poor nutrition",
+            "Dehydration"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2   2.9.1 Describe the cause of motion sickness"
+    },
+    {
+        "question": "What is the main physiological effect of positive G-forces on the pilot\u2019s body?",
+        "options": [
+            "Blood pooling in the legs",
+            "Increased oxygen to the brain",
+            "Improved vision",
+            "Muscle relaxation"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2   2.10.1(c) consciousness"
+    },
+    {
+        "question": "Negative G-forces primarily cause which effect?",
+        "options": [
+            "Blood rushing to the head",
+            "Blood pooling in the legs",
+            "Muscle fatigue",
+            "Improved vision"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2   2.10.1(c) consciousness"
+    },
+    {
+        "question": "How can effective crew resource management (CRM) assist in managing a UAS?",
+        "options": [
+            "Delegating tasks and maintaining communication",
+            "Ignoring co-pilot input",
+            "Focusing only on flying",
+            "Turning off all radios"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "When first recognising an undesired aircraft state, what is the priority action?",
+        "options": [
+            "Immediately reduce power to idle",
+            "Maintain aircraft control and delay recovery actions until stable",
+            "Initiate recovery while calling ATC",
+            "Deploy all available automation"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The first and most critical action is to\u00a0fly (stabilise) the aircraft\u00a0before addressing other concerns.",
+        "kd": null
+    },
+    {
+        "question": "How can automation assist or hinder management of an undesired aircraft state?",
+        "options": [
+            "Automation always improves UAS recovery",
+            "Automation can mask symptoms, delaying pilot recognition",
+            "Automation is irrelevant to UAS management",
+            "Automation replaces the need for pilot intervention"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Why might pilots experience reduced thirst sensation during flight?",
+        "options": [
+            "Cabin humidity is higher at altitude",
+            "Changes in body fluid regulation",
+            "Increased water retention",
+            "Overhydration prior to flight"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Why might pilots not notice dehydration symptoms during short flights?",
+        "options": [
+            "Symptoms develop slowly",
+            "Cockpit oxygen masks mask symptoms",
+            "Flight altitude prevents dehydration",
+            "Short flights require no hydration"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "On short flights, dehydration signs may be\u00a0subtle and masked by task focus, making them less noticeable to pilots.",
+        "kd": null
+    },
+    {
+        "question": "What is hyperopia?",
+        "options": [
+            "Difficulty seeing close objects clearly",
+            "Difficulty seeing distant objects clearly",
+            "Complete vision loss",
+            "Double vision"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2    2.8.2(e) common visual problems, viz myopia, hyperopia, astigmatism, presbyopia"
+    },
+    {
+        "question": "How can uncorrected hyperopia affect a pilot during flight?",
+        "options": [
+            "Difficulty reading instruments at close range",
+            "Blurry distant landmarks",
+            "Complete night blindness",
+            "Colour vision deficiency"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2    2.8.2(e) common visual problems, viz myopia, hyperopia, astigmatism, presbyopia"
+    },
+    {
+        "question": "How might uncorrected myopia affect a pilot during flight?",
+        "options": [
+            "Difficulty reading distant signage",
+            "Difficulty focusing on instruments",
+            "Increased night vision",
+            "Colour blindness"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.2    2.8.2(e) common visual problems, viz myopia, hyperopia, astigmatism, presbyopia"
+    },
+    {
+        "question": "Which symptom might a pilot with uncorrected myopia experience?",
+        "options": [
+            "Squinting to see distant objects",
+            "Eye strain when reading close question",
+            "Complete colour vision loss",
+            "Frequent dizziness unrelated to vision"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Blurry distance vision\u00a0is the primary symptom a pilot with uncorrected myopia would experience, which can impact flight safety.",
+        "kd": "Unit 1.6.2    2.8.2(e) common visual problems, viz myopia, hyperopia, astigmatism, presbyopia"
+    },
+    {
+        "question": "How does stress typically affect risk perception in pilots?",
+        "options": [
+            "Underestimating risks",
+            "Accurate risk assessment",
+            "Overestimating abilities",
+            "Ignoring all risks"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "On a approach to long wide runway with terrain that slopes down, the pilot may feel that they are:",
+        "options": [
+            "low on appoach and have a tendency to overshoot",
+            "high on appoach and have a tendency to overshoot",
+            "low on appoach and have a tendency to undershoot",
+            "high on appoach and have a tendency to undershoot"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.1   2.7.12(d)(ii) width and slope of runway"
+    },
+    {
+        "question": "A disorientated pilot should:",
+        "options": [
+            "combine flight instrument indications with visual cues",
+            "look out for visual cues",
+            "avoid head movements",
+            "pitch the nose up and re-orientated"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "On a approach to short runway with terrain that slopes down, the pilot may feel that they are:",
+        "options": [
+            "low on approach and have a tendency to overshoot",
+            "high on approach and have a tendency to overshoot",
+            "low on approach and have a tendency to undershoot",
+            "high on approach and have a tendency to undershoot"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.1   2.7.12(d)(ii) width and slope of runway"
+    },
+    {
+        "question": "During a climb, expanded gases are most likely to cause pain when it is trapped in:",
+        "options": [
+            "bowels",
+            "bladder",
+            "stomach",
+            "lungs"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.6.1   2.4.1(a) recall the effect of changes in pressure on gases trapped in the body cavities"
+    },
+    {
+        "question": "What is hypertension?",
+        "options": [
+            "Low blood sugar levels",
+            "Increased respiratory rate",
+            "Chronically elevated blood pressure",
+            "Irregular heart rhythm"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Hypertension\u00a0is the medical term for\u00a0high blood pressure\u2014a condition where the force of blood pushing against the walls of the arteries is consistently too high.",
+        "kd": null
+    },
+    {
+        "question": "Which of the following best reflects a\u00a0hidden\u00a0danger of a shallow cockpit gradient?",
+        "options": [
+            "Excessive questioning disrupts workflow",
+            "Over-reliance on captain\u2019s experience",
+            "Miscommunication due to informal tone",
+            "Loss of role clarity"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Which approach is most effective in managing cockpit gradient during flight?",
+        "options": [
+            "Strict adherence to hierarchy",
+            "Assigning all decisions to the captain",
+            "Encouraging mutual respect and open communication",
+            "Limiting first officer input to non-critical phases"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "What is a potential risk of a\u00a0shallow cockpit gradient\u00a0in a two-pilot operation?",
+        "options": [
+            "The captain may ignore safety concerns",
+            "Authority may be too centralized",
+            "Crew may hesitate to question decisions",
+            "Confusion over leadership and decision-making responsibilities"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "In which situation could a shallow cockpit gradient be\u00a0least appropriate?",
+        "options": [
+            "Routine line operations in stable weather",
+            "Emergency requiring time-critical decision-making",
+            "Post-flight debriefing session",
+            "Crew training with instructor oversight"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Why is it important for flight crew to understand their own and each other\u2019s personality types?",
+        "options": [
+            "To assign rank and roles",
+            "To prevent fatigue",
+            "To tailor checklists accordingly",
+            "To optimise communication and workload management"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "In a CRM conquestion, which trait might an extroverted first officer need to manage during a high-stress situation?",
+        "options": [
+            "Reluctance to speak up",
+            "Over-assertiveness or excessive input",
+            "Withdrawing from communication",
+            "Lack of situational awareness"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "What is a potential strength of an introverted pilot under high workload conditions?",
+        "options": [
+            "Seeks consensus under pressure",
+            "Avoids communication entirely",
+            "Remains calm and focused on internal processes",
+            "Takes control of all decision-making"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "What is hypertension, and which of the following is a likely contributing factor?",
+        "options": [
+            "A condition where blood pressure is abnormally low",
+            "A state of increased intraocular pressure",
+            "Abnormally high blood pressure, often linked to stress, diet, or genetics",
+            "A temporary drop in blood pressure due to dehydration"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "What is the EPT (Effective Perfromance Time) at 20,000ft?",
+        "options": [
+            "15- 30 minutes",
+            "1 -2 minutes",
+            "7 - 10 minutes",
+            "30 - 60 seconds"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0Effective Performance Time (EPT), also known as\u00a0Time of Useful Consciousness (TUC), at\u00a020,000 feet\u00a0is typically 5 - 12 minutes",
+        "kd": "Unit 1.6.2    2.13.1(e) state the approximate time of useful conciousness (effective performance time: EPT) at 20,000, 25,000 and 30,000ft and list factors which effect EPT"
+    },
+    {
+        "question": "What is the EPT (Effective Perfromance Time) at 25,000ft?",
+        "options": [
+            "15- 30 minutes",
+            "3 -5 minutes",
+            "7 - 10 minutes",
+            "30 - 60 seconds"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0Effective Performance Time (EPT), also known as\u00a0Time of Useful Consciousness (TUC), at\u00a025,000 feet\u00a0is typically 3 - 5minutes",
+        "kd": "Unit 1.6.2    2.13.1(e) state the approximate time of useful conciousness (effective performance time: EPT) at 20,000, 25,000 and 30,000ft and list factors which effect EPT"
+    },
+    {
+        "question": "Without supplementary oxygen, what is the EPT (Effective Perfromance Time) at 30,000ft?",
+        "options": [
+            "15- 30 minutes",
+            "3 -5 minutes",
+            "7 - 10 minutes",
+            "30 - 60 seconds"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0Effective Performance Time (EPT), also known as\u00a0Time of Useful Consciousness (TUC), at\u00a030,000 feet\u00a0is typically 1-2 minutes",
+        "kd": "Unit 1.6.2    2.13.1(e) state the approximate time of useful conciousness (effective performance time: EPT) at 20,000, 25,000 and 30,000ft and list factors which effect EPT"
+    },
+    {
+        "question": "According to CASA regulations, what is the recommended minimum \u201cbottle-to-throttle\u201d time (time between last alcohol intake and flying)?",
+        "options": [
+            "1 hour",
+            "4 hours",
+            "8 hours",
+            "24 hours"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Which symptom is commonly associated with hyperventilation?",
+        "options": [
+            "Tingling or numbness in fingers and lips",
+            "Increased blood pressure",
+            "Excessive thirst",
+            "Blurred vision without dizziness"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Low CO2 causes blood vessels to constrict, reducing blood flow to the brain and extremities, resulting in tingling sensations and numbness.",
+        "kd": "Unit 1.6.1   2.3.2 Define hyperventilation and recall its causes"
+    },
+    {
+        "question": "What is hyperventilation?",
+        "options": [
+            "Slow, shallow breathing leading to increased CO2 in the blood",
+            "Rapid, deep breathing causing excessive loss of carbon dioxide (CO2)",
+            "Normal breathing pattern during exercise",
+            "A type of breath-holding technique"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Hyperventilation involves over-breathing, which reduces CO2 levels (hypocapnia) in the blood, leading to various physiological symptoms.",
+        "kd": "Unit 1.6.1   2.3.2 Define hyperventilation and recall its causes"
+    },
+    {
+        "question": "What is an effective method to manage hyperventilation during flight?",
+        "options": [
+            "Increasing altitude immediately",
+            "Breathing into a paper bag or cupped hands to rebreathe CO2",
+            "Decrease altitude immediately",
+            "Holding breath for extended periods"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Rebreathing CO2 helps restore normal levels, alleviating symptoms caused by hyperventilation.",
+        "kd": "Unit 1.6.1   2.3.2 Define hyperventilation and recall its causes"
+    },
+    {
+        "question": "Which of the following is a common risk factor for developing hypertension?",
+        "options": [
+            "Regular physical exercise",
+            "High salt intake",
+            "Adequate hydration",
+            "Having a mid - high BMI"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Excessive salt intake can cause the body to retain water, increasing blood volume and raising blood pressure.",
+        "kd": null
+    },
+    {
+        "question": "Which respiratory effect of smoking can impair a pilot\u2019s performance at altitude?",
+        "options": [
+            "Enhanced lung capacity at altitudes above 8,000ft",
+            "Improved ability to breathe at high altitude",
+            "Less susceptable to hypoxia at night",
+            "Chronic bronchitis and reduced lung function"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Smoking damages airways and lungs, leading to decreased respiratory efficiency and increased risk of hypoxia at altitude.",
+        "kd": null
+  }
+  ]
+}

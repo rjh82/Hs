@@ -1,0 +1,468 @@
+{
+  "quizTitle": "CPL(H) Operations, Performance and Flight Planning Practice Exam",
+  "timePerQuestion": 20,
+  "numQuestions": 2,
+  "questions": [
+        {
+        "question": "What is the Density Altitude given the below figures:\nAltitude: 3,000ft\nQNH: 1017hPa\nOAT: 26\u02daC",
+        "options": [
+            "3460ft",
+            "4250ft",
+            "4560ft",
+            "4650ft"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "(1013-1017) x 30ft = -120ft\nPA = 3000ft- 120ft = 2880ft\ndelta temp = 23\u02daC - 9\u02daC = 14\u02daC\n14 x 120 = 1,680ft\nDA = 1680 + 2880 = 4560ft",
+        "kd": "Unit 1.9.5   2.1.1(a) OAT and pressure height"
+    },
+    {
+        "question": "What is the Density Altitude given the below figures:\nAltitude: 1,500ft\nQNH: 1007hPa\nOAT: 16\u02daC",
+        "options": [
+            "1680ft",
+            "480ft",
+            "2160ft",
+            "1800ft"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "(1013-1007) x 30ft = 180ft\nPA = 1500ft + 180ft = 1680ft\ndelta temp = 16\u02daC - 12\u02daC = 4\u02daC\n4 x 120 = 480ft\nDA = 480 + 1680 = 2160ft",
+        "kd": "Unit 1.9.5   2.1.1(a) OAT and pressure height"
+    },
+    {
+        "question": "What is the Density Altitude given the below figures:\nAltitude: 6,500ft\nQNH: 1023hPa\nOAT: 22\u02daC",
+        "options": [
+            "2280ft",
+            "5400ft",
+            "6200ft",
+            "8480ft"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "(1013-1023) x 30ft = -300ft\nPA = 6500ft- 300ft = 6200ft\ndelta temp = 22\u02daC - 3\u02daC = 19\u02daC\n19 x 120 = 2280ft\nDA = 6200 + 2280 = 8,480ft",
+        "kd": "Unit 1.9.5   2.1.1(a) OAT and pressure height"
+    },
+    {
+        "question": "What is the Density Altitude given the below figures:\nAltitude: 3,800ft\nQNH: 1003hPa\nOAT: 29\u02daC",
+        "options": [
+            "4100ft",
+            "5480ft",
+            "6980ft",
+            "7120ft"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "(1013-1003) x 30ft = +300ft\nPA = 3800ft + 300ft = 4100ft\ndelta temp = 31\u02daC - 7\u02daC = 24\u02daC\n24\u02daC x 120ft = 2,880ft\nDA = 4100 + 2880 = 6980ft",
+        "kd": "Unit 1.9.5   2.1.1(a) OAT and pressure height"
+    },
+    {
+        "question": "Refer to the Bell 206L-1 Long Ranger II Performance and Operations Handbook. With a Pressure Altitude of 2,500ft, an OAT of +16\u02daC and a gross weight of 1,647kg. What is the maximum ROC using Max Continuous Power with all door on?",
+        "options": [
+            "1,420fpm",
+            "1,325fpm",
+            "1,280fpm",
+            "1,190fpm"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.9.7   1.4.1(a) the best rate of climb for various conditions of pressure altitude, temperature and weight"
+    },
+    {
+        "question": "Refer to the Bell 206L-1 Long Ranger II Performance and Operations Handbook. With a Pressure Altitude of 4,000ft, an OAT of +20\u02daC and a gross weight of 1,721kg. What is the maximum ROC using Max Takeoff Power with both left hand doors removed?",
+        "options": [
+            "1,350fpm",
+            "1,450fpm",
+            "1,500fpm",
+            "1,550fpm"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Reduce Rate of climb by 100fpm with any combination of door(s) off",
+        "kd": "Unit 1.9.7   1.4.1(a) the best rate of climb for various conditions of pressure altitude, temperature and weight"
+    },
+    {
+        "question": "Refer to the Bell 206L-1 Long Ranger II Performance and Operations Handbook. With a Pressure Altitude of 6,500ft, an OAT of +19\u02daC and a gross weight of 1,576kg. What is the maximum ROC using Max Continuous Power with all door on?",
+        "options": [
+            "1,280fpm",
+            "1,360fpm",
+            "1,420fpm",
+            "1,480fpm"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.9.7   1.4.1(a) the best rate of climb for various conditions of pressure altitude, temperature and weight"
+    },
+    {
+        "question": "Refer to the Bell 206L-1 Long Ranger II Performance and Operations Handbook. With a Pressure Altitude of 7,500ft, an OAT of +16\u02daC and a gross weight of 1,647kg. What is the maximum ROC using Max Takeoff Power with the front right door removed?",
+        "options": [
+            "1,450fpm",
+            "1,520fpm",
+            "1,580fpm",
+            "1,620fpm"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Reduce Rate of climb by 100fpm with any combination of door(s) off",
+        "kd": "Unit 1.9.7   1.4.1(a) the best rate of climb for various conditions of pressure altitude, temperature and weight"
+    },
+    {
+        "question": "Refer to the Bell 206L-1 Long Ranger II Performance and Operations Handbook. With a Pressure Altitude of 6,500ft, an OAT of +21\u02daC and a wind direction and speed of 290\u02da at 5kts. What is the maximum gross weight to Hover In Ground Effect?",
+        "options": [
+            "1754kg",
+            "1789kg",
+            "1,804kg",
+            "1837kg"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Refer to page 16 of the Bell 206L-1 Long Ranger II Performance and Operations Handbook.",
+        "kd": "Unit 1.9.7   1.3.2 Determine hover performance in abnd out of ground effect given the following"
+    },
+    {
+        "question": "Refer to the Bell 206L-1 Long Ranger II Performance and Operations Handbook. With a Pressure Altitude of 6,500ft, an OAT of +21\u02daC and a wind direction and speed of 290\u02da at 5kts. What is the maximum gross weight to Hover Out of Ground Effect?",
+        "options": [
+            "1717kg",
+            "1733kg",
+            "1791kg",
+            "1837kg"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Refer to page 17 of the Bell 206L-1 Long Ranger II Performance and Operations Handbook.",
+        "kd": "Unit 1.9.7   1.3.2 Determine hover performance in abnd out of ground effect given the following"
+    },
+    {
+        "question": "Refer to the Bell 206L-1 Long Ranger II Performance and Operations Handbook. With a Pressure Altitude of 6,500ft, an OAT of +21\u02daC and a wind direction and speed of 190\u02da at 15kts. What is the maximum gross weight to Hover In Ground Ground Effect?",
+        "options": [
+            "1754kg",
+            "1789kg",
+            "1,804kg",
+            "1837kg"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Refer to page 16 of the Bell 206L-1 Long Ranger II Performance and Operations Handbook.",
+        "kd": "Unit 1.9.7   1.3.2 Determine hover performance in abnd out of ground effect given the following"
+    },
+    {
+        "question": "Refer to the Bell 206L-1 Long Ranger II Performance and Operations Handbook. With a Pressure Altitude of 6,500ft, an OAT of +21\u02daC and a wind direction and speed of 190\u02da at 15kts. What is the maximum gross weight to Hover Out of Ground Effect?",
+        "options": [
+            "1717kg",
+            "1733kg",
+            "1791kg",
+            "1837kg"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Refer to page 17 of the Bell 206L-1 Long Ranger II Performance and Operations Handbook.",
+        "kd": "Unit 1.9.7   1.3.2 Determine hover performance in abnd out of ground effect given the following"
+    },
+    {
+        "question": "Which of the following applies to a basic HLS?",
+        "options": [
+            "can be used for day and night operations can be used for day operations only",
+            "requires a safety area extending 3m around the FATO",
+            "capabile of enclosing a circle of 1.5 times the 'D' value of the largest helicopter to be operated."
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "What does the D value of a helicopter refer to?",
+        "options": [
+            "diametre of the rotor disc",
+            "the maximum dimensions of the helicopter",
+            "the largest radius of the helicopters rotor disc",
+            "the maximum operating weight of the helicopter"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Find the CP/ETP given:\nPoint A to Point B = 124nm\nTAS=95kts\nwith an outbound headwind component of 14kts",
+        "options": [
+            "62nm",
+            "68nm",
+            "71nm",
+            "76nm"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "95 - 14 = 81kts outbound\n95 + 14 = 109kts inbound\nETP = (124nm x 109kts)/(109kts+81kts) = 71.1nm",
+        "kd": "Unit 1.9.5   5.3.2 Calculate time and distance to an ETP or PNR between 2 points, using planned or given data"
+    },
+    {
+        "question": "Find the CP/ETP given:\nPoint A to Point B = 157nm\nTAS=83kts\nwith an outbound headwind component of 16kts and a tailwind component inbound of 12kts",
+        "options": [
+            "78nm",
+            "82nm",
+            "87nm",
+            "92nm"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "83- 16 = 67kts outbound\n83 + 12 = 95kts inbound\nETP = (157nm x 95kts)/(95kts+67kts) = 92.06nm",
+        "kd": "Unit 1.9.5   5.3.2 Calculate time and distance to an ETP or PNR between 2 points, using planned or given data"
+    },
+    {
+        "question": "Find the CP/ETP given:\nPoint A to Point B = 103nm\nTAS=105kts\nwith an outbound tailwind component of 18kts and a inbound headwind component of 14kts",
+        "options": [
+            "55nm",
+            "57nm",
+            "61nm",
+            "64nm"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "103 + 18 = 121kts outbound\n103 - 14 = 89kts inbound\nETP = (105nm x 121kts)/(121kts+89kts) = 60.5nm",
+        "kd": "Unit 1.9.5   5.3.2 Calculate time and distance to an ETP or PNR between 2 points, using planned or given data"
+    },
+    {
+        "question": "Find the CP/ETP given:\nPoint A to Point B = 186nm\nTAS=110kts\nwith an outbound tailwind component of 22kts and an inbound headwind component of 6kts",
+        "options": [
+            "86nm",
+            "94nm",
+            "97nm",
+            "111nm"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "110 + 22 = 132kts outbound\n110 - 6 = 114kts inbound\nETP = (186nm x 114kts)/(132kts+114kts) = 86.2nm",
+        "kd": "Unit 1.9.5   5.3.2 Calculate time and distance to an ETP or PNR between 2 points, using planned or given data"
+    },
+    {
+        "question": "Find the CP/ETP given:\nPoint A to Point B = 86nm\nTAS=75kts\nwith an outbound headwind component of 14kts and an inbound headwind component of 5kts",
+        "options": [
+            "41nm",
+            "44nm",
+            "46nm",
+            "49nm"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "75 - 14 = 61kts outbound\n75 - 5 = 70kts inbound\nETP = (83nm x 70kts)/(70kts+61kts) = 44.4nm",
+        "kd": "Unit 1.9.5   5.3.2 Calculate time and distance to an ETP or PNR between 2 points, using planned or given data"
+    },
+    {
+        "question": "The Moment is equal to:",
+        "options": [
+            "arm multiplied by the station weight",
+            "arm divided by the station weight",
+            "arm plus the station weight",
+            "arm squared + station weight"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.9.7   1.6.1(c) moment"
+    },
+    {
+        "question": "Find the PNR in nautical miles given: \nFuel onboard at start up: 118minutes\nFixed Reserve: 20 minutes\nContingency Fuel: 10%\nStart/Taxi Fuel: 5 minutes\nTAS = 75kts\nWind: Outbound = 12kt headwind, inbound 14kt tailwind",
+        "options": [
+            "48nm",
+            "51nm",
+            "55nm",
+            "61nm"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 2,
+        "explanation": "75 - 12 = 63kt outbound\n75+14 = 89kts inbound\nTSE = (118-5-20)/1.1 = 84.5 minutes\nPNR (mins) = 84.5 x 89/63+89 = 49 minutes\nPNR (nm) = 49mins @ 63kts = 51.5nm",
+        "kd": "Unit 1.9.5   5.3.2 Calculate time and distance to an ETP or PNR between 2 points, using planned or given data"
+    },
+    {
+        "question": "Find the PNR in nautical miles given: \nFuel onboard at start up: 156minutes\nFixed Reserve: 20 minutes\nContingency Fuel: 10%\nStart/Taxi Fuel: 5 minutes\nTAS = 105kts\nWind: Outhead = 12kt tailwind, inbound 14kt headwind",
+        "options": [
+            "91nm",
+            "96nm",
+            "101nm",
+            "104nm"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 2,
+        "explanation": "105 + 12 = 117kt outbound\n105-14 = 91kts inbound\nTSE = (156-5-20)/1.1 = 119.1 minutes\nPNR (mins) = 119.1 x 91/117+91 = 52 minutes\nPNR (nm) = 52mins @ 117kts = 101.4nm",
+        "kd": "Unit 1.9.5   5.3.2 Calculate time and distance to an ETP or PNR between 2 points, using planned or given data"
+    },
+    {
+        "question": "Find the PNR from the departure point in nautical miles given: \nFuel onboard at start up: 123 minutes\nFixed Reserve: 20 minutes\nContingency Fuel: 10%\nStart/Taxi Fuel: 5 minutes\nTAS = 90kts\nWind: Outbound = 22kt tailwind, inbound 19kt headwind",
+        "options": [
+            "64nm",
+            "68nm",
+            "71nm",
+            "74nm"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 2,
+        "explanation": "90 + 22 = 112kt outbound\n90-19 = 71kts inbound\nTSE = (123-5-20)/1.1 = 89.1 minutes\nPNR (mins) = 89.1 x 71/112+71 = 34.6minutes\nPNR (nm) = 34.6mins @ 112kts = 64.5nm",
+        "kd": "Unit 1.9.5   5.3.2 Calculate time and distance to an ETP or PNR between 2 points, using planned or given data"
+    },
+    {
+        "question": "Find the PNR in nautical miles given: \nFuel onboard at start up: 91 minutes\nFixed Reserve: 20 minutes\nContingency Fuel: 10%\nStart/Taxi Fuel: 5 minutes\nTAS = 85kts\nWind: Outhead = 10kt tailwind, inbound 8kt headwind",
+        "options": [
+            "38nm",
+            "42nm",
+            "45nm",
+            "47nm"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 2,
+        "explanation": "85 + 10= 95kt outbound\n86-8 = 78kts inbound\nTSE = (91-5-20)/1.1 = 60 minutes\nPNR (mins) = 60 x 78/95+78 = 27 minutes\nPNR (nm) = 27mins @ 95kts = 42.8nm",
+        "kd": "Unit 1.9.5   5.3.2 Calculate time and distance to an ETP or PNR between 2 points, using planned or given data"
+    },
+    {
+        "question": "Find the PNR in nautical miles given: \nFuel onboard at start up: 160 minutes\nFixed Reserve: 20 minutes\nContingency Fuel: 10%\nStart/Taxi Fuel: 5 minutes\nTAS = 110kts\nWind: Outbound= 22kt headwind, inbound 15kt tailwind",
+        "options": [
+            "96nm",
+            "99nm",
+            "101nm",
+            "104nm"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 2,
+        "explanation": "110- 22= 88kt outbound\n86+15 =101kts inbound\n1TSE = (160-5-20)/1.1 = 122.7 minutes\nPNR (mins) = 122.7 x 101/88+101 = 65.6 minutes\nPNR (nm) = 65.6mins @ 88kts = 96.2nm",
+        "kd": "Unit 1.9.5   5.3.2 Calculate time and distance to an ETP or PNR between 2 points, using planned or given data"
+    },
+    {
+        "question": "You have set your subscale on your altimetre to 1013.2hPa. This will indicate your:",
+        "options": [
+            "Density altitude",
+            "Height above ground level",
+            "Height above mean sea level",
+            "Pressure Altitude"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.9.5   2.1.1(b) using cockpit temperature and an altimetre setting of 1013.2hPa"
+    },
+    {
+        "question": "Refer to the Bell 206L-1 Long Ranger II Performance and Operations Handbook. What is the Vne at a pressure altitude of 2,000ft?",
+        "options": [
+            "84kts",
+            "90kts",
+            "130kts",
+            "150kts"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Refer to page 4 of the Bell 206L-1 Long Ranger II Performance and Operations Handbook.",
+        "kd": "Unit 1.9.7   1.1.1(e) never exceed speed - power on"
+    },
+    {
+        "question": "Refer to the Bell 206L-1 Long Ranger II Performance and Operations Handbook. What is the Vne at a pressure altitude of 2,000ft with the pilot door removed?",
+        "options": [
+            "84kts",
+            "90kts",
+            "130kts",
+            "150kts"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Refer to page 4 of the Bell 206L-1 Long Ranger II Performance and Operations Handbook.",
+        "kd": "Unit 1.9.7   1.1.1(e) never exceed speed - power on"
+    },
+    {
+        "question": "Refer to the Bell 206L-1 Long Ranger II Performance and Operations Handbook. What is the Vne at a pressure altitude of 2,000ft with the pilot door removed and a torque setting of 92%?",
+        "options": [
+            "84kts",
+            "90kts",
+            "130kts",
+            "150kts"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Refer to page 4 of the Bell 206L-1 Long Ranger II Performance and Operations Handbook.",
+        "kd": "Unit 1.9.7   1.1.1(e) never exceed speed - power on"
+    },
+    {
+        "question": "How long before a flight should you submit a flight plan?",
+        "options": [
+            "15 minutes before entry into controlled airspace",
+            "30 minutes before entry into controlled airspace",
+            "60 minutes before entry into controlled airspace",
+            "120 minutes before entry into controlled airspace"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR1.10 (2)",
+        "kd": "Unit 1.9.7   1.7.4 State the minimum flight notification required, the methods of submitting this notification and identify the flight plan details that must be submitted"
+    },
+    {
+        "question": "You plan for a flight to a destination that has an 'INTER' with deteoriating conditions below VMC minimas during your ETA. You elect not to nominate an alternate, but to use holding fuel. How much holding fuel is required?",
+        "options": [
+            "15 minutes",
+            "30 minutes",
+            "45 minutes",
+            "60 minutes"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.9.7   1.7.5(b)(ii) determine the quantity of additional fuel required for holding or flight to the alternate"
+    },
+    {
+        "question": "You plan for a flight to a destination that has an 'TEMPO' with deteoriating conditions below VMC minimas during your ETA. You elect not to nominate an alternate, but to use holding fuel. How much holding fuel is required?",
+        "options": [
+            "15 minutes",
+            "30 minutes",
+            "45 minutes",
+            "60 minutes"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.9.7   1.7.5(b)(ii) determine the quantity of additional fuel required for holding or flight to the alternate"
+    },
+    {
+        "question": "Refer to the Bell 206L-1 Long Ranger II Performance and Operations Handbook. What is the maximum weight that can be carried in the baggage compartment?",
+        "options": [
+            "86kg",
+            "113kg",
+            "125kg",
+            "250kg"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Refer to page 8 of the Bell 206L-1 Long Ranger II Performance and Operations Handbook.",
+        "kd": "Unit 1.9.7   1.6.2(a)(ii) capacity and arm of the baggage lockers"
+     }
+  ]
+}

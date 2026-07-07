@@ -1,0 +1,1797 @@
+{
+  "quizTitle": "CPL(H) Air Law Practice Exam",
+  "timePerQuestion": 20,
+  "numQuestions": 2,
+  "questions": [
+        {
+        "question": "When must you carry an ELT?",
+        "options": [
+            "Always",
+            "Beyond 50nm",
+            "when flying over desert",
+            "when beyond 50nm from nearest aerodrome"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - Division 26.12 Emergency locator transmitters",
+        "kd": null
+    },
+    {
+        "question": "What are the rules for smoking in aircraft?",
+        "options": [
+            "Smoking is strictly not permitted throughout any flight",
+            "Smoking is not permitted during take-off or landing; or whenever the pilot in command has directed not to smoke",
+            "Smoking is not permitted during take-off and landing however electronic cigarettes are permitted"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CASR 91.530 When smoking not permitted",
+        "kd": null
+    },
+    {
+        "question": "The minimum visibility for Special VFR is:",
+        "options": [
+            "800m",
+            "1600m",
+            "5km",
+            "700m"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.01 Special VFR",
+        "kd": "Unit 1.5.10   2.2.2 Describe the requirements for operating in Class C and D airspace and special VFR clearance provisions"
+    },
+    {
+        "question": "In which airspace can you obtain Special VFR?",
+        "options": [
+            "Class C",
+            "Class D",
+            "Class G",
+            "Class C & D"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.01 Special VFR",
+        "kd": "Unit 1.5.10   2.2.2 Describe the requirements for operating in Class C and D airspace and special VFR clearance provisions"
+    },
+    {
+        "question": "In which airspace can you use Heli VMC?",
+        "options": [
+            "Class C",
+            "Class D",
+            "Class G",
+            "Class C & D"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.07 VMC criteria",
+        "kd": "Unit 1.5.10   2.2.4 Describe the minimum VMC requirements for operating in Class G airspace"
+    },
+    {
+        "question": "Flight over a city, town or populus area at a height of less than 1,000ft AGL is permissible:",
+        "options": [
+            "If cloud bases are below 1,000ft",
+            "Never",
+            "if the aircraft is during the take-off or landing phase from an aerodrome",
+            "if altimetre is unservicable"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.3.5(a) populated areas"
+    },
+    {
+        "question": "You suffer a communication failure on approach to a Class D aerodrome, upon arrival the control tower sends a steady green signal to you . What does this mean?",
+        "options": [
+            "Authorised to land if pilot satisfied no collision risk exists",
+            "give away to other traffic and continued circling",
+            "Return for landing",
+            "no significance"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - EMERG and Part 91 Manual of Standards 2.04",
+        "kd": "Unit 1.5.8   2.3.6 Recall the meaning of the following light signals directed at an aircraft"
+    },
+    {
+        "question": "You suffer a communication failure on approach to a Class D aerodrome, upon arrival the control tower sends a steady red signal to you. What does this mean?",
+        "options": [
+            "Authorised to land if pilot satisfied no collision risk exists",
+            "give away to other traffic and continued circling",
+            "Return for landing",
+            "no significance"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - EMERG and Part 91 Manual of Standards 2.04",
+        "kd": "Unit 1.5.8   2.3.6 Recall the meaning of the following light signals directed at an aircraft"
+    },
+    {
+        "question": "You suffer a communication failure on approach to a Class D aerodrome, upon arrival the control tower sends a flashing green signal to you. What does this mean?",
+        "options": [
+            "Authorised to land if pilot satisfied no collision risk exists",
+            "give away to other traffic and continued circling",
+            "Return for landing",
+            "no significance"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - EMERG and Part 91 Manual of Standards 2.04",
+        "kd": "Unit 1.5.8   2.3.6 Recall the meaning of the following light signals directed at an aircraft"
+    },
+    {
+        "question": "You suffer a communication failure on approach to a Class D aerodrome, upon arrival the control tower sends a flashing white signal to you. What does this mean?",
+        "options": [
+            "Authorised to land if pilot satisfied no collision risk exists",
+            "give away to other traffic and continued circling",
+            "Return for landing",
+            "no significance"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - EMERG and Part 91 Manual of Standards 2.04",
+        "kd": "Unit 1.5.8   2.3.6 Recall the meaning of the following light signals directed at an aircraft"
+    },
+    {
+        "question": "You suffer a communication failure whilst taxiing at a Class D aerodrome,  the control tower sends a flashing white signal to you. What does this mean?",
+        "options": [
+            "Authorised to takeoff if pilot satisfied no collision risk exists",
+            "stop",
+            "authorised to taxi if pilot satisfied no collision risk exists",
+            "return to starting point on airfield"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - EMERG and Part 91 Manual of Standards 2.04",
+        "kd": "Unit 1.5.8   2.3.6 Recall the meaning of the following light signals directed at an aircraft"
+    },
+    {
+        "question": "You suffer a communication failure whilst taxiing at a Class D aerodrome,  the control tower sends a flashing green signal to you. What does this mean?",
+        "options": [
+            "Authorised to takeoff if pilot satisfied no collision risk exists",
+            "stop",
+            "authorised to taxi if pilot satisfied no collision risk exists",
+            "return to starting point on airfield"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - EMERG and Part 91 Manual of Standards 2.04",
+        "kd": "Unit 1.5.8   2.3.6 Recall the meaning of the following light signals directed at an aircraft"
+    },
+    {
+        "question": "You suffer a communication failure whilst taxiing at a Class D aerodrome,  the control tower sends a steady green signal to you. What does this mean?",
+        "options": [
+            "Authorised to takeoff if pilot satisfied no collision risk exists",
+            "stop",
+            "authorised to taxi if pilot satisfied no collision risk exists",
+            "return to starting point on airfield"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - EMERG and Part 91 Manual of Standards 2.04",
+        "kd": "Unit 1.5.8   2.3.6 Recall the meaning of the following light signals directed at an aircraft"
+    },
+    {
+        "question": "You suffer a communication failure whilst taxiing at a Class D aerodrome,  the control tower sends a steady red signal to you. What does this mean?",
+        "options": [
+            "Authorised to takeoff if pilot satisfied no collision risk exists",
+            "stop",
+            "authorised to taxi if pilot satisfied no collision risk exists",
+            "return to starting point on airfield"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - EMERG and Part 91 Manual of Standards 2.04",
+        "kd": "Unit 1.5.8   2.3.6 Recall the meaning of the following light signals directed at an aircraft"
+    },
+    {
+        "question": "Can a passenger be seated in a control seat?",
+        "options": [
+            "No",
+            "Yes, but only if there are no other passengers onboard",
+            "Yes provided that the pilot is satisifed that they will not interfere with the controls and that two way communication exists are all times",
+            "Yes, but the other passengers must be satisifed with this arrangement"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.4.5 (a)(iii) carriage of passengers in a control seat"
+    },
+    {
+        "question": "What is the minimum height a helicopter can fly over a populus area or a public gathering?",
+        "options": [
+            "You must not fly a rotorcraft over a populous area or public gathering below 1,000 ft above the highest feature or obstacle within a horizontal radius of 300 m of the point on the ground",
+            "You must not fly a rotorcraft over a populous area or public gathering below 1,000 ft above the highest feature or obstacle within a horizontal radius of 600 m of the point on the ground",
+            "You must not fly a rotorcraft over a populous area or public gathering below 500 ft above the highest feature or obstacle within a horizontal radius of 300 m of the point on the ground"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91",
+        "kd": "Unit 1.5.8   2.3.7(b) flights over public gatherings"
+    },
+    {
+        "question": "What does a double white cross indicate that is adjacent to the primary wind indicator at an aerodrome?",
+        "options": [
+            "Aerodrome closed",
+            "Aerodrome wet and only use hard surfaces",
+            "Glider Operations are in progress",
+            "wind indicator is unreliable"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.5.1 State a pilot's responsibilities with regard to the use of aerodromes"
+    },
+    {
+        "question": "What does a white dumbell indicate that is adjacent to the primary wind indicator at an aerodrome?",
+        "options": [
+            "Aerodrome closed",
+            "Aerodrome wet and only use hard surfaces",
+            "Glider Operations are in progress",
+            "wind indicator is unreliable"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.5.1 State a pilot's responsibilities with regard to the use of aerodromes"
+    },
+    {
+        "question": "What is the minimum vertical separation required from cloud for a helicopter operating VFR in Class C airspace below 10,000ft during the day?",
+        "options": [
+            "500 feet below, 1,000 feet above",
+            "1,000 feet below, 1,000 feet above",
+            "clear of cloud",
+            "500 feet below, 500 feet above"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.07 VMC criteria",
+        "kd": "Unit 1.5.8   2.3.3(d) visual meterology conditions for operations below 10,00ft and below 700ft"
+    },
+    {
+        "question": "What is the minimum vertical separation required from cloud for a helicopter operating VFR in Class D airspace below 10,000ft during the day?",
+        "options": [
+            "500 feet below, 1,000 feet above",
+            "1,000 feet below, 1,000 feet above",
+            "clear of cloud",
+            "500 feet below, 500 feet above"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.07 VMC criteria",
+        "kd": "Unit 1.5.8   2.3.3(d) visual meterology conditions for operations below 10,00ft and below 700ft"
+    },
+    {
+        "question": "What is the minimum vertical separation required from cloud for a helicopter operating under special VFR in Class D airspace?",
+        "options": [
+            "500 feet below, 1,000 feet above",
+            "1,000 feet below, 1,000 feet above",
+            "clear of cloud",
+            "500 feet below, 500 feet above"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.07 VMC criteria",
+        "kd": "Unit 1.5.8   2.3.3(d) visual meterology conditions for operations below 10,00ft and below 700ft"
+    },
+    {
+        "question": "What is the minimum vertical separation required from cloud for a helicopter operating under special VFR in Class D airspace?",
+        "options": [
+            "500 feet below, 1,000 feet above",
+            "1,000 feet below, 1,000 feet above",
+            "clear of cloud",
+            "500 feet below, 500 feet above"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.07 VMC criteria",
+        "kd": "Unit 1.5.8   2.3.3(d) visual meterology conditions for operations below 10,00ft and below 700ft"
+    },
+    {
+        "question": "What is the minimum horizontal separation required from cloud for a helicopter operating VFR in Class D airspace?",
+        "options": [
+            "clear of cloud",
+            "500m",
+            "600m",
+            "1,500m"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.07 VMC criteria",
+        "kd": "Unit 1.5.8   2.3.3(d) visual meterology conditions for operations below 10,00ft and below 700ft"
+    },
+    {
+        "question": "What is the minimum horizontal separation required from cloud for a helicopter operating VFR in Class C airspace?",
+        "options": [
+            "clear of cloud",
+            "500m",
+            "600m",
+            "1,500m"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.07 VMC criteria",
+        "kd": "Unit 1.5.8   2.3.3(d) visual meterology conditions for operations below 10,00ft and below 700ft"
+    },
+    {
+        "question": "What is the minimum horizontal separation required from cloud for a helicopter operating under special VFR in Class C airspace?",
+        "options": [
+            "clear of cloud",
+            "500m",
+            "600m",
+            "1,500m"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.07 VMC criteria",
+        "kd": "Unit 1.5.10   2.2.2 Describe the requirements for operating in Class C and D airspace and special VFR clearance provisions"
+    },
+    {
+        "question": "What is the minimum horizontal separation required from cloud for a helicopter operating under special VFR in Class D airspace?",
+        "options": [
+            "clear of cloud",
+            "500m",
+            "600m",
+            "1,500m"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.07 VMC criteria",
+        "kd": "Unit 1.5.10   2.2.2 Describe the requirements for operating in Class C and D airspace and special VFR clearance provisions"
+    },
+    {
+        "question": "What is the minimum visibility required for a helicopter operating under special VFR in Class D airspace?",
+        "options": [
+            "clear of cloud",
+            "800m",
+            "3,000m",
+            "5000m"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.07 VMC criteria",
+        "kd": "Unit 1.5.10   2.2.2 Describe the requirements for operating in Class C and D airspace and special VFR clearance provisions"
+    },
+    {
+        "question": "What is the minimum visibility required for a helicopter operating under special VFR in Class C airspace?",
+        "options": [
+            "clear of cloud",
+            "800m",
+            "3,000m",
+            "5000m"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.07 VMC criteria",
+        "kd": "Unit 1.5.10   2.2.2 Describe the requirements for operating in Class C and D airspace and special VFR clearance provisions"
+    },
+    {
+        "question": "If two aircraft are at the same altitude and approaching head on, what actions are to be taken?",
+        "options": [
+            "Each aircraft must alter heading to the right",
+            "Each aircraft must alter heading to the left",
+            "the smaller aircraft must alter its heading either left or right",
+            "the pilot who turns landing lights on first has right of way"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.4   2.4.4(b) during flight, requirements regarding the operation and safety of the aircaft and the authority of the pilot in command"
+    },
+    {
+        "question": "What is the pressure lapse rate for an ISA atmosphere?",
+        "options": [
+            "Pressure decreases by 1hPa per 30ft increase in altitude",
+            "Pressure increases by 1hPa per 30ft increase in altitude",
+            "Pressure increases by 1hPa per 120ft increase in altitude",
+            "Pressure decrease by 1hPa per 120ft increase in altitude"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.7.7 Recall the following parameters from the ICAO standard atmosphere"
+    },
+    {
+        "question": "What is the correct altimeter setting to use when flying above the transition altitude in Australia?",
+        "options": [
+            "Aerodrome QNH",
+            "Area QNH",
+            "Standard pressure setting of 1013.2 hPa",
+            "QFE"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.7.2 Recall the procedures that are carried out with the alimeter at the transition altitiude and the transition layer on climb and descent"
+    },
+    {
+        "question": "The transition altitude in Australia is:",
+        "options": [
+            "10,000 ft AMSL",
+            "FL110",
+            "5,000 ft AMSL unless otherwise published",
+            "3,000 ft above ground level"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.7",
+        "kd": "Unit 1.5.8   2.7.2 Recall the procedures that are carried out with the alimeter at the transition altitiude and the transition layer on climb and descent"
+    },
+    {
+        "question": "You are operating a helicopter VFR on a heading of 156\u02da in Class G airspace. What is the most appropriate hemispherical cruising level should you fly?",
+        "options": [
+            "2,500ft",
+            "3,000ft",
+            "3,500ft",
+            "4,000ft"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - Division 2.5 Definitions of specified cruising levels",
+        "kd": "Unit 1.5.8   2.3.3(a) rules of the air"
+    },
+    {
+        "question": "Who is responsible for granting permission to enter an active Restricted Area in Australia?",
+        "options": [
+            "ATC",
+            "CASA",
+            "The controlling authority listed in the ERSA",
+            "The pilot in command"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 5.1",
+        "kd": "Unit 1.5.8.  2.6.2 (e) PRD areas"
+    },
+    {
+        "question": "What is the main difference between a Prohibited Area and a Restricted Area on Australian aeronautical charts?",
+        "options": [
+            "There is no difference",
+            "Prohibited Areas may only be entered with ATC clearance",
+            "Prohibited Areas cannot be entered under any circumstances",
+            "Restricted Areas apply only to military operations"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 5.1",
+        "kd": "Unit 1.5.8.  2.6.2 (e) PRD areas"
+    },
+    {
+        "question": "You inadvertently fly into an ADIZ, then an intercepting aircraft rocks its wings and turns to the right. This signal means:",
+        "options": [
+            "You are free to proceed on course",
+            "Land at the nearest suitable aerodrome",
+            "Follow the interceptor",
+            "Remain in position and await further instruction"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.12",
+        "kd": "Unit 1.5.8.  2.9.1(b) the action by a pilot of the intercepted aircarft"
+    },
+    {
+        "question": "What is the correct transponder code to squark if you suffer a communications failure?",
+        "options": [
+            "1200",
+            "7500",
+            "7600",
+            "7700"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "What is the correct transponder code to squark if your aircraft has been hijacked?",
+        "options": [
+            "1200",
+            "7500",
+            "7600",
+            "7700"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "What is the correct transponder code to squark if you are operating in Class G airspace?",
+        "options": [
+            "1200",
+            "2000",
+            "3000",
+            "7700"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.6.4 Describe the requirement for obtaining clearances, making report and broadcasts and describe the procedures for requresting clearance, making reports and boradcasts, and the pilot actions to be taken on recieveving an instuctions from ATC to be adopted when operating in the following"
+    },
+    {
+        "question": "What is the correct transponder code to squark if you are operating in Class D airspace?",
+        "options": [
+            "1200",
+            "2000",
+            "3000",
+            "7700"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.6.4 Describe the requirement for obtaining clearances, making report and broadcasts and describe the procedures for requresting clearance, making reports and boradcasts, and the pilot actions to be taken on recieveving an instuctions from ATC to be adopted when operating in the following"
+    },
+    {
+        "question": "What is the correct transponder code to squark if you are in distress?",
+        "options": [
+            "1200",
+            "7500",
+            "7600",
+            "7700"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "You are operating a helicopter VFR on a heading of 238\u02da in Class G airspace. What is the most appropriate hemispherical cruising level should you fly?",
+        "options": [
+            "2,500ft",
+            "3,000ft",
+            "3,500ft",
+            "4,000ft"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - Division 2.5 Definitions of specified cruising levels",
+        "kd": "Unit 1.5.8   2.3.3(a) rules of the air"
+    },
+    {
+        "question": "Under CASR Part 91, when must a helicopter be equipped with life jackets for each occupant?",
+        "options": [
+            "Only when flying over the ocean",
+            "When the aircraft is operated beyond autorotational distance from land",
+            "Only on charter flights",
+            "When the aircraft is flown within controlled airspace over water"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - Division 26.14 Equipment for flight over water",
+        "kd": "Unit 1.5.4   2.4.1(c) flights over water"
+    },
+    {
+        "question": "when are passengers required to wear life jackets in a helicopter?",
+        "options": [
+            "Only when flying beyond 50 NM from shore",
+            "Whenever requested by the pilot",
+            "During take-off and landing over water",
+            "During all overwater flight beyond autorotational distance from land"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - Division 26.14 Equipment for flight over water",
+        "kd": "Unit 1.5.4   2.4.1(c) flights over water"
+    },
+    {
+        "question": "If the QNH is set on 1013hPa, it will always read:",
+        "options": [
+            "Density Altitude",
+            "Pressure Altitude",
+            "Height above sea level",
+            "QFE"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.7.1(d) standard pressure setting"
+    },
+    {
+        "question": "Under CASR Part 91, when is the carriage of animals in a helicopter permitted?",
+        "options": [
+            "Only with prior approval from CASA",
+            "Only in cargo compartments or under the floor",
+            "When the animal is properly restrained and does not endanger aircraft safety",
+            "Never, unless the animal is a guide dog"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.4   2.4.1(d)(v) animals"
+    },
+    {
+        "question": "Which of the following is not required for Day VFR in a helicopter?",
+        "options": [
+            "VSI",
+            "ASI",
+            "Time Piece",
+            "Altimetre"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - Chapter 26 Equipment",
+        "kd": "Unit 1.5.10   2.2.3 State the minimum flight instruments required to operate a helicopter under VFR"
+    },
+    {
+        "question": "Which of the following is not required for Day VFR in a helicopter?",
+        "options": [
+            "OAT Gauge",
+            "ASI",
+            "Attitude Indicator",
+            "Altimietre"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - Chapter 26 Equipment",
+        "kd": "Unit 1.5.10   2.2.3 State the minimum flight instruments required to operate a helicopter under VFR"
+    },
+    {
+        "question": "You are about to depart but cannot obtain your destination forecast for another 20 minutes. Your departure aerodrome is currently VMC but forecast to deteriorate in 40 minutes. Under CASA regulations, can you still depart?",
+        "options": [
+            "Yes, provided you expect to arrive at the destination before weather deterioration",
+            "No, you must have the destination forecast before departure",
+            "Yes, as long as the departure aerodrome is VMC at time of departure",
+            "No, flights are prohibited if destination forecast is unavailable regardless of departure conditions"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "If a required piece of equipment becomes unserviceable during flight, what is the pilot\u2019s immediate responsibility?",
+        "options": [
+            "Continue the flight and report the issue after landing",
+            "Notify ATC and proceed as planned",
+            "Land as soon as practicable and record the defect in the maintenance release",
+            "Attempt to repair the equipment in-flight"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8.   2.10.3 (b) recording and reporting aircraft defects"
+    },
+    {
+        "question": "What is the standard direction of the circuit pattern at a non-controlled aerodrome for helicopters unless otherwise published?",
+        "options": [
+            "Left-hand circuit",
+            "Right-hand circuit",
+            "As directed by ATC",
+            "Right-hand for arrivals, left-hand for departures"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "What is the standard circuit height for helicopters at a non-controlled aerodrome?",
+        "options": [
+            "1000 feet AGL",
+            "500 feet AGL",
+            "1500 feet AGL",
+            "As specified in ERSA or by NOTAM"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.10   2.2.1 Describe circuit procedures for the helicopter operations"
+    },
+    {
+        "question": "When operating in the vicinity of a non-controlled aerodrome, helicopters must:",
+        "options": [
+            "Always follow fixed-wing circuit direction and height",
+            "Operate below and clear of fixed-wing traffic patterns where possible",
+            "Only use the main runway circuit",
+            "Enter circuit on downwind leg only"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.10   2.2.1 Describe circuit procedures for the helicopter operations"
+    },
+    {
+        "question": "What is the minimum visibility required for a helicopter operating under the VFR below 3000 feet AMSL or 1000 feet AGL (whichever is higher) in Class G airspace?",
+        "options": [
+            "1,500 metres",
+            "3,000 metres",
+            "5,000 metres",
+            "8,000 metres"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.07 VMC criteria",
+        "kd": "Unit 1.5.8   2.3.3(d) visual meterology conditions for operations below 10,00ft and below 700ft"
+    },
+    {
+        "question": "Which of the following instruments is required for all helicopters operating under Day VFR conditions?",
+        "options": [
+            "Artificial horizon",
+            "Turn coordinator",
+            "Airspeed indicator",
+            "DME"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - Chapter 26 Equipment",
+        "kd": "Unit 1.5.10   2.2.3 State the minimum flight instruments required to operate a helicopter under VFR"
+    },
+    {
+        "question": "What is the ISA temperature at Mean Sea Level?",
+        "options": [
+            "0\u02daC",
+            "10\u02daC",
+            "15\u02daC",
+            "20\u02daC"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8.  2.7.7 Recall the following parameters from the ICAO standard atmosphere"
+    },
+    {
+        "question": "What is the ISA pressure at Mean Sea Level?",
+        "options": [
+            "1000hPa",
+            "29.92hPa",
+            "1013Hg",
+            "1013hPa"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8.  2.7.7 Recall the following parameters from the ICAO standard atmosphere"
+    },
+    {
+        "question": "When must a pilot carry out a fuel drain and inspection for water contamination?",
+        "options": [
+            "Only after maintenance",
+            "Before the first flight of the day and after refuelling",
+            "after refuelling",
+            "Only if contamination is suspected"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8.  2.4.5(a)(ii) fuel system inspections, including when inspections are required and how they are performed"
+    },
+    {
+        "question": "After refuelling a helicopter, what is the correct procedure before commencing flight?",
+        "options": [
+            "Wait 10 minutes before draining a fuel sample to allow settling",
+            "Take off immediately to avoid delays",
+            "Check fuel price receipt",
+            "Cycle the boost pump twice"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8.  2.4.5(a)(ii) fuel system inspections, including when inspections are required and how they are performed"
+    },
+    {
+        "question": "Which of the following is an example of maintenance\u00a0not\u00a0permitted to be performed by a pilot?",
+        "options": [
+            "Replacing seat cushions",
+            "Replacing a landing light",
+            "Changing engine oil",
+            "Replacing rotor head bearings"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CAR Schdule 8 42ZC",
+        "kd": "Unit 1.5.8   2.10.4 Describe the types of maintenance that may be carried out by the holder of a CPL"
+    },
+    {
+        "question": "When a pilot completes an approved maintenance task, what must be done in the Maintenance Release?",
+        "options": [
+            "The release must be stamped by a LAME",
+            "No action is needed if the task is minor",
+            "An entry must be made including date, signature, and licence number",
+            "An entry must be made with the pilot\u2019s signature and ARN"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CAR Schdule 8 42ZC",
+        "kd": "Unit 1.5.8   2.10.4 Describe the types of maintenance that may be carried out by the holder of a CPL"
+    },
+    {
+        "question": "Which of the following maintenance tasks is a pilot\u00a0permitted\u00a0to perform without a LAME?",
+        "options": [
+            "Changing a magneto",
+            "Rewiring an avionics connector",
+            "Changing an external light globe",
+            "Replacing a fuel pump"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CAR Schdule 8 42ZC",
+        "kd": "Unit 1.5.8   2.10.4 Describe the types of maintenance that may be carried out by the holder of a CPL"
+    },
+    {
+        "question": "Before performing any maintenance task permitted under Schedule 8, a pilot must:",
+        "options": [
+            "Submit a maintenance request to CASA",
+            "Hold a current Flight Instructor Rating",
+            "Ensure they are trained, competent, and record the task in the Maintenance Release",
+            "Notify ATC and the operator"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CAR Schdule 8 42ZC",
+        "kd": "Unit 1.5.8   2.10.4 Describe the types of maintenance that may be carried out by the holder of a CPL"
+    },
+    {
+        "question": "You are operating Day VFR, can you enter Class E airspace without a clearance?",
+        "options": [
+            "Yes",
+            "No",
+            "Yes, but not if any IFR traffic is in the vicinity",
+            "Only if permitted in NOTAM"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.4 (4)",
+        "kd": "Unit 1.5.8   2.6.4(a) in any class of airspace"
+    },
+    {
+        "question": "What must a pilot ensure regarding aircraft documents before flight?",
+        "options": [
+            "Only the licence and medical must be onboard",
+            "The Maintenance Release must be valid and carried onboard",
+            "All documents may be left at the base if operating locally",
+            "Only the flight manual is required"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.3.1 Describe which documents must be carried on board an aircraft during flight in Australian airspace"
+    },
+    {
+        "question": "To carry passengers, a CPL helicopter pilot must have completed at least how many takeoffs and landings in the previous 90 days?",
+        "options": [
+            "1",
+            "3",
+            "5",
+            "10"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.2.1(b) recent experience requirements"
+    },
+    {
+        "question": "Is the discharge of firearms from a helicopter allowed during flight?",
+        "options": [
+            "Yes, if for lawful hunting purposes",
+            "Only with CASA and relevant authority approval",
+            "Yes, in emergency situations",
+            "No, it is never allowed"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CASR 91 Division 91.C.7 Firearms on aircraft",
+        "kd": "Unit 1.5.8   2.3.2(a) carriage and discharge of firearms"
+    },
+    {
+        "question": "What must a pilot ensure regarding firearms before carrying them on board a helicopter?",
+        "options": [
+            "Firearms are stored securely and unloaded",
+            "Firearms are kept loaded for immediate use",
+            "Firearms may be carried openly in the cabin",
+            "No special precautions are required"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CASR 91 Division 91.C.7 Firearms on aircraft",
+        "kd": "Unit 1.5.8   2.3.2(a) carriage and discharge of firearms"
+    },
+    {
+        "question": "You are flying to a non-controlled aerodrome and as you fly overhead to join the circuit you notice a double white cross adjacent to the primary wind indicator. This means:",
+        "options": [
+            "The aerodome is totally unserviecable",
+            "ground operations are restricted to hard surfaces only",
+            "wind indicator is unreliable",
+            "gliding operations are in progress"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.05 Ground signals for aircraft at aerodromes",
+        "kd": "Unit 1.5.8   2.5.1 State a pilot's responsibilities with regard to the use of aerodromes"
+    },
+    {
+        "question": "You are flying to a non-controlled aerodrome and as you fly overhead to join the circuit you notice a  white dumbell signal adjacent to the primary wind indicator. This means:",
+        "options": [
+            "The aerodome is totally unserviecable",
+            "ground operations are restricted to hard surfaces only",
+            "wind indicator is unreliable",
+            "gliding operations are in progress"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.05 Ground signals for aircraft at aerodromes",
+        "kd": "Unit 1.5.8   2.5.1 State a pilot's responsibilities with regard to the use of aerodromes"
+    },
+    {
+        "question": "You are flying to a non-controlled aerodrome and as you fly overhead to join the circuit you notice a white cross signal adjacent to the primary wind indicator. This means:",
+        "options": [
+            "The aerodome is totally unserviecable",
+            "ground operations are restricted to hard surfaces only",
+            "wind indicator is unreliable",
+            "gliding operations are in progress"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.05 Ground signals for aircraft at aerodromes",
+        "kd": "Unit 1.5.8   2.5.1 State a pilot's responsibilities with regard to the use of aerodromes"
+    },
+    {
+        "question": "You are flying in non controlled airspace at 2,500ft, you then notice an aircraft out your right hand side at the same height as you and on a converging path, who must give way?",
+        "options": [
+            "Your aircraft",
+            "the other aircraft",
+            "the slower aircraft must give way",
+            "both pilots to discuss on the correct radio frequency"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CASR 91.335",
+        "kd": "Unit 1.5.8   2.3.3(a) rules of the air"
+    },
+    {
+        "question": "You are flying in controlled airspace at 2,500ft, you then notice an aircraft out your right hand side at the same height as you and on a converging path, who must give way?",
+        "options": [
+            "Your aircraft",
+            "the other aircraft",
+            "the slower aircraft must give way",
+            "ATC will direct both aircraft to ensure no conflict occurs"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CASR 91.335",
+        "kd": "Unit 1.5.8   2.3.3(a) rules of the air"
+    },
+    {
+        "question": "An aircraft which is overtaking another aircraft at the same height and track should do so by passing:",
+        "options": [
+            "to the left",
+            "to the right",
+            "overhead",
+            "underneath"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CASR 91.335",
+        "kd": "Unit 1.5.8   2.3.3(a) rules of the air"
+    },
+    {
+        "question": "A helicopter is on a collision course with a hot air balloon in controlled airspace, who has right of way?",
+        "options": [
+            "As directed by ATC",
+            "the helicopter",
+            "the first to take evasive action",
+            "the balloon"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CASR 91.335",
+        "kd": null
+    },
+    {
+        "question": "It is recommended that a pilot plans to land how long before last light assuming they do not hold a night VFR rating?",
+        "options": [
+            "0 minutes",
+            "5 minutes",
+            "10 minutes",
+            "15 minutes"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.2",
+        "kd": "Unit 1.5.8   2.3.8 Recall the requirement to plan to and prior to the end of daylight"
+    },
+    {
+        "question": "Can two children occupy one seat?",
+        "options": [
+            "Yes, provided that the youngest sits on the lap of the oldest",
+            "Yes, provided a lap sash seatbelt is used",
+            "No, this is not permitted",
+            "Yes, provided they are seated side by side"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 MOS 20.03",
+        "kd": "Unit 1.5.8   2.4.5 (a)(iv) carriage of children"
+    },
+    {
+        "question": "Upon a daily inspection of an aircraft, you notice that the clock in the aircraft is unserviceable. Are you permitted to fly?",
+        "options": [
+            "No, as this is a required instrument for flight",
+            "Yes, as you have a mobile phone that displays the time",
+            "Yes, as you are wearing your watch",
+            "Yes, as the time is displayed on your EFB"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 MOS 26.10",
+        "kd": "Unit 1.5.10   2.2.3 State the minimum flight instruments required to operate a helicopter under VFR"
+    },
+    {
+        "question": "For a time piece to be serviceable is must be accurate to within:",
+        "options": [
+            "10 seconds",
+            "30 seconds",
+            "60 seconds",
+            "90 seconds"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.1 (4.3)",
+        "kd": "Unit 1.5.10   2.2.3 State the minimum flight instruments required to operate a helicopter under VFR"
+    },
+    {
+        "question": "Do you require a VHF radio if operating Day VFR in Class G airspace?",
+        "options": [
+            "Yes, carriage of a VHF is required at all times",
+            "only if operating above circuit height",
+            "only if operating above 5,000ft AGL",
+            "only if operating above 5,000ft AMSL"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.4",
+        "kd": null
+    },
+    {
+        "question": "Under which condition is it acceptable to carry an assistance animal (e.g. guide dog) in the cabin of a helicopter?",
+        "options": [
+            "Only on emergency flights",
+            "Only if it weighs under 15 kg",
+            "If it is restrained and does not obstruct exits",
+            "If the pilot gives verbal approval"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "When must you carry the aircraft maintenance release?",
+        "options": [
+            "During all maintenance and test flights",
+            "always",
+            "when operating beyond 50nm from the departure aerodrome",
+            "always if operating in controlled airspace"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.3.1 Describe which documents must be carried on board an aircraft during flight in Australian airspace"
+    },
+    {
+        "question": "How much contingency fuel is required for a Part 133 Day VFR operation?",
+        "options": [
+            "10% of trip fuel",
+            "none",
+            "20 minutes",
+            "30 minutes"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CASR 91 MOS 19.02",
+        "kd": "Unit 1.5.8   2.4.4(a)(i)(A) fuel and oil"
+    },
+    {
+        "question": "How much final reserve fuel is required for a Part 133 Day VFR operation?",
+        "options": [
+            "10% of trip fuel",
+            "none",
+            "20 minutes",
+            "30 minutes"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CASR 91 MOS 19.02",
+        "kd": "Unit 1.5.8   2.4.4(a)(i)(A) fuel and oil"
+    },
+    {
+        "question": "How much final reserve fuel is required for a Part 91 Day VFR operation?",
+        "options": [
+            "10% of trip fuel",
+            "none",
+            "20 minutes",
+            "30 minutes"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CASR 91 MOS 19.02",
+        "kd": "Unit 1.5.8   2.4.4(a)(i)(A) fuel and oil"
+    },
+    {
+        "question": "How much contingency fuel is required for a Part 91 Day VFR operation?",
+        "options": [
+            "10% of trip fuel",
+            "none",
+            "20 minutes",
+            "30 minutes"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CASR 91 MOS 19.02",
+        "kd": "Unit 1.5.8   2.4.4(a)(i)(A) fuel and oil"
+    },
+    {
+        "question": "What height must you be at prior to making a turn after take-off from a controlled aerodrome?",
+        "options": [
+            "500ft",
+            "700ft",
+            "at any height provided it is safe to do so",
+            "until directed by ATC"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.3.3(b) the requirements relating to the operation of aircraft, and in the vicinity of, an aerodrome and condition realting to turns after take-off"
+    },
+    {
+        "question": "When navigating by visual reference to the ground, you must positively fix the aircraft\u2019s position by visual reference to features marked on a chart at intervals not exceeding:",
+        "options": [
+            "10 minutes",
+            "15 minutes",
+            "30 minutes",
+            "60 minutes"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.1 (4.2)",
+        "kd": null
+    },
+    {
+        "question": "You decide to take-off at a non-controlled aerodrome using the runway, however a preceding aircraft has just departed the same runway. When are you permitted to take-off?",
+        "options": [
+            "when it is safe to do so",
+            "when the preceding aircraft has crossed the upwind end of the runway",
+            "when ever you're ready, however it must be broadcast on CTAF",
+            "when the preceding aircraft has passed through 500ft"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CASR 91.370",
+        "kd": null
+    },
+    {
+        "question": "When flying in a lane of entry, pilots must:",
+        "options": [
+            "keep to the right",
+            "keep to the left",
+            "broadcast intentions",
+            "keep in the middle of the lane"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.4 (5)",
+        "kd": "Unit 1.5.8   2.6.2(d) VFR route and lanes of entry"
+    },
+    {
+        "question": "Which of the following flights require a flight notification?",
+        "options": [
+            "A flight beyond 50nm from the departure aerodrome",
+            "A flight over water",
+            "A flight into a designated Danger Area",
+            "A private flight into Class C airspace"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 MOS 9.02",
+        "kd": null
+    },
+    {
+        "question": "You are flying in controlled airspace and have deviated from your cleared track, what distance from your cleared track are you to advised ATC?",
+        "options": [
+            "1nm",
+            "2nm",
+            "3nm",
+            "5nm"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.1 (4.2)",
+        "kd": null
+    },
+    {
+        "question": "What is the correct phraseology to say the altitude 3,600ft during radio commuincations?",
+        "options": [
+            "Three six zero zero feet",
+            "Thirty six hundred",
+            "Three thousand, six hundred",
+            "Three six hundred feet"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP GEN 3.4",
+        "kd": "Unit 1.5.4   2.6.2(c) radio 'reports' and 'broadcast'"
+    },
+    {
+        "question": "What is the correct phraseology to say the heading 085\u02da?",
+        "options": [
+            "eighty five degrees",
+            "eight five degrees",
+            "heading zero eight five",
+            "heading eighty five"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP GEN 3.4",
+        "kd": "Unit 1.5.4   2.6.2(c) radio 'reports' and 'broadcast'"
+    },
+    {
+        "question": "The standard word meaning \"YES\" during radiotelephony communication is:",
+        "options": [
+            "Roger",
+            "Yes",
+            "Wilco",
+            "Affrim"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP GEN 3.4",
+        "kd": "Unit 1.5.4   2.6.2(c) radio 'reports' and 'broadcast'"
+    },
+    {
+        "question": "A forecast for your destination must be valid for:",
+        "options": [
+            "60 minutes before to 60 minutes after your ETA",
+            "30 minutes before to 60 minutes after your ETA",
+            "60 minutes before to 30 minutes after your ETA",
+            "30 minutes before to 30 minutes after your ETA"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.4.1(a) a pilots responsibilities before flight"
+    },
+    {
+        "question": "You plan to depart Bairnsdale (YBNS) for Moruya on a private flight but you are unable to obtain a weather forecast. Are you permitted to depart?",
+        "options": [
+            "Yes, as it is a private flight",
+            "No, you must obtain a weather forecast",
+            "Yes, provided you are saitsifed the weather at Bairnsdale will permit a safe landing within an hour of deaparture, and can obtain a forecast within 30 minutes of departure",
+            "No, as the flight is beyond 100nm and a weather forecast must be obtained"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CASR 91 MOS 7.03",
+        "kd": null
+    },
+    {
+        "question": "What is the correct phraseology to say \"QNH 1013\"?",
+        "options": [
+            "Quebec November Hotel, one zero one three",
+            "QNH ten thirteen",
+            "QNH one zero one three",
+            "Quebec November Hotel, ten thirteen"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP GEN 3.4",
+        "kd": null
+    },
+    {
+        "question": "You must you plan for an alternate aerodrome when the ETA to your destination is has below minima weather on the TAF:",
+        "options": [
+            "60 minutes before to 60 minutes after your ETA",
+            "30 minutes before to 60 minutes after your ETA",
+            "60 minutes before to 30 minutes after your ETA",
+            "30 minutes before to 30 minutes after your ETA"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.1",
+        "kd": "Unit 1.5.8   2.4.1(b) aerodrome meteorological minima"
+    },
+    {
+        "question": "What are the alternate minimas for a non controlled aerodrome?",
+        "options": [
+            "Not more than SCT cloud at 1500ft, and visbility greater than 8km",
+            "Not more than SCT cloud at 1000, and visbility greater than 3km",
+            "Not more than SCT cloud at 1500ft, and visbility greater than 5km",
+            "Not more than SCT cloud at 1000ft, and visbility greater than 8km"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CASR 91 MOS 8.08",
+        "kd": null
+    },
+    {
+        "question": "What determines the serviceability of an altimetre for an air transport VFR flight?",
+        "options": [
+            "It must be within 30ft with an accurate QNH setting",
+            "It must be within 50ft with an accurate QNH setting",
+            "It must be within 60ft with an accurate QNH setting, or 75ft if test site is above 3000ft AMSL",
+            "It must be within 100ft with an accurate QNH setting, or 110ft if test site is above 3000ft AMSL"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.7 (1)",
+        "kd": "Unit 1.5.8   2.4.5(a)(i)(E) instrument checks"
+    },
+    {
+        "question": "You are about to depart on a single pilot Day VFR air transport flight and you notice that one of your two altimetres fitted is beyond its serviceability limits. Are you permitted to take off?",
+        "options": [
+            "No",
+            "No unless approval is given by CASA",
+            "Yes, however it must be placarded unserviceable and a note made in the maintenance release",
+            "Yes, provided you remain within 50nm of departure aerodrome"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.7 (1)",
+        "kd": "Unit 1.5.8.   2.10.3 (b) recording and reporting aircraft defects"
+    },
+    {
+        "question": "How long before a flight should you submit a flight plan?",
+        "options": [
+            "15 minutes before entry into controlled airspace",
+            "30 minutes before entry into controlled airspace",
+            "60 minutes before entry into controlled airspace",
+            "120 minutes before entry into controlled airspace"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR1.10 (2)",
+        "kd": "Unit 1.5.8   2.4.1(a) a pilots responsibilities before flight"
+    },
+    {
+        "question": "Which of the following flights does not require a flight notification?",
+        "options": [
+            "An air transport flight",
+            "a flight in a designated remote area",
+            "a flight proceeding beyond 120nm from the departure aerodrome",
+            "a flight overwater beyond autorotative distance"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.10 (2)",
+        "kd": null
+    },
+    {
+        "question": "Which of the following is not an approved source of QNH?",
+        "options": [
+            "ATIS",
+            "AWIS",
+            "ATC",
+            "Operator of a non controlled aerodrome"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Which document would you find details of a PRD?",
+        "options": [
+            "AIP",
+            "ERSA",
+            "CASR",
+            "CAO"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA - SUA",
+        "kd": "Unit 1.5.8   2.1.3 (a) select the appropriate reference document"
+    },
+    {
+        "question": "Which document would you find details of the required minimum instruments for a Day VFR flight?",
+        "options": [
+            "AIP",
+            "ERSA",
+            "CASR",
+            "MOS"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 and 133 MOS",
+        "kd": "Unit 1.5.8   2.1.3 (a) select the appropriate reference document"
+    },
+    {
+        "question": "Which document would you find details on Flight and Duty limitations?",
+        "options": [
+            "AIP",
+            "ERSA",
+            "CASR",
+            "CAO"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CAO 48.1",
+        "kd": "Unit 1.5.8   2.1.3 (a) select the appropriate reference document"
+    },
+    {
+        "question": "You have inadvertantly set your altimetre on 1007hPa instead of 1017hPa whilst on approach to a controlled aerodrome. Your actual height will be:",
+        "options": [
+            "300ft above the correct height",
+            "300 feet below the correct height",
+            "300m above the correct height",
+            "300ft above the correct height"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.7.5 Calculate height error caused by setting the altimeter subscale incorrectly"
+    },
+    {
+        "question": "What is the maximum duty hours for a pilot who started their FDP at 0600 for an air transport operation?",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CAO 48.1 Appendix 4",
+        "kd": "Unit 1.5.8   2.2.2 Apply the rules pertaining to flight and duty time limittions for CPL licnese holders"
+    },
+    {
+        "question": "A pilot conducting Day VFR air transport operations can fly a maximum of how many hours in a 28 day period?",
+        "options": [
+            "50",
+            "90",
+            "100",
+            "120"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CAO 48.1 Appendix 4",
+        "kd": "Unit 1.5.8   2.2.2 Apply the rules pertaining to flight and duty time limittions for CPL licnese holders"
+    },
+    {
+        "question": "A pilot conducting Day VFR air transport operations can fly a maximum of how many hours in a 365 day period?",
+        "options": [
+            "500",
+            "900",
+            "1000",
+            "1200"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CAO 48.1 Appendix 4",
+        "kd": "Unit 1.5.8   2.2.2 Apply the rules pertaining to flight and duty time limittions for CPL licnese holders"
+    },
+    {
+        "question": "What is the maximum duty hours for a pilot who started their FDP at 0830 for an air transport operation?",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CAO 48.1 Appendix 4",
+        "kd": "Unit 1.5.8   2.2.2 Apply the rules pertaining to flight and duty time limittions for CPL licnese holders"
+    },
+    {
+        "question": "What is the maximum duty hours for a pilot who started their FDP at 0715 for an air transport operation?",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CAO 48.1 Appendix 4",
+        "kd": "Unit 1.5.8   2.2.2 Apply the rules pertaining to flight and duty time limittions for CPL licnese holders"
+    },
+    {
+        "question": "What is the maximum duty hours for a pilot who started their FDP at 1120 for an air transport operation?",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CAO 48.1 Appendix 4",
+        "kd": "Unit 1.5.8   2.2.2 Apply the rules pertaining to flight and duty time limittions for CPL licnese holders"
+    },
+    {
+        "question": "What is the maximum duty hours in a 7 day period for a pilot operating under Appendix 4?",
+        "options": [
+            "38",
+            "45",
+            "50",
+            "60"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CAO 48.1 Appendix 4",
+        "kd": "Unit 1.5.8   2.2.2 Apply the rules pertaining to flight and duty time limittions for CPL licnese holders"
+    },
+    {
+        "question": "What is the maximum duty hours in a 14 day period for a pilot operating under Appendix 4?",
+        "options": [
+            "76",
+            "90",
+            "100",
+            "110"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "CAO 48.1 Appendix 4",
+        "kd": "Unit 1.5.8   2.2.2 Apply the rules pertaining to flight and duty time limittions for CPL licnese holders"
+    },
+    {
+        "question": "You have inadvertantly set your altimetre on 1017hPa instead of 1007hPa whilst on approach to a controlled aerodrome. Your actual height will be:",
+        "options": [
+            "300ft above the correct height",
+            "300 feet below the correct height",
+            "300m above the correct height",
+            "300ft above the correct height"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.8   2.7.5 Calculate height error caused by setting the altimeter subscale incorrectly"
+    },
+    {
+        "question": "A pilot who holds both a CPL(A) and a CPL(H) of which the flight review recency for the CPL(H) has lapsed, however the pilot recently conducted a flight review in a single engine aeroplane. Does this cover the helicopter single engine flight review requirements?",
+        "options": [
+            "No",
+            "Yes, however the flight is limited to within 50nm of departure aerodrome",
+            "Yes and there are no limitations",
+            "Yes, provided a flight notifcation was submitted with an explanation"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.4   2.2.1(a) privileges and limitations of the license"
+    },
+    {
+        "question": "The validity on a flight review for a single engine helicopter is:",
+        "options": [
+            "12 months",
+            "end of the 12th month",
+            "24 months",
+            "end of the 24th month"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.4   2.2.1(a) privileges and limitations of the license"
+    },
+    {
+        "question": "Can cargo be carried on an unoccupied seat?",
+        "options": [
+            "No, not under any circumstances",
+            "Yes, but it must not weigh more than 77kg",
+            "Yes, but no passengers are permitted to be onboard",
+            "Yes, there are no limitations"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.4   2.4.1(d)(i) carriage of cargo"
+    },
+    {
+        "question": "You are navigating by visual reference to the ground an/or water, how often must you positively fix the aircraft position?",
+        "options": [
+            "Every 30nm",
+            "Every 100nm",
+            "Every 30 minutes",
+            "Every 15 minutes"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.1 (4.2.1)",
+        "kd": null
+    },
+    {
+        "question": "Which airspace can you operate in under VFR without a clearance?",
+        "options": [
+            "Class A",
+            "Class C",
+            "Class D",
+            "Class E"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.5.4   2.6.1 Differentiate between the various classifications of airspace"
+    },
+    {
+        "question": "ATC have given you instruction to conduct a climb at a STANDARD RATE, what is a standard rate?",
+        "options": [
+            "1,000 feet per minute",
+            "500 feet per minute",
+            "not less than 500ft per minute, expect that the last 1000 feet be made at 500ft",
+            "not less than 1000ft per minute, expect that the last 500 feet be made at 500ft"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.7 (4.1.10)",
+        "kd": null
+    },
+    {
+        "question": "What are the hours of activation for D220?",
+        "options": [
+            "Sunrise to Sunset 7 days a week",
+            "Sunrise to Sunset, Mon - Fri",
+            "24 hours",
+            "09:00 - 17:00 Monday to Friday"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA SUA",
+        "kd": "Unit 1.5.4   2.6.2(e) PRD areas"
+    },
+    {
+        "question": "What are the hours of activation for D271?",
+        "options": [
+            "Sunrise to Sunset 7 days a week",
+            "Sunrise to Sunset, Mon - Fri",
+            "24 hours",
+            "09:00 - 17:00 Monday to Friday"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "ERSA SUA",
+        "kd": "Unit 1.5.4   2.6.2(e) PRD areas"
+    },
+    {
+        "question": "In order to maintain VMC when operating in Class G airspace at 2500 ft AMSL, the minimum vertical separation from cloud is:",
+        "options": [
+            "Clear of cloud",
+            "1000 ft above and below cloud",
+            "500 ft below cloud and 1000 ft above",
+            "500 ft above cloud and 1000 ft below"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Part 91 Manual of Standards - 2.07 VMC criteria",
+        "kd": "Unit 1.5.8   2.3.3(d) visual meterology conditions for operations below 10,00ft and below 700ft"
+    },
+    {
+        "question": "Within what period must a written report for a \u2018Routine Reportable Matter\u2019 be submitted:",
+        "options": [
+            "As soon as practical",
+            "Within 24 hours",
+            "Within 48 hours",
+            "Within 72 hours"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "AIP ENR 1.14 (3.2)",
+        "kd": "Unit 1.5.8   2.8.2 Extract from AIP the responsibilities of a pilot regarding notification of accidents and incidents."
+  }
+  ]
+}
