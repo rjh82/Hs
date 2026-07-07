@@ -1,0 +1,1843 @@
+{
+  "quizTitle": "CPL(H) Meteorologogy Practice Exam",
+  "timePerQuestion": 20,
+  "numQuestions": 2,
+  "questions": [
+        {
+        "question": "What is the process called when a warm parcel of air rises upward?",
+        "options": [
+            "radiation",
+            "thermal",
+            "convection",
+            "wind shear"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A warm parcel of air rising upwards is called\u00a0convection.",
+        "kd": "Unit 1.8.3   2.1.2(c) convection"
+    },
+    {
+        "question": "An aerodrome report states: SPECI RF 9.8/12.8 What does this indicate?",
+        "options": [
+            "Rainfall in the last 10 minutes is 9.8mm, rainfall since 09:00LST is 12.8mm",
+            "Rainfall since 09:00LST  is 9.8mm, rainfall in the previous 24 hours is 12.8mm",
+            "Rainfall in the last 10 minutes is 9.8mm, rainfall in the previous 24 hours is 12.8mm"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(a) explain the coded information in plan language"
+    },
+    {
+        "question": "The one factor, which has the greatest influence as to whether rime ice and clear ice will form on an airborne aircraft is:",
+        "options": [
+            "Size of the supercooled water droplets",
+            "Outside air temperature",
+            "Aircraft speed",
+            "Altitude above mean sea level"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The size of the supercooled water droplets has the greatest influence on whether rime ice and clear ice will form on an airborne aircraft.",
+        "kd": "Unit 1.8.3   2.8.2(xi) hoar frost, rime and clear airframe ice"
+    },
+    {
+        "question": "What time of day will a sea breeze be most prominent?",
+        "options": [
+            "14:00LST",
+            "sunrise",
+            "sunset",
+            "08:00LST"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A sea breeze is most prominent in the afternoon, typically around 14:00LST, when the land heats up and creates a pressure difference that drives the breeze.",
+        "kd": "Unit 1.8.3   2.11.1(b) prevailing winds"
+    },
+    {
+        "question": "What is the temperature at 9,000ft under ISA conditions?",
+        "options": [
+            "0\u02daC",
+            "-3\u02daC",
+            "+3\u02daC",
+            "-9\u02daC"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Under ISA conditions, the standard temperature at 0ft AMSL is 15\u02daC with a lapse rate of 1.98\u02daC/1,000ft. Therefore the temperature at 9,000ft under ISA conditions is: 15\u02daC - (2\u02daC x 9) = -3\u02daC",
+        "kd": "Unit 1.8.2   2.1.2 State the ISA temperature and pressure lapse rates in the troposphere"
+    },
+    {
+        "question": "Which measurement can determine the stability of the atmosphere?",
+        "options": [
+            "Ambient Temperature",
+            "QNH setting",
+            "Environmental Lapse Rate",
+            "Dry adiabtic lapse rate"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The measurement that can determine the\u00a0stability of the atmosphere\u00a0is the\u00a0environmental lapse rate\u00a0compared to the\u00a0adiabatic lapse rates\u00a0(dry and moist).",
+        "kd": null
+    },
+    {
+        "question": "What is the ISA temperature deviation at 5,500ft if the temperature at that height is 4\u02daC?",
+        "options": [
+            "ISA+2",
+            "ISA-2",
+            "ISA",
+            "ISA-1"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Under ISA conditions, the standard temperature at 0ft AMSL is 15\u02daC with a lapse rate of 1.98\u02daC/1,000ft. Therefore the temperature at 5,500ft under ISA conditions is: 15\u02daC - (2\u02daC x 5.5) = +4\u02daC, which is at ISA conditions so there is nil temperature deviation.",
+        "kd": "Unit 1.8.2   2.1.2 State the ISA temperature and pressure lapse rates in the troposphere"
+    },
+    {
+        "question": "What cloud types would indicate convective turbulence?",
+        "options": [
+            "Cirrus clouds",
+            "Towering cumulus clouds",
+            "Stratus cloud",
+            "Nimbostratus clouds"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Towering cumulus clouds (TCU) are indicative of\u00a0convective turbulence. These clouds are characterized by their significant vertical development, often reaching high altitudes. They form in unstable atmospheric conditions where warm, moist air rises rapidly, creating strong updrafts and downdrafts within the cloud. This results in turbulent air currents that can be hazardous to aircraft.",
+        "kd": "Unit 1.8.3   2.4.3 Describe the weather associated with each cloud type"
+    },
+    {
+        "question": "Terrestrial reradiation occurs:",
+        "options": [
+            "During the day",
+            "continously",
+            "at night",
+            "only during clear skies"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Terrestrial reradiation occurs both during the day and night, but it is\u00a0most significant at night. During the day: The Earth's surface absorbs a lot of solar radiation, so incoming shortwave radiation from the sun dominates. The surface also emits longwave (infrared) radiation simultaneously, but the net effect is warming. At night: No incoming solar radiation, so the Earth\u2019s surface continues to emit longwave radiation (terrestrial reradiation) without being warmed by the sun, leading to cooling of the surface.",
+        "kd": "Unit 1.8.3   2.1.2(e) radiation"
+    },
+    {
+        "question": "Where are the rotor zones in respect to lenticular clouds?",
+        "options": [
+            "above the crest of the waves",
+            "below the crest of the waves",
+            "in the trough of the waves",
+            "usually at least 2nm upwind of the cloud"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Rotor zones, areas of severe turbulence associated with mountain waves, are typically found below the crests of the waves and\u00a0directly beneath lenticular clouds",
+        "kd": "Unit 1.8.3   2.8.2(v) mountain waves and fohn winds"
+    },
+    {
+        "question": "The difference between a TAF and a TAF3 is:",
+        "options": [
+            "A TAF3 is valid for 3 hours, whilst a TAF is valid for 6 hours",
+            "a TAF3 supersedes a TAF during the TAF3's validity period",
+            "a TAF supersedes a TAF3 during the TAF's validity period",
+            "a TAF provides a more comprehensive weather forecast in comparison to a TAF3"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "In winter, which way do the winds travel in the Australian tropic east coast?",
+        "options": [
+            "East",
+            "West",
+            "North East",
+            "South East"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "In winter, the winds in the Australian tropic east coast generally travel from the southeast to the northwest, influenced by the prevailing westerly winds and the Coriolis effect.",
+        "kd": "Unit 1.8.3   2.11.1(b) prevailing winds"
+    },
+    {
+        "question": "At a coastal aerodrome, at what time will a land breeze be most prominient?",
+        "options": [
+            "Prior to sunrise",
+            "After sunset",
+            "during the middle of the day",
+            "during middle of the night"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "At a\u00a0coastal aerodrome, a\u00a0land breeze\u00a0is most prominent during the late night to early morning hours, typically just before sunrise. This is because at night, the land cools faster than the sea. Cooler, denser air over land flows offshore toward the warmer sea, creating the land breeze. It is strongest when the temperature contrast between land and sea is greatest, usually in the pre-dawn hours.",
+        "kd": "Unit 1.8.3   2.11.1(b) prevailing winds"
+    },
+    {
+        "question": "When cumulus clouds turn into nimbostratus/stratus clouds, why is that?",
+        "options": [
+            "subsistence inversion",
+            "inversion",
+            "quasi stationary front",
+            "cold front"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "An\u00a0inversion\u00a0is a layer of warmer air\u00a0above cooler air\u00a0near the surface, which\u00a0suppresses vertical motion. When cumulus clouds grow upward, they hit the inversion layer and are unable to continue rising. This traps moisture and air below the inversion, causing the cloud tops to spread out horizontally, forming layered stratus clouds. If there\u2019s enough moisture and lifting, these layers can thicken into nimbostratus clouds, which bring steady precipitation.",
+        "kd": "Unit 1.8.3   2.8.2(vii) inversions and fog"
+    },
+    {
+        "question": "When measuring moisture content from two locations, what to use?",
+        "options": [
+            "dry bulb temperature",
+            "wet bulb temperature",
+            "relative humiduty"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Regarding atmospheric stability, if the air remains stationary for 12 hours overnight, how will the wind direction change during that period?",
+        "options": [
+            "increase and back",
+            "increase and veer",
+            "decrease and back",
+            "decrease and back"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Surface cooling\u00a0at night increases\u00a0stability\u00a0in the lower atmosphere, reducing vertical mixing, thus reducing wind strength. With less friction, the geostrophic wind (which flows parallel to isobars) re-establishes itself, As surface friction weakens, the wind backs to align more closely with the geostrophic flow.",
+        "kd": "Unit 1.8.3   2.6.4 List the factors that effect the diurnal variation of wind and describe typical variations in surface wind strength during a 24 hour period"
+    },
+    {
+        "question": "At a flat inland aerdrome throughout the day, surface wind speeds normally tend to _____________, causing the wind direction to _____________",
+        "options": [
+            "increase, back",
+            "increase, veer",
+            "decrease, back",
+            "decrease, back"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Surface heating during the day causes thermal turbulence and mixing of air, which generally increases wind speed near the surface. Wind direction tends to back (shift counterclockwise) as the boundary layer develops and friction decreases.",
+        "kd": "Unit 1.8.3   2.7.2(b) wind changes (back/veer, stronger/weaker)"
+    },
+    {
+        "question": "When flying through a thunderstorm, what does the aircraft expereince?",
+        "options": [
+            "severe, windershear, severe turbulence and severe hail",
+            "moderate windshear, modereate turbulance, moderate hail",
+            "light windshear, moderate hail"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.8.2(viii) thunderstorms and microbursts"
+    },
+    {
+        "question": "Visibility on windscreen when descending into mist can be due to:",
+        "options": [
+            "decrease due to mist build up",
+            "decrease due to condensation",
+            "increase due to temperatue increase",
+            "increase due to increased TAS"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "When descending into mist, the colder windscreen can cause moisture in the air to condense on the surface, reducing visibility \u2014 even more so than the external visibility would suggest. This is a common issue in humid conditions or when descending through layers of moist air.",
+        "kd": "Unit 1.8.3   2.5.4 List meteorological factors that will reduce visibility"
+    },
+    {
+        "question": "What weather is associated with a Kelvin Helmholz cloud?",
+        "options": [
+            "smooth conditions",
+            "windshear",
+            "rain",
+            "icing"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Kelvin-Helmholtz clouds indicate significant\u00a0mechanical turbulence\u00a0at their altitude, which can be\u00a0moderate to severe for aircraft.",
+        "kd": "Unit 1.8.3   2.4.3 Describe the weather associated with each cloud type"
+    },
+    {
+        "question": "When can the dew point be higher than the ambient temperature?",
+        "options": [
+            "Never occurs",
+            "at coastal regions",
+            "upon mountainous terrain",
+            "only when the dewpoint is at ISA temperatures"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "the\u00a0dew point cannot be higher than the ambient temperature, because the dew point is the temperature to which air must cool for saturation to occur (relative humidity reaches 100%).",
+        "kd": "Unit 1.8.2   2.2.2(b) saturated air, relative humidity, dew point"
+    },
+    {
+        "question": "Thirty minutes prior to your private flight, you check the relevant TAF's and GAFs and observe there is FEW cloud bases at 5,000ft on the forecast with no mention of poor weather However, enroute your destination, you encounter thunderstorms and forced to divert to another airport to avoid flying throughh them. Should you submit an AIREP?",
+        "options": [
+            "Yes",
+            "No, as they were not on the forecast",
+            "No, there is no requirement to report such conditions"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Thunderstorms create hazardous flying condtions and should be reported via AIREP to inform other pilots and air traffic services.",
+        "kd": "Unit 1.8.3   2.10.5 List the conditions that require a pilot to submit a short AIREP"
+    },
+    {
+        "question": "As height is decreased during a descent to land in a strong crosswind from the right, the crosswind component is likely to:",
+        "options": [
+            "decrease",
+            "reverse to come from the left",
+            "remain the same",
+            "increase"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.7.2(b) wind changes (back/veer, stronger/weaker)"
+    },
+    {
+        "question": "In the mesosphere, temperature:",
+        "options": [
+            "decreases with height",
+            "increases with height",
+            "remains constant"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The mesosphere is\u00a0the third layer of Earth's atmosphere, located above the stratosphere and below the thermosphere.\u00a0It extends from about 50 to 85 kilometers (31 to 53 miles) above the Earth's surface.\u00a0In this layer, temperature decreases with increasing altitude. Temperatures in the mesosphere decrease with altitude, reaching the coldest temperatures in Earth's atmosphere, around -100\u00b0C (-148\u00b0F), near the top of the layer.",
+        "kd": null
+    },
+    {
+        "question": "In the tropopause, temperature:",
+        "options": [
+            "decreases with height",
+            "increases with height",
+            "remains constant"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "In the\u00a0tropopause, the temperature is\u00a0relatively constant or stable\u00a0with altitude \u2014 it neither increases nor decreases significantly. This stable temperature happens because the tropopause marks the limit where rising air from the troposphere can no longer cool and rise further, due to the warming trend that begins in the stratosphere above.",
+        "kd": "Unit 1.8.2   2.1.3(b) tropopause"
+    },
+    {
+        "question": "Moisture is added to a parcel of air by:",
+        "options": [
+            "sublimation and condensation",
+            "evaporation and sublimination",
+            "evaporation and condensation"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.2   2.2.2(c) evaporation, condensation, freezing"
+    },
+    {
+        "question": "With regard to windflow patterns shown on surface analysis charts, when the isobars are:",
+        "options": [
+            "close together, the pressure gradient force is greater and the wind velocities are stronger.",
+            "close together, the pressure gradient force is slight and wind velocities are weaker.",
+            "not close together, the pressure gradient force is greather and wind velocities are stronger."
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.6.3 Compare surface and gradient winds in terms of direction and strength"
+    },
+    {
+        "question": "Which is true regarding a cold front occulusion? The air ahead of the warm front:",
+        "options": [
+            "is colder than the air behind the overtaking cold front",
+            "has the same temperature as the air behind the overtaking cold front.",
+            "is warmer than the air behind the overtaking cold front"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.7.1(d) occluded fronts"
+    },
+    {
+        "question": "What is the approximate base of the cumulus clouds if the temperature at 2,000ft AMSL is 10\u02daC and the dewpoint is 1\u02daC?",
+        "options": [
+            "4,000ft AMSL",
+            "2,000ft AGL",
+            "6,000ft AMSL",
+            "3,500ft AMSL"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.2   2.2.2(b) saturated air, relative humidity, dew point"
+    },
+    {
+        "question": "Virga is best described as:",
+        "options": [
+            "turbulent areas beneath cumulonimbus clouds",
+            "streamers of precipitation trailing beneath clouds which evaporates before reaching the ground.",
+            "wall cloud torrents trailing beneath cumulonimbius clouds which dissipate before reaching the ground."
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Virga\u00a0is\u00a0precipitation that falls from a cloud but evaporates before reaching the ground. It looks like streaks or trails extending downward from a cloud, often seen beneath rain clouds in dry or semi-dry regions.",
+        "kd": "Unit 1.8.3   2.4.4 Differentiate between drizzle, rain, showers and virga"
+    },
+    {
+        "question": "Fog produced by frontal activity is a result of saturation due to:",
+        "options": [
+            "adiabatic cooling",
+            "nocturnal cooling",
+            "evaporation of precipitation."
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Fog produced by frontal activity is often a result of saturation due to the evaporation of precipitation. As precipitation falls from the cloud, it can evaporate into the drier air below, increasing the moisture content and leading to saturation. This process can create fog, especially in the vicinity of fronts where there is significant lifting and moisture.",
+        "kd": null
+    },
+    {
+        "question": "Which inflight hazard is most commonly associated with warm fronts?",
+        "options": [
+            "Radiation fog",
+            "Precipitation-induced fog",
+            "Advection fog."
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "As a\u00a0warm front\u00a0advances, warm moist air is lifted over the cooler air ahead of the front, leading to widespread precipitation. This precipitation can saturate the cooler air near the surface, leading to precipitation-induced fog, especially ahead of the warm front.",
+        "kd": "Unit 1.8.3   2.8.2(vii) inversions and fog"
+    },
+    {
+        "question": "Which is a characteristic of stable air?",
+        "options": [
+            "Reduced visibility",
+            "Cumulus clouds",
+            "Good visibility between showers",
+            "turbulence"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Stable air tends to suppress vertical motion, which allows\u00a0moisture, haze, smoke, or pollutants\u00a0to accumulate near the surface. This often leads to reduced visibility",
+        "kd": "Unit 1.8.3   2.5.4 List meteorological factors that will reduce visibility"
+    },
+    {
+        "question": "The height of the tropopause at ISA is approximately:",
+        "options": [
+            "20,000ft",
+            "36,000ft",
+            "10,000ft",
+            "57,000ft"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "In the\u00a0International Standard Atmosphere (ISA) the tropopause is defined at an altitude of approximately 11\u202fkm, or about 36,089\u202fft (commonly rounded to 36,000\u202fft).",
+        "kd": "Unit 1.8.2   2.1.3(b) tropopause"
+    },
+    {
+        "question": "What clouds and weather may result from a humid and instable air mass that is pushed against a mountain range?",
+        "options": [
+            "Embedded CB and thunderstorms, and showers of rain/hail",
+            "Thin altostratus and Cirrostratus clouds with light and steady precipitation.",
+            "Overcast low stratus clouds with no precipitation."
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.4.3 Describe the weather associated with each cloud type"
+    },
+    {
+        "question": "Small water droplets that are supercooled below 0\u02daC are likely to form which of the following on the aircraft airfame:",
+        "options": [
+            "hoar frost",
+            "dry ice",
+            "rime ice",
+            "clear ice"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Small supercooled water droplets (below 0\u00b0C) are most likely to form\u00a0clear ice (also known as glaze ice)\u00a0on the aircraft airframe. Supercooled droplets remain liquid even below freezing temperatures, when they hit the aircraft surface, they freeze slowly, allowing the water to spread before solidifying. This leads to the formation of smooth, transparent, and dense ice \u2014 called clear ice.",
+        "kd": "Unit 1.8.3   2.8.2(xi) hoar frost, rime and clear airframe ice"
+    },
+    {
+        "question": "What is the compostion of the atmosphere?",
+        "options": [
+            "21% Oxygen, 78% nirogen, 1% noble gasses/carbon",
+            "78% Oxygen, 21% nitrogen, 1% noble gasses/carbon",
+            "78% Oxygen, 1% nitrogen, 21% noble gasses/carbon",
+            "it will vary depending on where the sun is"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0composition of Earth's atmosphere\u00a0by volume is approximately Nitrogen (78%), Oxygen (21%) and other. Gases (1%)",
+        "kd": "Unit 1.8.2   2.1 Composition of the atmosphere"
+    },
+    {
+        "question": "The temperature deviation is ISA+08, what is the temperature at 6,000ft?",
+        "options": [
+            "13\u02daC",
+            "11\u02daC",
+            "10\u02daC",
+            "9\u02daC"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Under ISA conditions, the standard temperature at 0ft AMSL is 15\u02daC with a lapse rate of 1.98\u02daC/1,000ft. Therefore the temperature at 6,000ft under ISA conditions is: 15\u02daC - (2\u02daC x 6) = +3\u02daC, with the +8 temp deviation, this becomes 11\u02daC",
+        "kd": "Unit 1.8.2   2.1.2 State the ISA temperature and pressure lapse rates in the troposphere"
+    },
+    {
+        "question": "A GAF shows BKN CU 3500/5500, what amount of cloud is this?",
+        "options": [
+            "3 to 4 oktas",
+            "5 to 6 oktas",
+            "5 to 7 oktas",
+            "6 to 8 oktas"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.4.2 State the standard abbreviation for each cloud type, and the method used to report cloud amount."
+    },
+    {
+        "question": "A TAF states SH/RA. What does this indicate?",
+        "options": [
+            "Snow Heavy/Rain",
+            "recent showers",
+            "showers of rain",
+            "snow or rain"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(a) explain the coded information in plan language"
+    },
+    {
+        "question": "METAR's are issued every:",
+        "options": [
+            "half hour or hour",
+            "2 hours",
+            "3 hours",
+            "6 hours"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Routine METAR's are\u00a0Issued\u00a0either half hourly or hourly\u00a0at most airports.",
+        "kd": null
+    },
+    {
+        "question": "Wind direction on a METAR is shown in:",
+        "options": [
+            "from where the wind is blowing from in degrees true",
+            "from where the wind is blowing from in degrees magnetic",
+            "from where the wind is blowing to in degrees true",
+            "from where the wind is blowing to in degrees magnetic"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The wind direction on a METAR is given in degrees true rounded to the nearest 10 degrees, is the mean value over the sampling period which is normally 10 minutes. A variable wind direction is given as VRB.",
+        "kd": "Unit 1.8.3   2.10.3(a) explain the coded information in plan language"
+    },
+    {
+        "question": "What cloud types are most often assiociated with an anticyclone?",
+        "options": [
+            "Nimbostratus",
+            "Altostratus",
+            "Cumulus",
+            "Stratocumulus"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The cloud types\u00a0most often associated with an anticyclone (high-pressure system)\u00a0are stratus (ST) and stratocumulus (SC):",
+        "kd": "Unit 1.8.3   2.4.3 Describe the weather associated with each cloud type"
+    },
+    {
+        "question": "A GAF shows SCT CU 2000/4000, what amount of cloud is this?",
+        "options": [
+            "3 to 4 oktas",
+            "3 to 5 oktas",
+            "5 to 7 oktas",
+            "2 to 4 oktas"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.2   2.3.2 Recall the standard abbreviation for each cloud type, and the method used to report cloud amount"
+    },
+    {
+        "question": "What conditions would you expect approaching this cloud?",
+        "options": [
+            "Smooth flying conditions",
+            "very turbulent",
+            "possible showers forming",
+            "icing conditions"
+        ],
+        "correct": 1,
+        "imageName": "lenticular.jpg",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.4.3 Describe the weather associated with each cloud type"
+    },
+    {
+        "question": "A GAF shows FEW CU 2500/4000, what amount of cloud is this?",
+        "options": [
+            "0 to 1 oktas",
+            "0 to 2 oktas",
+            "3 to 4 oktas",
+            "1 to 2 oktas"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "FEW clouds are defined as 1 -2 oktas",
+        "kd": "Unit 1.8.3   2.10.3(a) explain the coded information in plan language"
+    },
+    {
+        "question": "What is the temperature at 7,000ft under ISA conditions?",
+        "options": [
+            "0\u02daC",
+            "-7\u02daC",
+            "+1\u02daC",
+            "+7\u02daC"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Under ISA conditions, the standard temperature at 0ft AMSL is 15\u02daC with a lapse rate of 1.98\u02daC/1,000ft. Therefore the temperature at 7,000ft under ISA conditions is: 15\u02daC - (2\u02daC x 7) = +1\u02daC",
+        "kd": "Unit 1.8.2   2.1.2 State the ISA temperature and pressure lapse rates in the troposphere"
+    },
+    {
+        "question": "Advection fog forms when:",
+        "options": [
+            "cold air passes over a warm surface",
+            "cold air passes over a cold surface",
+            "warm air passes over a warm surface",
+            "warm air passes over a cold surface"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 3,
+        "explanation": "Advection fog forms when\u00a0warm, moist air moves horizontally (advects)\u00a0over a\u00a0colder surface, cooling the air to its dew point and causing condensation near the surface. It is common along\u00a0coastal regions\u00a0where sea breezes bring warm, moist air over cooler ocean currents or landmasses.",
+        "kd": "Unit 1.8.3   2.8.2(vii) inversions and fog"
+    },
+    {
+        "question": "You are flying in the vicinity of stratocumulus clouds during a winters morning in Tasmania, which icing are you most at risk of encountering:",
+        "options": [
+            "Rime ice",
+            "clear ice",
+            "hoar frost",
+            "carburettor ice"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "When flying in the vicinity of stratocumulus clouds during a winter morning in Tasmania, you are most at risk of encountering rime ice. This is because stratocumulus clouds often contain supercooled water droplets that can freeze upon contact with the aircraft surface, leading to the formation of rime ice.",
+        "kd": "Unit 1.8.3   2.8.2(xi) hoar frost, rime and clear airframe ice"
+    },
+    {
+        "question": "Which cloud type is most likely to produce virga:",
+        "options": [
+            "nimbostratus",
+            "Altostratus",
+            "Cumulus",
+            "cirrostratus"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.4.4 Differentiate between drizzle, rain, showers and virga"
+    },
+    {
+        "question": "What type of cloud is this?",
+        "options": [
+            "nimbostratus",
+            "Altostratus",
+            "Cumulus",
+            "cirrus"
+        ],
+        "correct": 3,
+        "imageName": "cirrus.jpg",
+        "marks": 1,
+        "explanation": "Cirrus clouds are high, white, and wispy \u2014 like delicate brush strokes across the sky.",
+        "kd": "Unit 1.8.3   2.4.1 Identify and classify 'cloud' types"
+    },
+    {
+        "question": "What type of cloud is this?",
+        "options": [
+            "altocumulus",
+            "Altostratus",
+            "Cumulus",
+            "cirrus"
+        ],
+        "correct": 1,
+        "imageName": "altocumulus.jpeg",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.4.1 Identify and classify 'cloud' types"
+    },
+
+    {
+        "question": "What type of cloud is this?",
+        "options": [
+            "nimbostratus",
+            "Altostratus",
+            "Cumulus",
+            "cumulonimbus"
+        ],
+        "correct": 3,
+        "imageName": "cumulonimbus.jpeg",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.4.1 Identify and classify 'cloud' types"
+    },
+    {
+        "question": "What type of cloud is this?",
+        "options": [
+            "nimbostratus",
+            "Altostratus",
+            "Cumulus",
+            "cumulonimbus"
+        ],
+        "correct": 1,
+        "imageName": "altostratus.jpeg",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.4.1 Identify and classify 'cloud' types"
+    },
+    {
+        "question": "What type of cloud is this?",
+        "options": [
+            "Nimbostratus",
+            "Altostratus",
+            "Cumulus",
+            "Stratocumulus"
+        ],
+        "correct": 3,
+        "imageName": "stratocumulus.jpg",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.4.1 Identify and classify 'cloud' types"
+    },
+    {
+        "question": "The winds on a Grid Point Wind Temperature (GPWT) chart are displayed as:",
+        "options": [
+            "degrees magnetic",
+            "degrees true",
+            "degrees true if the magnetic variation is less than 5\u02da",
+            "degrees magnetic if the magnetic variation is less than 5\u02da"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The winds on a Grid Point Wind Temperature (GPWT) chart are displayed as degrees true.",
+        "kd": null
+    },
+    {
+        "question": "The cloud bases on a GAF are displayed as:",
+        "options": [
+            "height above ground level (AGL)",
+            "height above mean sea level (AMSL)",
+            "height with a QNH setting of 1013",
+            "as directed by the GAF chart"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Cloud bases on a GAF are displayed as height above ground level (AGL).",
+        "kd": null
+    },
+    {
+        "question": "As a recommendation, thunderstorms are to be avoid by a distance of:",
+        "options": [
+            "1nm",
+            "5km",
+            "5nm",
+            "20nm"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Thunderstorms can produce severe turbulence, hail, lightning, wind shear, and microbursts that can extend well beyond the visible cloud. Staying at least 20 NM away provides a safety buffer against these hazards.",
+        "kd": "Unit 1.8.3   2.8.2(viii) thunderstorms and microbursts"
+    },
+    {
+        "question": "What type of cloud is this?",
+        "options": [
+            "nimbostratus",
+            "lenticular",
+            "Cumulus",
+            "cumulonimbus"
+        ],
+        "correct": 1,
+        "imageName": "lenticular.jpg",
+        "marks": 1,
+        "explanation": "A\u00a0lenticular cloud\u00a0is a lens-shaped cloud that typically forms over mountains or hills. They have a smooth, lens or saucer shape, often resembling a stack of pancakes or a UFO.",
+        "kd": "Unit 1.8.3   2.4.1 Identify and classify 'cloud' types"
+    },
+    {
+        "question": "Using the below TAF: Your ETA at YMAV (Avalon) is 0400Z, what is the expected temperature upon arrival?\nTAF YMAV 292329Z 3000/3100 \n26008KT 9999 BKN030\nFM300300 22010KT 9999 BKN030\nFM301000 26008KT 9999 FEW020 SCT030\nRMK\nT 14 16 16 12 Q 1028 1027 1027 1028",
+        "options": [
+            "12\u02daC",
+            "14\u02daC",
+            "15\u02daC",
+            "16\u02daC"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(a) apply the information to planning and conducting a flight"
+    },
+    {
+        "question": "Using the below TAF: Your ETA at YMAV (Avalon) is 0400Z, what is the expected QNH upon arrival?\nTAF YMAV 292329Z 3000/3100 \n26008KT 9999 BKN030\nFM300300 22010KT 9999 BKN030\nFM301000 26008KT 9999 FEW020 SCT030\nRMK\nT 14 16 16 12 Q 1028 1027 1027 1028",
+        "options": [
+            "1013hPa",
+            "1028hPa",
+            "1027hPa",
+            "1000hPa"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(a) apply the information to planning and conducting a flight"
+    },
+    {
+        "question": "Using the below TAF: Your ETA at YMAV (Avalon) is 0500Z, what is the expected wind direction upon arrival?\nTAF YMAV 292329Z 3000/3100 \n26008KT 9999 BKN030\nFM300300 22010KT 9999 BKN030\nFM301000 20018KT 9999 FEW020 SCT030\nRMK\nT 14 16 16 12 Q 1028 1027 1027 1028",
+        "options": [
+            "022\u02da at 10kts",
+            "220\u02da at 10kts",
+            "260\u02da at 8kts",
+            "200\u02da at 18kts"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(a) apply the information to planning and conducting a flight"
+    },
+    {
+        "question": "A TAF states FU. What does this indicate?",
+        "options": [
+            "Fog",
+            "Funnel Cloud",
+            "Smoke",
+            "Full cloud"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(a) explain the coded information in plan language"
+    },
+    {
+        "question": "A TAF states SN. What does this indicate?",
+        "options": [
+            "Sandstorm",
+            "Snow Grains",
+            "Squall",
+            "Snow"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(a) explain the coded information in plan language"
+    },
+    {
+        "question": "A TAF states BR. What does this indicate?",
+        "options": [
+            "Broken cloud",
+            "Brown cloud",
+            "mist",
+            "Broken Rain"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(a) explain the coded information in plan language"
+    },
+    {
+        "question": "A METAR states NCD, what does this indicate?",
+        "options": [
+            "No critcal data",
+            "Nil Cloud detected",
+            "No climate data",
+            "No clouds direct"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(a) explain the coded information in plan language"
+    },
+    {
+        "question": "A TAF states -RA. What does this indicate?",
+        "options": [
+            "No rain",
+            "light rain",
+            "possible rain",
+            "heavy rain"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(a) explain the coded information in plan language"
+    },
+    {
+        "question": "Visibility on a TAF is given in:",
+        "options": [
+            "kilometres",
+            "nautical miles",
+            "statute miles",
+            "metres"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.5.1 Know the method used in meteorological forecasts and reports to determine visibility"
+    },
+    {
+        "question": "The TAF indicates 33028G40KT, this means:",
+        "options": [
+            "wind is forecasted from 330\u02da at 28kts gusting up to 40kts",
+            "wind is forecasted blowing to 330\u02da at 28kts gusting up to 40kts",
+            "wind is reported from 330\u02da at 28kts with gusts recorded up to 40kts",
+            "wind is reported blowing to 330\u02da at 28kts with gusts recorded up to 40kts"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(a) explain the coded information in plan language"
+    },
+    {
+        "question": "Regaring the below METAR, the dew point is\nMETAR YDLQ 300500Z AUTO 18005KT 140V210 //// // ////// 17/07 Q1025\n RMK RF00.0/000.2",
+        "options": [
+            "17\u02daC",
+            "7\u02daC",
+            "0.2\u02daC",
+            "14\u02daC"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(a) explain the coded information in plan language"
+    },
+    {
+        "question": "How frequently are TAF3's issued?",
+        "options": [
+            "0.5-1 hour",
+            "3 hours",
+            "6 hours",
+            "24 hours"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "TAF3\u00a0forecasts are issued\u00a0every 3 hours.",
+        "kd": null
+    },
+    {
+        "question": "The term 'NSW' on a TAF indicates:",
+        "options": [
+            "New South Wales",
+            "North, South West",
+            "Nil significant weather",
+            "No signifiicant winds"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Nil Significant Weather - The forecast period does not expect any significant weather phenomena such as precipitation, thunderstorms, fog, or other weather conditions that could impact flight operations.",
+        "kd": null
+    },
+    {
+        "question": "Your planned arrival at Bundaberg (YBUD) is 1315Z, what is the expected weather upon arrival?\nTAF YBUD 301124Z 3012/3100\n21006KT 9999 -SHRA BKN018\nRMK\nT 16 15 16 17 Q 1020 1019 1019 1020",
+        "options": [
+            "Light showers of rain with 5-7 ocktas of cloud with bases of 1,800ft AGL",
+            "Light showers of rain with 4-6 ocktas of cloud with bases of 1,800ft AGL",
+            "Light showers of rain with 5-7 ocktas of cloud with bases of 1,800ft AMSL",
+            "Light showers of rain with 3-4 ocktas of cloud with bases of 1,800ft AMSL"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(a) explain the coded information in plan language"
+    },
+    {
+        "question": "When a cold front has caught up with a warm front, this is known as:",
+        "options": [
+            "Quasi-stationary front",
+            "an occuluded front",
+            "neutral front",
+            "equilisation front"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "An\u00a0occluded front\u00a0occurs in a mature low-pressure system when a\u00a0cold front catches up to a warm front, causing the warm air to be lifted off the ground entirely. The faster-moving cold front overtakes the warm front which causes the warm air between them to be pushed upwards above the cooler air masses.",
+        "kd": "Unit 1.8.3   2.7.1(d) occluded fronts"
+    },
+    {
+        "question": "When a cold front intercepts a warm front from a different direction, this is known as a:",
+        "options": [
+            "Quasi-stationary front",
+            "an occuluded front",
+            "neutral front",
+            "equilisation front"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A quasi-stationary front is essentially a\u00a0stalled boundary\u00a0between two air masses, often leading to\u00a0persistent weather conditions\u00a0over the same region. It forms when two air masses of different temperatures and densities meet but neither is strong enough to displace the other. It is often depicted on weather maps as alternating blue triangles and red semicircles pointing in opposite directions.",
+        "kd": null
+    },
+    {
+        "question": "The tropopause is defined as:",
+        "options": [
+            "the boundary area between the mesosphere and the stratosphere",
+            "the boundary area between the troposphere and the stratosphere",
+            "a layer of constant temperature in the upper atmosphere",
+            "the layer where temperature is highest in the atmosphere"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The\u00a0tropopause\u00a0is the\u00a0transition zone\u00a0between the\u00a0troposphere\u00a0(where most weather occurs) and the\u00a0stratosphere(where temperature begins to increase with height). It marks the\u00a0upper limit of most cloud formation and weather systems.",
+        "kd": "Unit 1.8.2   2.1.3(b) tropopause"
+    },
+    {
+        "question": "Refer to the below map - Melbounre represents the red dot, what is the QNH in Melbourne?",
+        "options": [
+            "1009hPa",
+            "1010hPa",
+            "1012hPa",
+            "1015hPa"
+        ],
+        "correct": 2,
+        "imageName": "qnhmap.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Refer to the below map - Perth is represented by the green dot, what is the QNH in Perth?",
+        "options": [
+            "1017hPa",
+            "1018hPa",
+            "1019hPa",
+            "1020hPa"
+        ],
+        "correct": 3,
+        "imageName": "qnhmap.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": null
+    },
+    {
+        "question": "Refer to the below map - Melbourne represents the red dot, what is the approximate wind direction in Melbourne?",
+        "options": [
+            "North",
+            "East",
+            "South",
+            "West"
+        ],
+        "correct": 2,
+        "imageName": "qnhmap.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.9.1(e) approximate wind direction"
+    },
+    {
+        "question": "Refer to the below map - Perth is represented by the green dot, what is the approximate wind direction in Perth?",
+        "options": [
+            "North East",
+            "South East",
+            "South West",
+            "North West"
+        ],
+        "correct": 0,
+        "imageName": "qnhmap.png",
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.9.1(e) approximate wind direction"
+    },
+    {
+        "question": "Fohn winds are found:",
+        "options": [
+            "only in dry flat deserts",
+            "in the dissipating stage of a thunderstorm",
+            "on the lee side of mountainous terrain",
+            "during the formation of cirrus clouds"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Fohn winds are a type of downslope wind that occurs on the lee side of mountain ranges. They are typically warm and dry, caused by the descent of air down the mountain slope, which leads to adiabatic warming.",
+        "kd": "Unit 1.8.3   2.8.2(v) mountain waves and fohn winds"
+    },
+    {
+        "question": "Refer to the below TAF.\nTAF YGTE 020711Z 0208/0220\n16008KT 9999 SCT030\nFM021100 15005KT 9999 SCT035\nRMK\nT 26 24 22 22 Q 1011 1012 1013 1011\nWhich statement is most correct?",
+        "options": [
+            "Expected temperature at 1100Z is 22\u02daC",
+            "A gradual change will occur at 1100Z with winds of 150/05kts with cloud of 2 - 4 oktas with bases of 3,500ft",
+            "A rapid change will occur at 1100Z with winds of 005/15kts with cloud of 3 - 4 oktas with bases of 3,500ft",
+            "A rapid change will occur at 1100Z with winds of 150/05kts with cloud of 3 - 4 oktas with bases of 3,500ft"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(a) explain the coded information in plan language"
+    },
+    {
+        "question": "Refer to the below TAF- \nTAF YGTE 020711Z 0208/0220\n16008KT 9999 SCT030\nFM021100 15005KT 9999 SCT035\nRMK\nT 26 24 22 22 Q 1011 1012 1013 1011\nWhat is the expected QNH at 1100Z?",
+        "options": [
+            "1011hPa",
+            "1012hPa",
+            "1012.5hPa",
+            "1013hPa"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(c) Apply the information to planning for and conducting a flight"
+    },
+    {
+        "question": "What is the term known as when the temperature increases with height?",
+        "options": [
+            "adiabatic",
+            "katabatic",
+            "Fohn effect",
+            "inversion"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "An\u00a0inversion\u00a0is a meteorological phenomenon where the normal decrease in temperature with altitude is reversed, and the temperature increases with height. This can lead to various weather conditions such as fog, smog, and poor air quality, as it traps pollutants and moisture near the ground.",
+        "kd": "Unit 1.8.3   2.8.2(vii) inversions and fog"
+    },
+    {
+        "question": "What type of air mass is characterised by cold temperatures and high humidity?",
+        "options": [
+            "Continental polar",
+            "Continental Tropic",
+            "Maritime Polar",
+            "Maritime Tropic"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A continental polar (cP) air mass is characterised by cold temperatures and high humidity.",
+        "kd": null
+    },
+    {
+        "question": "A TAF covers a distance of:",
+        "options": [
+            "3nm",
+            "5nm",
+            "10nm",
+            "15nm"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A TAF (Terminal Aerodrome Forecast) covers a distance of 5 nautical miles from the aerodrome.",
+        "kd": null
+    },
+    {
+        "question": "Which cloud type is associated with +RA?",
+        "options": [
+            "AC",
+            "CU",
+            "NS",
+            "CC"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Nimbostratus clouds\u00a0are thick, dark, and layered, typically producing continuous, steady, and often heavy precipitation, including rain (+RA), snow, or sleet.",
+        "kd": "Unit 1.8.3   2.4.3 Describe the weather associated with each cloud type"
+    },
+    {
+        "question": "A F\u00f6hn wind typically results in which of the following weather conditions on the leeward side of a mountain range?",
+        "options": [
+            "Cooler temperatures and increased humidity",
+            "Warmer temperatures and decreased humidity",
+            "Warmer temperatures and increased humidity",
+            "Cooler temperatures and decreased humidity"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A\u00a0F\u00f6hn wind\u00a0typically results in the following weather conditions on the\u00a0leeward side\u00a0of a mountain range warm temperatures, dry conditions, clear skies or reduced cloud cover and low relative humidity. This warming and drying effect occurs because the air loses moisture as it rises over the mountain (causing precipitation on the windward side), then compresses and warms adiabatically as it descends on the leeward side.",
+        "kd": "Unit 1.8.3   2.8.2(v) mountain waves and fohn winds"
+    },
+    {
+        "question": "In what way do F\u00f6hn winds typically affect aviation conditions on the leeward side of a mountain?",
+        "options": [
+            "Reduce visibility due to fog and mist",
+            "Increase turbulence and decrease density altitude",
+            "Cause wind shear and strong turbulence near terrain",
+            "Improve conditions for glider operations due to stable air"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.8.2(v) mountain waves and fohn winds"
+    },
+    {
+        "question": "The descending air in a F\u00f6hn wind is typically:",
+        "options": [
+            "Saturated and unstable",
+            "Unsaturated and cooling",
+            "Unsaturated and warming",
+            "Saturated and warming"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "As the air descends on the leeward side of a mountain, it warms adiabatically due to compression under increasing atmospheric pressure. Additionally, because much of its moisture was lost on the windward side (as precipitation), the descending air is significantly\u00a0drier.",
+        "kd": "Unit 1.8.3   2.8.2(v) mountain waves and fohn winds"
+    },
+    {
+        "question": "How is RVR typically measured at major aerodromes?",
+        "options": [
+            "By visual observation from the tower",
+            "By automatic visibility sensors located alongside the runway",
+            "Using pilot reports from recent landings",
+            "By calculating from general visibility reported in METARs"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.5.2 Describe the term 'runway visual range'"
+    },
+    {
+        "question": "Refer to the below- \nSPECI YMML 221945Z 14004KT 0600 R16/0600D R27/0550N FG ////// 08/08 Q1026 RMK\nWhich statement is most correct?",
+        "options": [
+            "Runway visual range on runway 27 threshold is 550 metres; nil trend",
+            "Runway visual range on runway 27 threshold is 600 metres; down trend",
+            "Runway visual range on runway 27 threshold is 550 metres; up trend",
+            "Runway visual range on runway 27 threshold is 550 metres; down trend"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.5.2 Describe the term 'runway visual range'"
+    },
+    {
+        "question": "Refer to the below- \nSPECI YSSY 052000Z 33006KT 0500 R34L/0600N R34R/1200V1800D FG ////// 16/15\nQ1006 RF000.0/000.0\nWhich statement is most correct?",
+        "options": [
+            "Runway visual range on runway 34R threshold is 1200 metres with\nvariation to 1800 metres during the last 10 minutes and is trending\ndown.",
+            "Runway visual range on runway 34R threshold is 1200 metres with\nvariation to 1800 metres during the last 30 minutes and is trending\nup",
+            "Runway visual range on runway 34R threshold is 1200 metres with\nvariation to 1800 metres during the last 10 minutes with nil trend.",
+            "Runway visual range on runway 34R threshold is 1200 metres with\nvariation to 1800 metres during the last 30 minutes and is trending\ndown."
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.5.2 Describe the term 'runway visual range'"
+    },
+    {
+        "question": "A wind blowing up sloping terrain during the day could be:",
+        "options": [
+            "Anabatic",
+            "katabatic",
+            "Fohn wind",
+            "slope wind"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Anabatic wind - It is driven by solar heating, which warms the slope surface, causing the air above it to rise. It typically leads to upslope breezes that can enhance local cloud formation or even showers if sufficient moisture is present.",
+        "kd": "Unit 1.8.3   2.8.2(iv) anabatic and katabatic winds"
+    },
+    {
+        "question": "What causes the formation of the Equatorial Trough or Intertropical Convergence Zone (ITCZ)?",
+        "options": [
+            "The convergence of cold polar air masses",
+            "The meeting of trade winds from both hemispheres near the equator",
+            "A permanent low-pressure system caused by jet streams",
+            "Seasonal movement of polar fronts"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.11.1(d) seasonal pressure and frontal systems, including the ITCZ and equatorial trough"
+    },
+    {
+        "question": "The TAF denotes \"CAVOK\", what visibility is this?",
+        "options": [
+            "Greater than 3nm",
+            "More than 5km",
+            "More than 10km",
+            "more than 10nm"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.5.1 Know the method used in meteorological forecasts and reports to determine visibility"
+    },
+    {
+        "question": "What type of cloud is expected when a warm mass of air slides up on a cold mass of air?",
+        "options": [
+            "Altostratus",
+            "Nimbostratus",
+            "Cirrus",
+            "Cumulonimbus"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Nimbostratus is typical of\u00a0steady, layered cloud and precipitation\u00a0found in warm frontal systems, where warm air glides up over cooler air.",
+        "kd": "Unit 1.8.3   2.4.3 Describe the weather associated with each cloud type"
+    },
+    {
+        "question": "A forecast for your destination must be valid for:",
+        "options": [
+            "60 minutes before to 60 minutes after your ETA",
+            "30 minutes before to 60 minutes after your ETA",
+            "60 minutes before to 30 minutes after your ETA",
+            "30 minutes before to 30 minutes after your ETA"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.10.3(b) decide whether a particular forecast is valid for a flight"
+    },
+    {
+        "question": "What is the validity period of a Graphical Area Forecast (GAF)?",
+        "options": [
+            "1 hour",
+            "3 hours",
+            "6 hours",
+            "12 hours"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "GAFs are issued to provide a forecast of weather conditions over a specified large area, usually covering airspace relevant to flight operations, and they are updated every 6 hours to reflect changing weather patterns.",
+        "kd": "Unit 1.8.3   2.10.3(b) decide whether a particular forecast is valid for a flight"
+    },
+    {
+        "question": "What conditions are most likely to form radiation fog?",
+        "options": [
+            "an overcast summer night with high relative humidity",
+            "a cloudless night with warm temperatures and low relative humidity",
+            "a cold cloudless night with high relative humidity"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.8.2(vii) inversions and fog"
+    },
+    {
+        "question": "A cloud type often associated with a slow moving warm front is:",
+        "options": [
+            "Nil Cloud",
+            "altocumulus",
+            "cumulonuimbuis",
+            "nimbostratus"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "These clouds typically bring steady, widespread precipitation and form as warm, moist air gradually rises over colder air ahead of the front.",
+        "kd": "Unit 1.8.3   2.4.3 Describe the weather associated with each cloud type"
+    },
+    {
+        "question": "An isobar represents:",
+        "options": [
+            "temperature",
+            "pressure",
+            "wind strength",
+            "wind direction"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.8.2(vii) inversions and fog"
+    },
+    {
+        "question": "Advection fog typically forms when:",
+        "options": [
+            "Warm, moist air moves over a colder surface",
+            "Cold, dry air moves over a warmer surface",
+            "Cold, moist air settles in low-lying areas on calm nights",
+            "Moist air rises over sloping terrain"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Advection fog forms when warm, moist air is\u00a0transported horizontally (advected)\u00a0over a cooler surface, cooling the air to its dew point and causing condensation. It's common along coasts and over cold ocean currents.",
+        "kd": "Unit 1.8.3   2.8.2(vii) inversions and fog"
+    },
+    {
+        "question": "Advection fog is most likely to persist or intensify when:",
+        "options": [
+            "Wind speed is moderate and the cooling surface is extensive",
+            "Skies are clear and winds are calm",
+            "Vertical air motion is strong and surface heating increases",
+            "Relative humidity decreases with height"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Advection fog requires\u00a0horizontal movement\u00a0of moist air and a\u00a0broad cooling surface. Light to moderate winds help maintain the advection; too little wind stops the flow, and too much disperses the fog.",
+        "kd": "Unit 1.8.3   2.8.2(vii) inversions and fog"
+    },
+    {
+        "question": "The below line is found on a TAF\nINTER 2502/2508 26020G35KT 5000 SHRAGS BKN012\nWhat does \"SHRAGS\" mean?",
+        "options": [
+            "Showers of heavy rain over grass",
+            "Showers of rain with small hail or snow",
+            "Showers of rain with Thunderstorms",
+            "Showers of rain with gradual snow"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The term\u00a0SHRAGS\u00a0stands for SHRA = Showers of Rain, GS = Small Hail or Snow Pellets (Graupel)",
+        "kd": "Unit 1.8.3   2.10.3(a) explain the coded information in plan language"
+    },
+    {
+        "question": "Wind shear is best described as:",
+        "options": [
+            "A steady increase in wind speed with altitude",
+            "The rotation of air masses due to Coriolis force",
+            "The turbulence caused by mountains and ridges",
+            "A sudden change in wind speed and/or direction over a short distance"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Wind shear refers to a\u00a0rapid change in wind velocity\u00a0(speed and/or direction) over a short vertical or horizontal distance.",
+        "kd": "Unit 1.8.2   2.7.1(c)(ii) windshear"
+    },
+    {
+        "question": "What type of icing is most probable with a cumulonimbus cloud?",
+        "options": [
+            "Rime ice",
+            "clear ice",
+            "hoar frost",
+            "carburettor ice"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.8.2(xi) hoar frost, rime and clear airframe ice"
+    },
+    {
+        "question": "What is the Intertropical Convergence Zone (ITCZ)?",
+        "options": [
+            "A zone where trade winds diverge near the poles",
+            "A region near the equator where the northeast and southeast trade winds converge",
+            "A high-pressure belt near the equator",
+            "A desert region near the tropics"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The ITCZ is a low-pressure belt near the equator where the northeast trade winds from the Northern Hemisphere and the southeast trade winds from the Southern Hemisphere meet and converge, causing rising air and frequent thunderstorms.",
+        "kd": "Unit 1.8.3   2.11.1(d) seasonal pressure and frontal systems, including the ITCZ and equatorial trough"
+    },
+    {
+        "question": "The ITCZ plays a crucial role in which of the following?",
+        "options": [
+            "Creating deserts in tropical regions",
+            "Influencing monsoon patterns and tropical rainfall distribution",
+            "Producing polar ice sheets",
+            "Forming the jet stream in mid-latitudes"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The seasonal movement of the ITCZ is key in driving monsoon winds and determining wet and dry seasons in tropical regions.",
+        "kd": "Unit 1.8.3   2.11.1(d) seasonal pressure and frontal systems, including the ITCZ and equatorial trough"
+    },
+    {
+        "question": "Which of the following best describes the air movement in the ITCZ?",
+        "options": [
+            "Descending cold dry air",
+            "Stationary air mass with no movement",
+            "Horizontal wind flow only",
+            "Rising warm moist air"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "In the ITCZ, warm, moist air converges and rises due to intense surface heating, leading to cloud formation and precipitation.",
+        "kd": "Unit 1.8.3   2.11.1(d) seasonal pressure and frontal systems, including the ITCZ and equatorial trough"
+    },
+    {
+        "question": "Which of the following weather hazards should be reported in a routine AIREP if encountered?",
+        "options": [
+            "Wind shear",
+            "Clear air turbulence (CAT)",
+            "Severe mountain wave activity",
+            "All of the above"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "All these conditions \u2014 wind shear, CAT, and mountain wave activity \u2014 are hazardous and should be reported via AIREP to inform other pilots and air traffic services.",
+        "kd": "Unit 1.8.3   2.10.5 List the conditions that require a pilot to submit a short AIREP"
+    },
+    {
+        "question": "In Australian airspace, to whom should a pilot report a Special AIREP?",
+        "options": [
+            "Through Air Traffic Control (ATC) or via automatic datalink where available",
+            "Directly to the Bureau of Meteorology",
+            "On the nearest CTAF to inform all pilots operating on that frequency"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Pilots submit AIREP SPECIALs via ATC or datalink (e.g., ACARS). This ensures that both ATC and meteorological services are promptly informed. See AIP ENR 1.1 Appendix I",
+        "kd": "Unit 1.8.3   2.10.5 List the conditions that require a pilot to submit a short AIREP"
+    },
+    {
+        "question": "On which frequency bands are VOLMET broadcasts usually transmitted?",
+        "options": [
+            "UHF only",
+            "AM radio frequencies",
+            "VHF and HF bands",
+            "VHF only"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "VOLMET broadcasts are transmitted on both VHF (typically for local/regional coverage) and HF (for long-range international flights) frequencies.",
+        "kd": "Unit 1.8.3   2.10.6 State the purpose of VOLMET and ATIS broadcasts indicate how this information is obtained and apply this information to practical scenarios"
+    },
+    {
+        "question": "What is VOLMET in aviation?",
+        "options": [
+            "A volcanic ash report",
+            "An automatic terminal information service",
+            "A continuous broadcast of meteorological information for aircraft in flight",
+            "a collision avoidance system"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "VOLMET provides continuous broadcasts of weather reports (such as METARs and TAFs) specifically for pilots in flight to assist with operational decision-making and situational awareness.",
+        "kd": "Unit 1.8.3   2.10.6 State the purpose of VOLMET and ATIS broadcasts indicate how this information is obtained and apply this information to practical scenarios"
+    },
+    {
+        "question": "What type of weather is commonly associated with an occluded front?",
+        "options": [
+            "Clear skies and calm winds",
+            "Hot, dry conditions with increased visibility",
+            "Dust storms and strong surface heating",
+            "Prolonged periods of cloudiness and precipitation"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Occluded fronts often bring extended cloud cover, steady precipitation, and overcast conditions because warm air is lifted above cooler air, promoting widespread cloud development.",
+        "kd": "Unit 1.8.3   2.7.2(d) cloud type and approximate amount, preciptation"
+    },
+    {
+        "question": "Which of the following cloud sequences would you most likely observe when flying through an occluded front?",
+        "options": [
+            "Clear skies transitioning to cumulonimbus only",
+            "Cirrus \u2192 Altostratus \u2192 Nimbostratus \u2192 Stratus",
+            "Stratocumulus only",
+            "No significant cloud changes"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "This cloud sequence is typical as the front approaches and passes: high clouds first, then mid-level, followed by thick low clouds, often with steady rain or snow.",
+        "kd": "Unit 1.8.3   2.7.2(d) cloud type and approximate amount, preciptation"
+    },
+    {
+        "question": "What is the main difference between a gust and a squall?",
+        "options": [
+            "There is no difference",
+            "Gusts are sustained, squalls are momentary",
+            "Gusts are short-lived, squalls are longer and more sustained",
+            "Gusts only occur in winter, squalls in summer"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Gusts are brief, typically lasting only a few seconds, while squalls involve a rapid increase in wind speed that persists for a longer duration (over one minute), often with severe weather.",
+        "kd": "Unit 1.8.3   2.6.2(a) squalls and gusts"
+    },
+    {
+        "question": "Which of the following METAR elements indicates the presence of wind gusts?",
+        "options": [
+            "VRB05KT",
+            "18015G25KT",
+            "22010KT",
+            "CAVOK"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "In METARs, gusts are indicated by the\u00a0\u2018G\u2019\u00a0in the wind group (e.g.,\u00a018015G25KT), meaning a sustained wind of 15 knots with gusts reaching 25 knots.",
+        "kd": "Unit 1.8.3   2.6.2(a) squalls and gusts"
+    },
+    {
+        "question": "During pre-flight planning, which weather warning product would alert pilots to potential squalls?",
+        "options": [
+            "METAR only",
+            "TAF only",
+            "NOTAM",
+            "SIGMET"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "SIGMETs\u00a0provide warnings of significant weather phenomena like squalls, severe turbulence, and thunderstorms that may affect the safety of aircraft in flight.",
+        "kd": "Unit 1.8.3   2.6.2(a) squalls and gusts"
+    },
+    {
+        "question": "Mist differs from fog primarily by:",
+        "options": [
+            "Temperature of formation",
+            "Particle size only",
+            "Visibility distance",
+            "Presence of ice crystals"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Mist occurs when visibility is reduced to between\u00a01,000 m and 5,000 m, whereas fog reduces visibility to\u00a0less than 1,000 m.",
+        "kd": "Unit 1.8.3   2.5.1 Know the method used in meteorological forecasts and reports to determine visibility"
+    },
+    {
+        "question": "What usually occurs when cumulus clouds transform into stratocumulus clouds?",
+        "options": [
+            "subsistence inversion",
+            "surface inversion",
+            "cold front",
+            "occuluded front"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "When a cumulus cloud transitions to stratocumulus, it typically involves a strong inversion layer above the cumulus cloud, which\u00a0causes the cloud to flatten and spread horizontally.\u00a0This process, often triggered by subsidence (sinking air), leads to the formation of a sheet-like stratocumulus cloud.",
+        "kd": "Unit 1.8.3   2.8.2(vii) inversions and fog"
+    },
+    {
+        "question": "During winter, what direction are the winds in the Australian tropic east coast?",
+        "options": [
+            "East",
+            "West",
+            "North Easterly",
+            "South Easterly"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "During winter, winds on the Australian tropical east coast generally blow\u00a0from the east or southeast.\u00a0These are known as the southeasterly trade winds.\u00a0The Australian tropics are influenced by trade winds, which are consistent winds blowing from the east or southeast in the Southern Hemisphere.",
+        "kd": "Unit 1.8.3   2.11.1(d) seasonal pressure and frontal systems, including the ITCZ and equatorial trough"
+    },
+    {
+        "question": "What does a \u201ccol\u201d represent on an aviation weather map?",
+        "options": [
+            "An area of high pressure between two lows",
+            "An area of low pressure between two highs",
+            "A region where two high-pressure areas meet causing weak pressure gradient",
+            "A strong frontal boundary with rapid weather changes"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A col on a weather map is a neutral or saddle point between two high-pressure and two low-pressure areas. It is characterized by weak pressure gradients and often light, variable winds and unsettled weather conditions.",
+        "kd": "Unit 1.8.3   2.9.1(b) a trough, a ridge, a col"
+    },
+    {
+        "question": "What does a \u201cridge\u201d represent on an aviation weather map?",
+        "options": [
+            "A zone of low pressure between two highs",
+            "A narrow band of thunderstorms",
+            "A region of rapidly falling air pressure",
+            "An elongated area of high pressure"
+        ],
+        "correct": 3,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A ridge is an extended area of relatively high atmospheric pressure, often associated with fair weather and descending air. It typically leads to more stable flying conditions.",
+        "kd": "Unit 1.8.3   2.9.1(b) a trough, a ridge, a col"
+    },
+    {
+        "question": "What is the primary difference between a ridge and a trough on an aviation weather map?",
+        "options": [
+            "A ridge is an elongated area of high pressure; a trough is an elongated area of low pressure",
+            "A ridge is an elongated area of low pressure; a trough is an elongated area of high pressure",
+            "A ridge is associated with stormy weather; a trough with clear skies",
+            "A ridge causes rising air; a trough causes descending air"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A ridge represents an extended area of high pressure, typically linked to stable, fair weather and descending air. A trough represents an extended area of low pressure, often associated with instability, rising air, and potentially unsettled weather.",
+        "kd": "Unit 1.8.3   2.9.1(b) a trough, a ridge, a col"
+    },
+    {
+        "question": "Which of the following conditions would be most conducive to the formation of a thunderstorm?",
+        "options": [
+            "A warm moist airstream moving towards the poles",
+            "A cold moist airstream moving towards the equator",
+            "A warm moist airstream moving towards the equator",
+            "A cold moist airstream moving towards the poles"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.8.2(viii) thunderstorms and microbursts"
+    },
+    {
+        "question": "During what stage of a thunderstorm would lightning be most active?",
+        "options": [
+            "Cumuluative",
+            "Mature",
+            "Dissipating",
+            "End"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "The mature stage is when the storm has both strong updrafts and downdrafts. This causes intense collision of ice particles and water droplets, leading to charge separation inside the cloud. As a result electrical buildup triggers frequent and intense lightning.",
+        "kd": "Unit 1.8.3   2.8.2(viii) thunderstorms and microbursts"
+    },
+    {
+        "question": "An approaching fast moving cold front may sometimes be recognised by the accompanying :",
+        "options": [
+            "Overcast NS cloud and heavy rain",
+            "Low ST cloud and widespread drizzle",
+            "Broken CU cloud and rain showers",
+            "Widespread fog"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "A fast-moving cold front is typically associated with a narrow band of intense weather. Nimbostratus (NS) clouds producing heavy, steady rain are characteristic of the frontal zone just ahead of or along the cold front.",
+        "kd": null
+    },
+    {
+        "question": "Which hazard is normally associated with mountain waves-",
+        "options": [
+            "Dust Storms",
+            "Hail",
+            "Turbulence",
+            "Icing"
+        ],
+        "correct": 2,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Severe turbulence, especially in rotor zones, is the primary hazard associated with mountain waves.",
+        "kd": "Unit 1.8.3   2.8.2(v) mountain waves and fohn winds"
+    },
+    {
+        "question": "What are the necessary conditions for the formation of a tropical cyclone?",
+        "options": [
+            "High pressure system and cold ocean surface",
+            "Low pressure system with warm ocean surface",
+            "High pressure system and warm ocean surface",
+            "Low pressure system and cold ocean surface"
+        ],
+        "correct": 1,
+        "imageName": null,
+        "marks": 1,
+        "explanation": null,
+        "kd": "Unit 1.8.3   2.11.1(e) tropical cyclones"
+    },
+    {
+        "question": "What weather can be expected after a passage of a warm front?",
+        "options": [
+            "No significant weather and stable conditions",
+            "Heavy showers with nimbostratus clouds",
+            "Turbulent conditions",
+            "increased visibilty"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "After a warm front, the atmosphere is usually\u00a0more stable, leading to calm, often overcast conditions with minimal vertical cloud development.",
+        "kd": "Unit 1.8.3   2.7.1(b) warm fronts"
+    },
+    {
+        "question": "What weather is associated with a Stratocumulus cloud?",
+        "options": [
+            "Drizzle",
+            "Heavy Showers of Rain",
+            "Clear stable conditions",
+            "increased visibility"
+        ],
+        "correct": 0,
+        "imageName": null,
+        "marks": 1,
+        "explanation": "Stratocumulus clouds usually bring dry or light precipitation with generally stable weather \u2014 not severe storms.",
+        "kd": null
+    
+
+    }
+  ]
+}

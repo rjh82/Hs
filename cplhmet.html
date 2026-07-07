@@ -1,0 +1,1064 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CPL(H) Meteorology Practice Exam</title>
+        <link rel="icon" type="image/png" href="images/favicon.png">
+    
+    <style> 
+    body { 
+    font-family: Arial, sans-serif; 
+    background: #fdfdfd; 
+    display: flex; 
+    justify-content: center; 
+    padding: 20px; 
+} 
+    
+.quiz-container {
+    background: #ffffff;
+    width: 100%;
+    max-width: 800px;   /* wider than before */
+
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    
+    display: flex;
+    flex-direction: column;
+
+    min-height: 70vh;   /* fill most of viewport vertically */
+    max-height: 90vh;   /* don’t exceed viewport */
+    overflow-y: auto;   /* scroll if content too tall */
+}
+
+
+#question {
+  white-space: pre-line;
+}
+
+.quiz-header { 
+display: flex; 
+justify-content: space-between; 
+align-items: center; 
+margin-bottom: 20px; 
+font-weight: bold; 
+font-size: 1rem; 
+color: #333; } 
+            
+.question-info { 
+font-weight: bold; /* bold for question count */ 
+font-size: 1.2rem; 
+color: #333; 
+} 
+
+#marks { 
+font-weight: normal; /* ensure marks are normal */ 
+color: #797979; 
+font-size: 1.0rem; } 
+
+.status-icon {
+display: inline-flex; 
+align-items: center; 
+justify-content: center; 
+width: 22px; 
+height: 22px; 
+border-radius: 50%; 
+color: white; 
+font-weight: bold; 
+margin-right: 8px; 
+font-size: 14px; } 
+
+.correct-icon { 
+background-color: #10b981; /* green */ 
+} 
+
+.incorrect-icon { 
+background-color: #ef4444; /* red */ 
+} 
+
+.danger-btn { 
+margin-top: 20px; 
+padding: 14px 28px; 
+font-size: 1.1rem; 
+font-weight: bold; 
+border-radius: 10px; 
+border: none; 
+background: linear-gradient(to right, #3b82f6, #2563eb); 
+color: white; cursor: pointer; 
+transition: all 0.3s ease; 
+display: inline-flex; 
+align-items: center; 
+gap: 10px; } 
+
+
+.danger-btn:hover {
+    background-color: #c9302c;
+}
+
+.answer-row { 
+display: flex; 
+justify-content: space-between; 
+align-items: center; }
+
+.review-marks { 
+font-weight: normal; 
+font-size: 0.95rem; 
+color: #555; 
+margin-left: 8px; } 
+
+.flag-icon:hover { transform: scale(1.2); } 
+
+.question-text { font-size: 1.2rem; margin-bottom: 20px; }
+
+.answer-options { display: flex; flex-direction: column; gap: 15px; margin-bottom: 20px; } 
+
+.answer-options button { 
+padding: 15px; 
+border-radius: 8px; 
+border: 1px solid #ccc; 
+background: #f5f5f5; 
+cursor: pointer; 
+font-size: 1rem; 
+text-align: left; 
+transition: all 0.2s; } 
+    
+.answer-options button:hover { 
+background: #e0f0ff; } 
+        
+.answer-options button.selected { 
+border-color: #3b82f6; 
+background: #d0e7ff; } 
+            
+.answer-options button.correct { 
+                
+background-color: #d1fae5; 
+border-color: #10b981; } 
+                
+.answer-options button.incorrect {
+background-color: #fee2e2; 
+border-color: #ef4444; } 
+                     
+.quiz-navigation { 
+display: flex; 
+justify-content: space-between; } 
+                     
+.quiz-navigation button { 
+display: flex; 
+align-items: center; 
+justify-content: center; 
+gap: 8px; /* space between text and arrow */
+padding: 15px 50px; 
+font-size: 1.1rem; 
+border-radius: 10px; 
+border: none; 
+cursor: pointer; 
+font-weight: bold; transition: all 0.2s; } 
+
+#next-btn { 
+background-color: #3b82f6; /* blue */ 
+color: white; } 
+
+#prev-btn { 
+background-color: #e5e7eb; /* light grey */ 
+color: #333; } 
+
+
+#results-container { 
+text-align: center; } 
+
+#review-container h2 {
+    text-align: center;
+}
+
+.results-buttons {
+    display: flex;
+    flex-direction: column;   /* stack vertically */
+    align-items: center;      /* center horizontally */
+    gap: 12px;                /* space between buttons */
+    margin-top: 20px;
+}
+
+.results-buttons .results-button {
+    width: 200px;               /* equal width */
+    display: flex;              /* make flex container */
+    justify-content: center;    /* center text horizontally */
+    align-items: center;        /* center text vertically */
+    text-align: center;         /* fallback for multi-line text */
+    padding: 14px 28px;
+    gap: 8px;         /* optional spacing */
+}
+
+.results-button { 
+margin-top: 8px; 
+padding: 14px 28px; 
+font-size: 1.1rem; 
+font-weight: bold; 
+border-radius: 10px; 
+border: none; 
+background: linear-gradient(to right, #3b82f6, #2563eb); 
+color: white; cursor: pointer; 
+transition: all 0.3s ease; 
+display: inline-flex; 
+align-items: center; 
+gap: 6px; } 
+
+.results-button:hover { 
+transform: scale(1.05); 
+box-shadow: 0 4px 10px rgba(0,0,0,0.2); } 
+    
+.results-button:active { 
+transform: scale(0.98); } .review-question-header { 
+display: flex; 
+justify-content: space-between; 
+align-items: center; } 
+
+.filter-button {
+  margin-top: 20px; 
+padding: 12px 20px; 
+font-size: 1rem; 
+border-radius: 8px; 
+border: none; 
+background: #ef0000; 
+color: white; 
+cursor: pointer; 
+font-weight: bold; 
+width: 250px; /* make both buttons identical width */ 
+text-align: center; 
+}
+
+.filter-icon {
+    transition: transform 0.3s ease;
+}
+
+/* Animation trigger */
+.filter-icon.animate {
+    transform: rotate(180deg) scale(1.2);
+}
+
+.filter-button:hover { 
+background: #c80000; 
+transform: scale(1.03); } 
+
+.filter-button.active {
+    background: #00bf16;   /* red when filtering */
+    color: white;
+}
+
+.filter-button.active:hover { 
+background: #00850f; 
+transform: scale(1.03); } 
+
+.review-flag { 
+font-size: 1.3rem; } .question-image { 
+max-width: 100%; 
+max-height: 300px; 
+display: block; 
+margin: 15px auto; 
+border-radius: 8px; 
+object-fit: contain; } /* Hover effect for buttons */ 
+
+.quiz-navigation button:hover { 
+transform: scale(1.05); } 
+
+.kd-button { 
+margin-top: 10px; 
+padding: 8px 14px; 
+font-size: 0.95rem; 
+border-radius: 8px; 
+border: none; 
+background-color: #6b7280; 
+color: white; 
+cursor: pointer; 
+transition: all 0.2s; } 
+
+.kd-summary-button:hover { 
+background: #2563eb; 
+transform: scale(1.03); } 
+
+.kd-text { 
+margin-top: 10px; 
+padding: 12px; 
+background: #f3f4f6; 
+border-radius: 8px; 
+font-size: 0.95rem; 
+display: none; } 
+
+.kd-summary-button { 
+margin-top: 20px; 
+padding: 12px 20px; 
+font-size: 1rem; 
+border-radius: 8px; 
+border: none; 
+background: #3b82f6; 
+color: white; 
+cursor: pointer; 
+font-weight: bold; 
+width: 300px; /* make both buttons identical width */ 
+text-align: center; } 
+
+.kd-summary-button:hover { 
+background: #2563eb; } 
+
+.flag-icon { 
+cursor: pointer; 
+font-size: 1.2rem; 
+opacity: 0.35; /* solid by default */ 
+transition: opacity 0.2s ease; } 
+
+.flag-icon.flagged { 
+opacity: 1; /* faded when selected */ } 
+
+.quiz-layout {
+    display: flex;
+    flex-direction: column;   /* stack nav ABOVE content */
+    align-items: center;
+    width: 100%;
+}
+
+.exit-review-button {
+ margin-top: 20px; 
+padding: 12px 20px; 
+font-size: 1rem; 
+border-radius: 8px; 
+border: none; 
+background: #3b82f6; 
+color: white; 
+cursor: pointer; 
+font-weight: bold; 
+width: 250px; /* make both buttons identical width */ 
+text-align: center; } 
+
+.exit-review-button:hover {
+background: #2563eb; 
+transform: scale(1.03); 
+}
+
+
+.question-nav {
+    display: flex;
+    flex-direction: row;      /* horizontal */
+    flex-wrap: wrap;          /* allow multiple rows if needed */
+    justify-content: center;  /* center horizontally */
+
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px 0;
+    gap: 8px;
+}
+
+.quiz-center-wrapper {
+    flex: 1;                      /* take remaining space */
+    display: flex;
+    justify-content: center;      /* center the quiz horizontally */
+}
+
+.quiz-content {
+    width: 100%;
+    max-width: 900px;   /* or whatever width you prefer */
+}
+
+/* Individual number boxes */ 
+.nav-box { 
+width: 30px; 
+height: 30px; 
+display: flex; 
+flex-direction: row;  
+align-items: center; 
+justify-content: center; 
+border-radius: 6px; 
+border: 1px solid #ccc; 
+cursor: pointer; 
+font-weight: bold; 
+background: #f3f4f6; 
+transition: all 0.2s; } 
+
+/* Current question */ 
+.nav-box.active { 
+background: #3b82f6; 
+color: white; } 
+
+/* Answered questions */ 
+.nav-box.answered { 
+background: #939393; 
+border-color: #070707; } 
+
+/* Flagged questions */
+.nav-box.flagged { 
+border: 2px solid red; } 
+
+/* Hover effect */ 
+.nav-box:hover { transform: scale(1.05); } 
+
+#next-btn:disabled { opacity: 0.5; cursor: not-allowed; } 
+
+#next-btn { background-color: #3b82f6; color: white; } 
+
+#prev-btn { background-color: #e5e7eb; color: #333; } 
+
+#explanation { margin-top: 15px; font-style: italic; font-size: 0.95rem; color: #555; } 
+
+#timer { 
+margin-top: 20px; 
+font-weight: bold; 
+text-align: center; 
+font-size: 1.1rem;
+color: #333; } 
+
+.question-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 15px 0;
+    border-radius: 8px;
+     position: relative;
+    z-index: 0;
+}
+
+@media (max-width: 768px) {
+
+    .quiz-layout {
+        display: flex;
+        flex-direction: column;   /* stack everything */
+        align-items: center;
+        width: 100%;
+    }
+
+    .question-nav {
+        display: flex;
+        flex-direction: row;      /* horizontal */
+        flex-wrap: wrap;          /* wrap if many questions */
+        justify-content: center;
+
+        width: 100%;
+        margin: 0 0 15px 0;       /* space below nav */
+        padding: 10px 0;
+        gap: 8px;
+
+        order: -1;                /* ensures it stays at the top */
+    }
+
+    .quiz-container {
+        width: 95%;
+        max-width: 95%;
+        padding: 20px;
+    }
+
+
+ .quiz-navigation {
+    display: flex;
+    flex-direction: row;      /* side by side */
+    justify-content: space-between;
+    gap: 10px;
+    width: 100%;
+}
+
+.quiz-navigation button {
+    width: 49%;               /* equal width side by side */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    white-space: nowrap;      /* prevents line break */
+    padding: 16px 20px;
+    font-size: 0.95rem;
+}
+    .answer-options button {
+        color: #000;              /* Force black text */
+        -webkit-text-fill-color: #000; /* Extra fix for iOS Safari */
+    }
+
+}
+</style> 
+</head> 
+
+<body> 
+<div class="quiz-container" id="main-quiz-container">
+
+  <div class="quiz-layout">
+      <!-- LEFT NAV PANEL -->
+      <div class="question-nav" id="question-nav"></div>
+ <div class="quiz-center-wrapper"></div>
+      <div class="quiz-content">
+
+
+    <header class="quiz-header"> 
+    <div class="question-info"> 
+    Question <span id="current-question">1</span> of <span id="total-questions">10</span> 
+    <span id="marks">(1 mark)</span> 
+</div> 
+    
+<div class="flag-icon" id="flag-btn" title="Flag this question">🚩</div> 
+</header> 
+
+<div class="question-text" id="question">Loading question...</div> 
+<img id="question-image" class="question-image" style="display:none;" /> 
+
+<div class="answer-options" id="answer-options"></div> 
+
+<div id="explanation"></div> <div class="quiz-navigation"> <button id="prev-btn">⬅ Back</button> <button id="next-btn" disabled>Next ➡ </button> </div> 
+
+<div id="timer">Time left: 00:00</div> 
+
+</div> 
+</div> 
+</div> 
+</div>
+
+
+<div class="quiz-container" id="results-container" style="display:none;"> 
+    <h2>Practice Exam Complete!</h2> 
+    <p id="score-text"></p> 
+    <p id="percentage-text"></p> 
+    <p id="passfail-text"></p> 
+    <div class="results-buttons">
+    <button id="review-btn" class="results-button">Review Answers</button>
+    <button id="restart-btn" class="results-button">Restart</button>
+</div>
+    
+     </div> 
+     
+     <!-- Review Container --> 
+      <div class="quiz-container" id="review-container" style="display:none;"> 
+        <h2>Review Answers</h2> 
+        <div id="review-questions"></div> 
+        </div> 
+        
+        <div id="kd-container" style="display:none;" class="quiz-container"> 
+            <h2>Knowledge Deficiencies Summary</h2> 
+            
+            <div id="kd-list"></div> 
+            
+<button class="kd-summary-button" 
+        onclick="returnToReview()" 
+        style="display: block; margin: 20px auto;">
+    ⤶ Back to Review
+</button>
+
+
+            
+            <script> 
+            let currentQuestion = 0; 
+            let questions = []; 
+            let userAnswers = []; 
+            let totalTime = 3000; // 5 minutes default 
+            let timerInterval; 
+            let flaggedQuestions = []; 
+            let showIncorrectOnly = false; // for review filter
+            
+            const questionEl = document.getElementById("question"); 
+            const answerOptionsEl = document.getElementById("answer-options"); 
+            const nextBtn = document.getElementById("next-btn"); 
+            const prevBtn = document.getElementById("prev-btn"); 
+            const currentQuestionEl = document.getElementById("current-question"); 
+            const totalQuestionsEl = document.getElementById("total-questions"); 
+            const marksEl = document.getElementById("marks"); 
+            const flagBtn = document.getElementById("flag-btn"); 
+            const timerEl = document.getElementById("timer"); 
+            const jsonURL = "cplhmet.json"; 
+            
+            function getRandomQuestions(arr, n) { 
+                const shuffled = [...arr].sort(() => 0.5 - Math.random()); return shuffled.slice(0, n); } 
+                
+fetch(jsonURL) 
+.then(res => res.json()) 
+.then(data => { 
+    // Pick 5 questions at random 
+    questions = getRandomQuestions(data.questions, 30); 
+    
+    totalQuestionsEl.textContent = questions.length; 
+    userAnswers = Array(questions.length).fill(undefined); 
+    
+    startTimer(); // if you have a timer 
+    renderQuestion(); }) 
+    .catch(err => { 
+        console.error("Failed to load JSON:", err); 
+        questionEl.textContent = "Failed to load questions. Check JSON path and format."; }); 
+        
+function renderQuestion() { 
+    if(!questions[currentQuestion]) return; 
+    
+    prevBtn.disabled = currentQuestion === 0; 
+    nextBtn.textContent = currentQuestion === questions.length - 1 ? "Submit" : "Next ➡"; 
+    
+    const q = questions[currentQuestion]; 
+    const imageEl = document.getElementById("question-image"); 
+    if (q.imageName) { 
+    imageEl.src = "images/" + q.imageName; 
+    imageEl.style.display = "block"; 
+} else { imageEl.style.display = "none"; 
+
+}
+
+currentQuestionEl.textContent = currentQuestion + 1;
+
+renderQuestionNav();
+
+
+
+questionEl.textContent = q.question; 
+
+currentQuestionEl.textContent = currentQuestion + 1; 
+totalQuestionsEl.textContent = questions.length; 
+marksEl.textContent = `(${q.marks} mark${q.marks === 1 ? '' : 's'})`;
+
+
+answerOptionsEl.innerHTML = ""; 
+q.options.forEach((ans, i) => { 
+const btn = document.createElement("button"); 
+const letter = getOptionLetter(i); 
+
+// Use innerHTML so we can bold the letter 
+ 
+btn.innerHTML = `<b>${letter})</b> ${ans}`;
+btn.addEventListener("click", () => selectAnswer(btn, i)); 
+answerOptionsEl.appendChild(btn); }); 
+
+// restore selection 
+ 
+if(userAnswers[currentQuestion] !== undefined){ 
+    const prevSelected = answerOptionsEl.children[userAnswers[currentQuestion]]; 
+    prevSelected.classList.add("selected"); 
+    nextBtn.disabled = false; } 
+    
+    document.getElementById("explanation").textContent = ""; 
+    if (flaggedQuestions.includes(currentQuestion)) { 
+        flagBtn.classList.add("flagged");
+     } else { 
+        flagBtn.classList.remove("flagged"); 
+    } 
+    
+    currentQuestionEl.textContent = currentQuestion + 1; } 
+    
+function getOptionLetter(index) { 
+    return String.fromCharCode(97 + index); // 97 = 'a' } 
+}
+    
+function selectAnswer(button, index) { // Store the user's selection 
+userAnswers[currentQuestion] = index; 
+
+// Highlight the selected option visually (optional) 
+Array.from(answerOptionsEl.children).forEach(btn => btn.classList.remove("selected")); button.classList.add("selected"); 
+
+// Enable Next / Submit button 
+nextBtn.disabled = false; 
+
+// Remove any immediate explanation display 
+document.getElementById("explanation").textContent = "";
+
+renderQuestionNav();
+
+ } 
+
+nextBtn.addEventListener("click", () => { 
+    if (currentQuestion < questions.length - 1) { currentQuestion++; renderQuestion();
+
+     } else { 
+        showResults(); } }); 
+        
+        prevBtn.addEventListener("click",()=>{ 
+            if(currentQuestion>0){ 
+                currentQuestion--; 
+                renderQuestion(); } 
+            currentQuestionEl.textContent = currentQuestion + 1;
+
+renderQuestionNav();
+
+            }); 
+                
+function renderQuestionNav() { 
+    const nav = document.getElementById("question-nav"); nav.innerHTML = ""; 
+    
+    questions.forEach((_, index) => { 
+        const box = document.createElement("div"); 
+        box.className = "nav-box"; 
+        box.textContent = index + 1; 
+        
+        // Highlight current question 
+        if (index === currentQuestion) { 
+            box.classList.add("active"); } 
+            
+    // Mark answered questions 
+    if (userAnswers[index] !== undefined) { 
+        box.classList.add("answered"); } 
+        
+        // Mark flagged questions 
+        if (flaggedQuestions.includes(index)) { 
+            box.classList.add("flagged"); } 
+            
+        // Clicking navigates to that question 
+        box.addEventListener("click", () => { 
+            currentQuestion = index; 
+            renderQuestion(); }); 
+            
+            nav.appendChild(box); }); } 
+            
+function showResults() { 
+    document.getElementById("main-quiz-container").style.display = "none";
+
+    // 
+    
+    const totalMarks = questions.reduce((sum, q) => sum + q.marks, 0); 
+    let score = 0; 
+    questions.forEach((q, idx) => { 
+        if (userAnswers[idx] === q.correct) score += q.marks; }); 
+        const percentage = Math.round((score / totalMarks) * 100); 
+        
+        const resultsContainer = 
+        document.getElementById("results-container"); 
+        resultsContainer.style.display = "block"; 
+        
+document.getElementById("score-text").innerHTML =
+    `<strong>Score:</strong> ${score} / ${totalMarks}`;
+
+document.getElementById("percentage-text").innerHTML =
+    `<strong>Percentage:</strong> ${percentage}%`;
+
+
+let resultText;
+
+if (percentage === 100) {
+    resultText = "Top score, you have achieved 100%! 🏆";
+} else if (percentage >= 70) {
+    resultText = "Well done, you have passed. ✅";
+} else {
+    resultText = "You did not pass, keep practising. ❌";
+}
+
+document.getElementById("passfail-text").innerHTML = resultText;
+
+
+        document.getElementById("review-btn").onclick = showReviewPage; 
+        document.getElementById("restart-btn").onclick = restartQuiz;
+
+    
+       
+    } 
+        
+        
+function showReviewPage() { 
+    document.getElementById("results-container").style.display = "none"; 
+    
+const reviewContainer = document.getElementById("review-container"); 
+const reviewQuestions = document.getElementById("review-questions"); 
+reviewQuestions.innerHTML = ""; 
+reviewContainer.style.display = "block"; 
+
+
+// Exit Review Button
+const exitButton = document.createElement("button");
+exitButton.textContent = "⬅ Back";
+exitButton.className = "exit-review-button";
+exitButton.onclick = exitReview;
+
+// 🔷 FILTER BUTTON (TOP)
+const topBar = document.createElement("div");
+topBar.style.display = "flex";
+topBar.style.justifyContent = "center";
+topBar.style.alignItems = "center";
+topBar.style.gap = "15px";
+topBar.style.marginBottom = "20px";
+topBar.style.flexWrap = "wrap"; // mobile friendly
+
+const filterBtn = document.createElement("button");
+filterBtn.className = "filter-button";
+
+function updateFilterText() {
+    filterBtn.innerHTML = `
+        <svg class="filter-icon" width="16" height="16" viewBox="0 0 24 24" fill="white">
+            <path d="M3 4h18l-7 8v6l-4 2v-8L3 4z"/>
+        </svg>
+        ${showIncorrectOnly ? "Show All" : "Show Incorrect Only"}
+    `;
+
+    // ✅ Toggle active colour
+    if (showIncorrectOnly) {
+        filterBtn.classList.add("active");
+    } else {
+        filterBtn.classList.remove("active");
+    }
+}
+
+// Initial render
+updateFilterText();
+
+filterBtn.onclick = () => {
+    showIncorrectOnly = !showIncorrectOnly;
+    showReviewPage(); // re-render page
+};
+
+// ✅ STEP 4 GOES HERE
+topBar.appendChild(exitButton);
+topBar.appendChild(filterBtn);
+
+// Add to page
+reviewQuestions.appendChild(topBar);
+
+
+
+
+questions.forEach((q, idx) => { 
+    const userAnswerIndex = userAnswers[idx]; 
+    const correctIndex = q.correct; 
+    
+    const questionDiv = document.createElement("div"); 
+    questionDiv.style.marginBottom = "20px"; 
+    
+    const isCorrect = userAnswerIndex === correctIndex;
+    if (showIncorrectOnly && isCorrect) return;
+    const iconHTML = isCorrect ? '<span class="status-icon correct-icon">✓</span>' 
+    : '<span class="status-icon incorrect-icon">✕</span>'; 
+    
+    const marksEarned = isCorrect ? q.marks : 0; 
+    const isFlagged = flaggedQuestions.includes(idx); 
+    const flagHTML = isFlagged 
+    ? '<span class="review-flag">🚩</span>' : ''; 
+    
+const explanationHTML = q.explanation && q.explanation.trim()
+    ? `<p><b>Explanation:</b> <i>${q.explanation}</i></p>`
+    : '';
+    
+questionDiv.innerHTML = `
+    <p class="question-text review-question-header">     
+        <span> 
+            <b>Q${idx + 1}:</b> ${q.question} 
+            <span class="review-marks">(${marksEarned} / ${q.marks} mark${q.marks === 1 ? '' : 's'})</span> 
+        </span> 
+        ${flagHTML} 
+    </p> 
+
+    <p class="answer-row"> 
+        <span> 
+            <b>Your answer:</b> ${userAnswerIndex !== undefined ? q.options[userAnswerIndex] : "No answer"} 
+        </span> 
+        ${iconHTML} 
+    </p> 
+                
+    <p><b>Correct answer:</b> ${q.options[correctIndex]}</p> 
+    
+    ${explanationHTML}
+    
+    <hr>`;
+                reviewQuestions.appendChild(questionDiv); }); 
+                
+                // Add single KD summary button at bottom 
+                // KD button wrapper (your current code) 
+                // Create a wrapper div to center buttons 
+            const btnWrapper = document.createElement("div"); 
+            btnWrapper.style.textAlign = "center"; 
+            btnWrapper.style.marginTop = "20px"; // spacing from review questions 
+            // 
+
+
+
+            // KD Button 
+            const kdButton = document.createElement("button"); 
+            kdButton.textContent = "View Knowledge Deficiencies"; 
+            kdButton.className = "kd-summary-button"; 
+            kdButton.onclick = showKDPage; 
+            kdButton.style.display = "block"; // stack vertically 
+            kdButton.style.margin = "0 auto 10px"; // center + spacing below 
+             
+            // Restart Button 
+            const restartButton = 
+            document.createElement("button"); 
+            restartButton.textContent = "Restart Quiz"; 
+            restartButton.className = "kd-summary-button"; 
+            restartButton.onclick = restartQuiz; 
+            restartButton.style.display = "block"; 
+            restartButton.style.margin = "0 auto"; // center 
+             
+            // Add buttons to wrapper 
+           
+            btnWrapper.appendChild(kdButton); 
+           
+            
+            // Append wrapper to reviewQuestions
+            reviewQuestions.appendChild(btnWrapper); } 
+            
+            flagBtn.addEventListener("click", () => { 
+                if (flaggedQuestions.includes(currentQuestion)) { 
+                flaggedQuestions = flaggedQuestions.filter(q => q !== currentQuestion); 
+                flagBtn.classList.remove("flagged");
+             } else { 
+                flaggedQuestions.push(currentQuestion); 
+                flagBtn.classList.add("flagged"); 
+
+             }
+
+                  renderQuestionNav();
+             }); 
+            
+            function toggleKD(index) { 
+            const el = document.getElementById("kd-" + index); 
+            
+            if (el.style.display === "none" || el.style.display === "") { el.style.display = "block";
+
+             } else { 
+                el.style.display = "none"; 
+            } 
+        } 
+        
+        function startTimer(){ 
+            let timeLeft = totalTime; 
+            updateTimer(timeLeft); 
+            
+            timerInterval = setInterval(()=>{ 
+                timeLeft--; updateTimer(timeLeft); 
+                
+                if(timeLeft <= 0){ 
+                    clearInterval(timerInterval); 
+                    
+            timerEl.textContent = "Time is up!"; 
+            document.querySelector(".quiz-container").style.display = "none"; 
+            
+            showResults();
+         } 
+        },1000); 
+    } 
+    
+    function showKDPage() { 
+        document.getElementById("review-container").style.display = "none"; 
+        document.getElementById("kd-container").style.display = "block"; 
+        
+        const kdList = document.getElementById("kd-list"); 
+        kdList.innerHTML = ""; 
+        
+        let foundAny = false; 
+        
+        questions.forEach((q, idx) => { 
+            const isCorrect = userAnswers[idx] === q.correct; 
+            
+            if (!isCorrect && q.kd) { 
+                foundAny = true; 
+                
+       const div = document.createElement("div");
+
+div.innerHTML = `<p><b>•</b> ${q.kd}</p>`;
+
+        
+        kdList.appendChild(div); 
+    } 
+}); 
+
+if (!foundAny) { 
+    kdList.innerHTML = "<p>No knowledge deficiencies identified – great work!</p>"; 
+} 
+} 
+
+function restartQuiz() { 
+       document.getElementById("results-container").style.display = "none";
+   
+    // Hide review container 
+    document.getElementById("review-container").style.display = "none"; 
+    
+    // Reset state 
+    currentQuestion = 0; 
+    userAnswers = []; 
+    flaggedQuestions = []; 
+    
+    // Fetch the JSON again (or reuse already loaded data) 
+    fetch(jsonURL) 
+    .then(res => res.json()) 
+    .then(data => { 
+        // Pick 5 random questions 
+    questions = getRandomQuestions(data.questions, 30); 
+    
+    // Initialize user answers 
+    userAnswers = Array(questions.length).fill(undefined); 
+    
+    // 🔄 Re-render navigation immediately
+    renderQuestionNav();   
+
+    // Show main quiz container 
+    document.getElementById("main-quiz-container").style.display = "flex";
+
+    
+    // Reset buttons 
+    prevBtn.disabled = true; 
+    
+    // Reset timer 
+    clearInterval(timerInterval); 
+    startTimer(); 
+    timerEl.style.color = "#333";
+
+    
+    // Render first question 
+    renderQuestion(); 
+})
+ .catch(err => { 
+    console.error("Failed to reload JSON:", err); 
+    questionEl.textContent = "Failed to load questions. Check JSON path and format."; 
+}); 
+} 
+
+function goToNextQuestion() {
+    if (currentQuestion < questions.length - 1) {
+        currentQuestion++;
+        renderQuestion();
+        renderQuestionNav();
+    }
+}
+
+function goToPreviousQuestion() {
+    if (currentQuestion > 0) {
+        currentQuestion--;
+        renderQuestion();
+        renderQuestionNav();
+    }
+}
+document.addEventListener("keydown", function (event) {
+
+    // Ignore if user is typing in an input field
+    if (event.target.tagName === "INPUT" || event.target.tagName === "TEXTAREA") {
+        return;
+    }
+
+    if (event.key === "ArrowRight") {
+        goToNextQuestion();
+    }
+
+    if (event.key === "ArrowLeft") {
+        goToPreviousQuestion();
+    }
+
+});
+
+function exitReview() {
+    document.getElementById("review-container").style.display = "none";
+    document.getElementById("results-container").style.display = "block";
+}
+
+
+function returnToReview() { 
+    document.getElementById("kd-container").style.display = "none"; 
+    document.getElementById("review-container").style.display = "block"; 
+} 
+
+function updateTimer(seconds){ 
+    const h = Math.floor(seconds / 3600);
+    const m = Math.floor((seconds % 3600) / 60); 
+    const s = seconds % 60; 
+
+    if (h > 0) {
+        timerEl.textContent = `Time left: ${h}:${
+            m.toString().padStart(2,'0')
+        }:${
+            s.toString().padStart(2,'0')
+        }`;
+    } else {
+        timerEl.textContent = `Time left: ${
+            m.toString().padStart(2,'0')
+        }:${
+            s.toString().padStart(2,'0')
+        }`;
+    }
+
+    // Turn red at 5 minutes or less
+    if(seconds <= 300) timerEl.style.color = "red"; 
+    else timerEl.style.color = "#333";
+} 
+    
+    </script> 
+    </body> 
+    </html>
